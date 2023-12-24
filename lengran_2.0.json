@@ -6,10 +6,34 @@
     "headerURL": "https://avatars.githubusercontent.com/u/35867569?v=4",
     "website": "https://lengran1992.github.io/repo/",
     "tintColor": "#F54F32",
-    "featuredApps": ["org.haxi0.KillMyOTA", "org.haxi0.Derootifier", "org.haxi0.TrollLock"],
+    "featuredApps": ["", "", ""],
     "apps": [
         {
-            "name": "KillMyOTA",
+          "name": "StatusMagic",
+          "bundleIdentifier": "com.avangelista.StatusMagic",
+          "developerName": "Avangelista",
+          "subtitle": "Totally customise your status bar on iOS 14.0 - 16.1.2 with no jailbreak!",
+          "localizedDescription": "Totally customise your status bar on iOS 14.0 - 16.1.2 with no jailbreak!",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/StatusMagic.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/StatusMagic.png"
+          ],
+          "versions": [
+              {
+                "version": "1.0.2",
+                "date": "2023-02-08",
+                "localizedDescription": "Totally customise your status bar on iOS 14.0 - 16.1.2 with no jailbreak!",
+                "downloadURL": "https://github.com/haxi0/KillMyOTA/releases/download/1.1/KillMyOTA-1.1.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.1.2"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "KillMyOTA",
           "bundleIdentifier": "org.haxi0.KillMyOTA",
           "developerName": "haxi0",
           "subtitle": "Disable OTA updates on iOS 15.0-16.1.2 using the MDC exploit.",
@@ -31,7 +55,7 @@
               }
             ],
           "appPermissions": {}
-        }
+        },
     ],
     "news": []
   }
