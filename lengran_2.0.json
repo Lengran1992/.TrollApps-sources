@@ -33,25 +33,25 @@
           "appPermissions": {}
         },
         {
-          "name": "KillMyOTA",
-          "bundleIdentifier": "org.haxi0.KillMyOTA",
-          "developerName": "haxi0",
-          "subtitle": "Disable OTA updates on iOS 15.0-16.1.2 using the MDC exploit.",
-          "localizedDescription": "Disable OTA updates on iOS 15.0-16.1.2 using the MDC exploit.",
-          "iconURL": "https://raw.githubusercontent.com/haxi0/KillMyOTA/master/KillMyOTA/Assets.xcassets/AppIcon.appiconset/ios-marketing.png",
+          "name": "SecondHand",
+          "bundleIdentifier": "com.leemin.SecondHand",
+          "developerName": "leminlimez",
+          "subtitle": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1",
+          "localizedDescription": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/SecondHand.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.haxi0.KillMyOTA/KillMyOTA.png"
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/SecondHand.png"
           ],
           "versions": [
               {
-                "version": "1.1",
-                "date": "2023-01-30",
-                "localizedDescription": "Disable OTA updates on iOS 15.0-16.1.2 using the MDC exploit.",
-                "downloadURL": "https://github.com/haxi0/KillMyOTA/releases/download/1.1/KillMyOTA-1.1.ipa",
+                "version": "1.3",
+                "date": "2023-10-03",
+                "localizedDescription": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/StatusMagic/StatusMagic_1.0.2.ipa",
                 "size": 331000,
-                "minOSVersion": "15.0",
-                "maxOSVersion": "16.1.2"
+                "minOSVersion": "14.0",
+                "maxOSVersion": "15.4.1"
               }
             ],
           "appPermissions": {}
