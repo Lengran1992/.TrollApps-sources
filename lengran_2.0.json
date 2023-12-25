@@ -285,7 +285,7 @@
           ],
           "versions": [
               {
-                "version": "1.1-4",
+                "version": "2.1.0",
                 "date": "2023-04-08",
                 "localizedDescription": "“IPA提取器”是一个用于提取第三方网页中的ipa并进行测试的应用程序。因网站方要求，由v2.1.1起，IPA提取器已禁止提取蒲公英和fir的IPA。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/IpaDownloadTool_2.1.0.ipa",
@@ -381,7 +381,7 @@
           ],
           "versions": [
               {
-                "version": "2.0.1",
+                "version": "2.0",
                 "date": "2023-12-21",
                 "localizedDescription": "Status Bar Widgets for TrollStore iPhones on iOS 14+. Works on Jailbroken devices as well.",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/Helium_2.0.1.tipa",
