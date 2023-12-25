@@ -90,8 +90,8 @@
           ],
           "versions": [
               {
-                "version": "1.9.3",
-                "date": "2023-12-23",
+                "version": "1.8.4",
+                "date": "2023-11-28",
                 "localizedDescription": "flexible way to manage your application’s data.Backup AppData: Backup entire application data, include all saved files, settings, data stored in keychain.Restore AppData: Restore application data.Wipe AppData: Wipe application data, include all files, settings, … .Quick open application container, document container, or app groups.Import/Export backup. You can use it to transfer application data from your device to other deivces",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppsManager_1.8.4.tipa",
                 "size": 331000,
@@ -100,7 +100,7 @@
               }
             ],
           "appPermissions": {}
-        }
+        },
     ],
     "news": []
   }
