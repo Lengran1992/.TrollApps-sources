@@ -103,6 +103,174 @@
               }
             ],
           "appPermissions": {}
+        },
+        {
+          "name": "Filza File Manager",
+          "bundleIdentifier": "com.tigisoftware.Filza",
+          "developerName": "TIGI Software",
+          "subtitle": "powerful File Manager for iPhone, iPad, iPod Touch",
+          "localizedDescription": "powerful File Manager for iPhone, iPad, iPod Touch",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Filza.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/Filza.png"
+          ],
+          "versions": [
+              {
+                "version": "4.0.0",
+                "date": "2022-11-21",
+                "localizedDescription": "powerful File Manager for iPhone, iPad, iPod Touch",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/Filza_4.0.0.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "AppsDump2",
+          "bundleIdentifier": "cn.bswbw.AppsDump",
+          "developerName": "bswbw",
+          "subtitle": "脱壳工具",
+          "localizedDescription": "脱壳工具",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AppsDump2.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/AppsDump2.png"
+          ],
+          "versions": [
+              {
+                "version": "2.0.3",
+                "date": "2023-12-10",
+                "localizedDescription": "脱壳工具",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppsDump2_2.0.3.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "电池助手",
+          "bundleIdentifier": "com.callassist.batteryinfolist",
+          "developerName": "xybp888",
+          "subtitle": "电池助手",
+          "localizedDescription": "电池助手",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/BatteryInfo.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/BatteryInfo.png"
+          ],
+          "versions": [
+              {
+                "version": "1.0.7",
+                "date": "2023-00-00",
+                "localizedDescription": "电池助手",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/BatteryInfo_1.0.7.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "AppStore++",
+          "bundleIdentifier": "com.cokepokes.AppStorePlusa",
+          "developerName": "CokePokes",
+          "subtitle": "AppStore++ tweak for TrollStore.Allows you to downgrade installed apps.",
+          "localizedDescription": "AppStore++ tweak for TrollStore.Allows you to downgrade installed apps.",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AppStore++.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/AppStore++.png"
+          ],
+          "versions": [
+              {
+                "version": "1.0.3",
+                "date": "2022-09-22",
+                "localizedDescription": "AppStore++ tweak for TrollStore.Allows you to downgrade installed apps.",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppStore++_1.0.3.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "DEB备份",
+          "bundleIdentifier": "cn.bswbw.DEB.backup",
+          "developerName": "bswbw",
+          "subtitle": "DEB备份",
+          "localizedDescription": "DEB备份",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/DEBbackup.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/DEBbackup.png"
+          ],
+          "versions": [
+              {
+                "version": "1.0",
+                "date": "2023-05-06",
+                "localizedDescription": "DEB备份",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/DEBbackup_1.0.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "DowngradeApp",
+          "bundleIdentifier": "com.netskao.downgradeapp",
+          "developerName": "Netskao",
+          "subtitle": "应用降级",
+          "localizedDescription": "应用降级",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/DowngradeApp.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/DowngradeApp.png"
+          ],
+          "versions": [
+              {
+                "version": "1.1-8",
+                "date": "2023-11-30",
+                "localizedDescription": "应用降级",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/DowngradeApp_1.1-8.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "RingTonesManager",
+          "bundleIdentifier": "com.netskao.ringtonesmanager",
+          "developerName": "Netskao",
+          "subtitle": "铃声管理",
+          "localizedDescription": "铃声管理",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/RingTonesManager.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/RingTonesManager.png"
+          ],
+          "versions": [
+              {
+                "version": "1.1-4",
+                "date": "2022-10-14",
+                "localizedDescription": "铃声管理",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/RingTonesManager_1.1-4.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
         }
     ],
     "news": []
