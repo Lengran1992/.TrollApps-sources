@@ -47,9 +47,7 @@
               {
                 "version": "1.3",
                 "date": "2023-10-03",
-                "localizedDescription": "iOS 14.0-15.4.1
-
-Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1",
+                "localizedDescription": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/SecondHand_1.3.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
