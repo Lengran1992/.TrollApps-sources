@@ -47,7 +47,7 @@
               {
                 "version": "1.3",
                 "date": "2023-10-03",
-                "localizedDescription": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1.In order for it to run in the background, you must set location services to Always, and you can enable notifications so that you can be notified when the app stops running. No information will leave your device. It is only to keep the app open.Info: Your battery life may be impacted. From my personal experience, it uses less than one percent but that may vary.I am not responsible for damage to your device.",
+                "localizedDescription": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/SecondHand_1.3.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -71,12 +71,15 @@
               {
                 "version": "1.9.3",
                 "date": "2023-12-23",
-                "localizedDescription": "Shows upload & download speed below the status bar.Tested and expected to work on all iOS versions supported by opa334’s TrollStore.You need to enable “Developer Mode” on iOS 16 or above to use TrollSpeed or Misaka.",
+                "localizedDescription": "Shows upload & download speed below the status bar.",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/TrollSpeed_1.9.3.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
-              },
+              }
+            ],
+          "appPermissions": {}
+        },
         {
           "name": "Apps Manager",
           "bundleIdentifier": "com.tigisoftware.ADManager",
@@ -92,7 +95,7 @@
               {
                 "version": "1.8.4",
                 "date": "2023-11-28",
-                "localizedDescription": "flexible way to manage your application’s data.Backup AppData: Backup entire application data, include all saved files, settings, data stored in keychain.Restore AppData: Restore application data.Wipe AppData: Wipe application data, include all files, settings, … .Quick open application container, document container, or app groups.Import/Export backup. You can use it to transfer application data from your device to other deivces",
+                "localizedDescription": "flexible way to manage your application’s data.",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppsManager_1.8.4.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
@@ -100,7 +103,7 @@
               }
             ],
           "appPermissions": {}
-        },
+        }
     ],
     "news": []
   }
