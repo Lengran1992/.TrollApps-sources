@@ -24,7 +24,7 @@
                 "version": "1.0.2",
                 "date": "2023-02-08",
                 "localizedDescription": "Totally customise your status bar on iOS 14.0 - 16.1.2 with no jailbreak!",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/StatusMagic/StatusMagic_1.0.2.ipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/StatusMagic_1.0.2.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -47,8 +47,8 @@
               {
                 "version": "1.3",
                 "date": "2023-10-03",
-                "localizedDescription": "Add seconds and date to status bar clock on [TrollStore](https://github.com/opa334/TrollStore) devices Compatible with iOS 14.0-15.4.1.In order for it to run in the background, you must set location services to **Always**, and you can enable notifications so that you can be notified when the app stops running. No information will leave your device. It is only to keep the app open.**Info:** Your battery life may be impacted. From my personal experience, it uses less than one percent but that may vary.I am not responsible for damage to your device.",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/StatusMagic/StatusMagic_1.0.2.ipa",
+                "localizedDescription": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1.In order for it to run in the background, you must set location services to Always, and you can enable notifications so that you can be notified when the app stops running. No information will leave your device. It is only to keep the app open.Info: Your battery life may be impacted. From my personal experience, it uses less than one percent but that may vary.I am not responsible for damage to your device.",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/SecondHand_1.3.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "15.4.1"
@@ -56,6 +56,51 @@
             ],
           "appPermissions": {}
         },
+        {
+          "name": "TrollSpeed",
+          "bundleIdentifier": "ch.xxtou.hudapp",
+          "developerName": "Lessica&jmpews",
+          "subtitle": "Shows upload & download speed below the status bar.",
+          "localizedDescription": "Shows upload & download speed below the status bar.",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/TrollSpeed.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/TrollSpeed.png"
+          ],
+          "versions": [
+              {
+                "version": "1.9.3",
+                "date": "2023-12-23",
+                "localizedDescription": "Shows upload & download speed below the status bar.Tested and expected to work on all iOS versions supported by opa334’s TrollStore.You need to enable “Developer Mode” on iOS 16 or above to use TrollSpeed or Misaka.",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/TrollSpeed_1.9.3.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+        {
+          "name": "Apps Manager",
+          "bundleIdentifier": "com.tigisoftware.ADManager",
+          "developerName": "TIGI Software",
+          "subtitle": "flexible way to manage your application’s data",
+          "localizedDescription": "flexible way to manage your application’s data",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AppsManager.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/AppsManager.png"
+          ],
+          "versions": [
+              {
+                "version": "1.9.3",
+                "date": "2023-12-23",
+                "localizedDescription": "flexible way to manage your application’s data.Backup AppData: Backup entire application data, include all saved files, settings, data stored in keychain.Restore AppData: Restore application data.Wipe AppData: Wipe application data, include all files, settings, … .Quick open application container, document container, or app groups.Import/Export backup. You can use it to transfer application data from your device to other deivces",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppsManager_1.8.4.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        }
     ],
     "news": []
   }
