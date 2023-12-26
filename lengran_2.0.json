@@ -12,8 +12,8 @@
           "name": "StatusMagic",
           "bundleIdentifier": "com.avangelista.StatusMagic",
           "developerName": "Avangelista",
-          "subtitle": "状态栏自定义工具，支持iOS 14.0-16.1.2",
-          "localizedDescription": "状态栏自定义工具，支持iOS 14.0-16.1.2",
+          "subtitle": "状态栏自定义工具，支持iOS14.0-16.1.2",
+          "localizedDescription": "状态栏自定义工具，支持iOS14.0-16.1.2",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/StatusMagic.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -23,7 +23,7 @@
               {
                 "version": "1.0.2",
                 "date": "2023-02-08",
-                "localizedDescription": "状态栏自定义工具，支持iOS 14.0-16.1.2",
+                "localizedDescription": "状态栏自定义工具，支持iOS14.0-16.1.2",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/StatusMagic_1.0.2.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -36,8 +36,8 @@
           "name": "SecondHand",
           "bundleIdentifier": "com.leemin.SecondHand",
           "developerName": "leminlimez",
-          "subtitle": "状态栏时钟添加秒数及日期，支持iOS 14.0-15.4.1",
-          "localizedDescription": "状态栏时钟添加秒数及日期，支持iOS 14.0-15.4.1",
+          "subtitle": "状态栏时钟添加秒数及日期，支持iOS14.0-15.4.1",
+          "localizedDescription": "状态栏时钟添加秒数及日期，支持iOS14.0-15.4.1",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/SecondHand.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -47,7 +47,7 @@
               {
                 "version": "1.3",
                 "date": "2023-10-03",
-                "localizedDescription": "状态栏时钟添加秒数及日期，支持iOS 14.0-15.4.1",
+                "localizedDescription": "状态栏时钟添加秒数及日期，支持iOS14.0-15.4.1",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/SecondHand_1.3.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -180,8 +180,8 @@
           "name": "AppStore++",
           "bundleIdentifier": "com.cokepokes.AppStorePlusa",
           "developerName": "CokePokes",
-          "subtitle": "AppStore++ tweak for TrollStore.Allows you to downgrade installed apps.",
-          "localizedDescription": "AppStore++ tweak for TrollStore.Allows you to downgrade installed apps.",
+          "subtitle": "应用程序降级工具，支持TrollStore全版本。",
+          "localizedDescription": "应用程序降级工具，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AppStore++.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -191,7 +191,7 @@
               {
                 "version": "1.0.3",
                 "date": "2022-09-22",
-                "localizedDescription": "AppStore++ tweak for TrollStore.Allows you to downgrade installed apps.",
+                "localizedDescription": "应用程序降级工具，支持TrollStore全版本。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppStore++_1.0.3.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -204,8 +204,8 @@
           "name": "DEB备份",
           "bundleIdentifier": "cn.bswbw.DEB.backup",
           "developerName": "bswbw",
-          "subtitle": "DEB备份",
-          "localizedDescription": "DEB备份",
+          "subtitle": "越狱插件备份工具，支持已越狱设备。",
+          "localizedDescription": "越狱插件备份工具，支持已越狱设备。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/DEBbackup.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -215,7 +215,7 @@
               {
                 "version": "1.0",
                 "date": "2023-05-06",
-                "localizedDescription": "DEB备份",
+                "localizedDescription": "越狱插件备份工具，支持已越狱设备。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/DEBbackup_1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -228,8 +228,8 @@
           "name": "DowngradeApp",
           "bundleIdentifier": "com.netskao.downgradeapp",
           "developerName": "Netskao",
-          "subtitle": "应用降级",
-          "localizedDescription": "应用降级",
+          "subtitle": "应用程序降级工具，支持TrollStore全版本。",
+          "localizedDescription": "应用程序降级工具，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/DowngradeApp.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -239,7 +239,7 @@
               {
                 "version": "1.1-8",
                 "date": "2023-11-30",
-                "localizedDescription": "应用降级",
+                "localizedDescription": "应用程序降级工具，支持TrollStore全版本。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/DowngradeApp_1.1-8.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -252,8 +252,8 @@
           "name": "RingTonesManager",
           "bundleIdentifier": "com.netskao.ringtonesmanager",
           "developerName": "Netskao",
-          "subtitle": "铃声管理",
-          "localizedDescription": "铃声管理",
+          "subtitle": "铃声管理工具，支持TrollStore全版本。",
+          "localizedDescription": "铃声管理工具，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/RingTonesManager.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -263,7 +263,7 @@
               {
                 "version": "1.1-4",
                 "date": "2022-10-14",
-                "localizedDescription": "铃声管理",
+                "localizedDescription": "铃声管理工具，支持TrollStore全版本。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/RingTonesManager_1.1-4.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -276,8 +276,8 @@
           "name": "IpaDownloadTool",
           "bundleIdentifier": "cn.zxlee.IpaDownloadTool",
           "developerName": "zxlee",
-          "subtitle": "“IPA提取器”是一个用于提取第三方网页中的ipa并进行测试的应用程序。",
-          "localizedDescription": "“IPA提取器”是一个用于提取第三方网页中的ipa并进行测试的应用程序。",
+          "subtitle": "“IPA提取器”是一个用于提取第三方网页中的ipa并进行测试的应用程序，支持TrollStore全版本。",
+          "localizedDescription": "“IPA提取器”是一个用于提取第三方网页中的ipa并进行测试的应用程序，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/IpaDownloadTool.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -287,7 +287,7 @@
               {
                 "version": "2.1.0",
                 "date": "2023-04-08",
-                "localizedDescription": "“IPA提取器”是一个用于提取第三方网页中的ipa并进行测试的应用程序。因网站方要求，由v2.1.1起，IPA提取器已禁止提取蒲公英和fir的IPA。",
+                "localizedDescription": "“IPA提取器”是一个用于提取第三方网页中的ipa并进行测试的应用程序，支持TrollStore全版本。因网站方要求，由v2.1.1起，IPA提取器已禁止提取蒲公英和fir的IPA。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/IpaDownloadTool_2.1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -300,8 +300,8 @@
           "name": "RespringCC",
           "bundleIdentifier": "com.straight-tamago.RespringCC",
           "developerName": "straight-tamago",
-          "subtitle": "Respring button in control center.Change magnifier to respring.",
-          "localizedDescription": "Respring button in control center.Change magnifier to respring.",
+          "subtitle": "注销工具，支持iOS14.0-16.1.2",
+          "localizedDescription": "注销工具，支持iOS14.0-16.1.2",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/RespringCC.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -311,7 +311,7 @@
               {
                 "version": "1.4",
                 "date": "2023-03-08",
-                "localizedDescription": "Respring button in control center.Change magnifier to respring.",
+                "localizedDescription": "注销工具，支持iOS14.0-16.1.2",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/RespringCC_1.4.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -324,8 +324,8 @@
           "name": "IPSW",
           "bundleIdentifier": "com.hyperixa.IPSW",
           "developerName": "hyperixa",
-          "subtitle": "设备固件查询",
-          "localizedDescription": "设备固件查询",
+          "subtitle": "设备固件查询工具，支持TrollStore全版本。",
+          "localizedDescription": "设备固件查询工具，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/IPSW.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -335,11 +335,11 @@
               {
                 "version": "1.0",
                 "date": "2022-07-28",
-                "localizedDescription": "设备固件查询",
+                "localizedDescription": "设备固件查询工具，支持TrollStore全版本。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/IPSW_1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
-                "maxOSVersion": "16.1.2"
+                "maxOSVersion": "16.6.1"
               }
             ],
           "appPermissions": {}
@@ -348,8 +348,8 @@
           "name": "PostBox",
           "bundleIdentifier": "com.simplycode.PostBox",
           "developerName": "b0kch01&Polarizz",
-          "subtitle": "PostBox brings the latest jailbreak news to your fingertips. Use PostBox to access your favorite packages and repositories while unjailbroken, all without the hassle of constantly searching on the web. With in-app .deb download and extraction, you can install themes using only your phone.",
-          "localizedDescription": "PostBox brings the latest jailbreak news to your fingertips. Use PostBox to access your favorite packages and repositories while unjailbroken, all without the hassle of constantly searching on the web. With in-app .deb download and extraction, you can install themes using only your phone.",
+          "subtitle": "可以通过添加越狱源，了解插件更新的动态，对越狱插件进行下载，支持TrollStore全版本。",
+          "localizedDescription": "可以通过添加越狱源，了解插件更新的动态，对越狱插件进行下载，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/PostBox.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -359,7 +359,7 @@
               {
                 "version": "0.8.1",
                 "date": "2022-08-28",
-                "localizedDescription": "PostBox brings the latest jailbreak news to your fingertips. Use PostBox to access your favorite packages and repositories while unjailbroken, all without the hassle of constantly searching on the web. With in-app .deb download and extraction, you can install themes using only your phone.",
+                "localizedDescription": "可以通过添加越狱源，了解插件更新的动态，对越狱插件进行下载，支持TrollStore全版本。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/PostBox_0.8.1.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -372,8 +372,8 @@
           "name": "Helium",
           "bundleIdentifier": "com.leemin.helium",
           "developerName": "leminlimez",
-          "subtitle": "Status Bar Widgets for TrollStore iPhones on iOS 14+. Works on Jailbroken devices as well.",
-          "localizedDescription": "Status Bar Widgets for TrollStore iPhones on iOS 14+. Works on Jailbroken devices as well.",
+          "subtitle": "状态栏小组件管理工具，支持TrollStore全版本。",
+          "localizedDescription": "状态栏小组件管理工具，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Helium.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -383,7 +383,7 @@
               {
                 "version": "2.0",
                 "date": "2023-12-21",
-                "localizedDescription": "Status Bar Widgets for TrollStore iPhones on iOS 14+. Works on Jailbroken devices as well.",
+                "localizedDescription": "状态栏小组件管理工具，支持TrollStore全版本。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/Helium_2.0.1.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -396,8 +396,8 @@
           "name": "BatteryLife",
           "bundleIdentifier": "com.rbtdigital.BatteryLife",
           "developerName": "RBT Digital LLC",
-          "subtitle": "让你随时掌握iPhone电池的健康状态!",
-          "localizedDescription": "让你随时掌握iPhone电池的健康状态!",
+          "subtitle": "让你随时掌握iPhone电池的健康状态，支持TrollStore全版本。",
+          "localizedDescription": "让你随时掌握iPhone电池的健康状态，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/BatteryLife.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -407,8 +407,32 @@
               {
                 "version": "3.2.1",
                 "date": "2021-01-19",
-                "localizedDescription": "让你随时掌握iPhone电池的健康状态!",
+                "localizedDescription": "让你随时掌握iPhone电池的健康状态，支持TrollStore全版本。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/BatteryLife_3.2.1.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "InstaSpring",
+          "bundleIdentifier": "org.haxi0.InstaSpring",
+          "developerName": "Haxi0",
+          "subtitle": "注销工具，支持TrollStore全版本。",
+          "localizedDescription": "注销工具，支持TrollStore全版本。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/InstaSpring.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/InstaSpring.png"
+          ],
+          "versions": [
+              {
+                "version": "1.0",
+                "date": "2021-01-19",
+                "localizedDescription": "注销工具，支持TrollStore全版本。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/InstaSpring_1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
