@@ -12,8 +12,8 @@
           "name": "StatusMagic",
           "bundleIdentifier": "com.avangelista.StatusMagic",
           "developerName": "Avangelista",
-          "subtitle": "Totally customise your status bar on iOS 14.0 - 16.1.2 with no jailbreak!",
-          "localizedDescription": "Totally customise your status bar on iOS 14.0 - 16.1.2 with no jailbreak!",
+          "subtitle": "状态栏自定义工具，支持iOS 14.0-16.1.2",
+          "localizedDescription": "状态栏自定义工具，支持iOS 14.0-16.1.2",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/StatusMagic.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -23,7 +23,7 @@
               {
                 "version": "1.0.2",
                 "date": "2023-02-08",
-                "localizedDescription": "Totally customise your status bar on iOS 14.0 - 16.1.2 with no jailbreak!",
+                "localizedDescription": "状态栏自定义工具，支持iOS 14.0-16.1.2",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/StatusMagic_1.0.2.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -36,8 +36,8 @@
           "name": "SecondHand",
           "bundleIdentifier": "com.leemin.SecondHand",
           "developerName": "leminlimez",
-          "subtitle": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1",
-          "localizedDescription": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1",
+          "subtitle": "状态栏时钟添加秒数及日期，支持iOS 14.0-15.4.1",
+          "localizedDescription": "状态栏时钟添加秒数及日期，支持iOS 14.0-15.4.1",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/SecondHand.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -47,7 +47,7 @@
               {
                 "version": "1.3",
                 "date": "2023-10-03",
-                "localizedDescription": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1",
+                "localizedDescription": "状态栏时钟添加秒数及日期，支持iOS 14.0-15.4.1",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/SecondHand_1.3.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -60,8 +60,8 @@
           "name": "TrollSpeed",
           "bundleIdentifier": "ch.xxtou.hudapp",
           "developerName": "Lessica&jmpews",
-          "subtitle": "Shows upload & download speed below the status bar.",
-          "localizedDescription": "Shows upload & download speed below the status bar.",
+          "subtitle": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
+          "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/TrollSpeed.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -71,7 +71,7 @@
               {
                 "version": "1.9.3",
                 "date": "2023-12-23",
-                "localizedDescription": "Shows upload & download speed below the status bar.",
+                "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/TrollSpeed_1.9.3.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -84,8 +84,8 @@
           "name": "Apps Manager",
           "bundleIdentifier": "com.tigisoftware.ADManager",
           "developerName": "TIGI Software",
-          "subtitle": "flexible way to manage your application’s data",
-          "localizedDescription": "flexible way to manage your application’s data",
+          "subtitle": "应用程序数据管理工具，支持iOS15.0-16.6.1",
+          "localizedDescription": "应用程序数据管理工具，支持iOS15.0-16.6.1",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AppsManager.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -95,7 +95,7 @@
               {
                 "version": "1.8",
                 "date": "2023-11-28",
-                "localizedDescription": "flexible way to manage your application’s data.",
+                "localizedDescription": "应用程序数据管理工具，支持iOS15.0-16.6.1",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppsManager_1.8.4.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
@@ -108,8 +108,8 @@
           "name": "Filza File Manager",
           "bundleIdentifier": "com.tigisoftware.Filza",
           "developerName": "TIGI Software",
-          "subtitle": "powerful File Manager for iPhone, iPad, iPod Touch",
-          "localizedDescription": "powerful File Manager for iPhone, iPad, iPod Touch",
+          "subtitle": "文件管理器，支持iOS15.0-16.6.1",
+          "localizedDescription": "文件管理器，支持iOS15.0-16.6.1",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Filza.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -119,7 +119,7 @@
               {
                 "version": "4.0",
                 "date": "2022-11-21",
-                "localizedDescription": "powerful File Manager for iPhone, iPad, iPod Touch",
+                "localizedDescription": "文件管理器，支持iOS15.0-16.6.1",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/Filza_4.0.0.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
@@ -132,8 +132,8 @@
           "name": "AppsDump2",
           "bundleIdentifier": "cn.bswbw.AppsDump",
           "developerName": "bswbw",
-          "subtitle": "脱壳工具",
-          "localizedDescription": "脱壳工具",
+          "subtitle": "应用程序脱壳工具，支持TrollStore全版本。",
+          "localizedDescription": "应用程序脱壳工具，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AppsDump2.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -143,7 +143,7 @@
               {
                 "version": "2.0.3",
                 "date": "2023-12-10",
-                "localizedDescription": "脱壳工具",
+                "localizedDescription": "应用程序脱壳工具，支持TrollStore全版本。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppsDump2_2.0.3.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -156,8 +156,8 @@
           "name": "电池助手",
           "bundleIdentifier": "com.callassist.batteryinfolist",
           "developerName": "xybp888",
-          "subtitle": "电池助手",
-          "localizedDescription": "电池助手",
+          "subtitle": "查看健康状态、循环次数、容量、温度、电压、功率等信息，支持TrollStore全版本。",
+          "localizedDescription": "查看健康状态、循环次数、容量、温度、电压、功率等信息，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/BatteryInfo.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
@@ -167,8 +167,8 @@
               {
                 "version": "1.0.7",
                 "date": "2022-10-12",
-                "localizedDescription": "电池助手",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/BatteryInfo_1.0.7.ipa",
+                "localizedDescription": "查看健康状态、循环次数、容量、温度、电压、功率等信息，支持TrollStore全版本。",
+                "downloadURL": "https://www.htv123.com/down/BatteryInfo_1.0.7.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -385,6 +385,30 @@
                 "date": "2023-12-21",
                 "localizedDescription": "Status Bar Widgets for TrollStore iPhones on iOS 14+. Works on Jailbroken devices as well.",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/Helium_2.0.1.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "BatteryLife",
+          "bundleIdentifier": "com.rbtdigital.BatteryLife",
+          "developerName": "RBT Digital LLC",
+          "subtitle": "让你随时掌握iPhone电池的健康状态!",
+          "localizedDescription": "让你随时掌握iPhone电池的健康状态!",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/BatteryLife.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/BatteryLife.png"
+          ],
+          "versions": [
+              {
+                "version": "3.2.1",
+                "date": "2021-01-19",
+                "localizedDescription": "让你随时掌握iPhone电池的健康状态!",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/BatteryLife_3.2.1.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
