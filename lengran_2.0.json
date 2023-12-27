@@ -381,7 +381,7 @@
           ],
           "versions": [
               {
-                "version": "2.0",
+                "version": "2.0.2",
                 "date": "2023-12-21",
                 "localizedDescription": "状态栏小组件管理工具，支持TrollStore全版本。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/Helium_2.0.2.tipa",
