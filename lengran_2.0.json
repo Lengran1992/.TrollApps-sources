@@ -35,7 +35,7 @@
         {
           "name": "SecondHand",
           "bundleIdentifier": "com.leemin.SecondHand",
-          "developerName": "leminlimez",
+          "developerName": "LeminLimez",
           "subtitle": "状态栏时钟添加秒数及日期，支持iOS14.0-15.4.1",
           "localizedDescription": "状态栏时钟添加秒数及日期，支持iOS14.0-15.4.1",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/SecondHand.png",
@@ -371,7 +371,7 @@
         {
           "name": "Helium",
           "bundleIdentifier": "com.leemin.helium",
-          "developerName": "leminlimez",
+          "developerName": "LeminLimez",
           "subtitle": "状态栏小组件管理工具，支持TrollStore全版本。",
           "localizedDescription": "状态栏小组件管理工具，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Helium.png",
