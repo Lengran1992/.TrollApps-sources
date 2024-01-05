@@ -216,7 +216,7 @@
                 "version": "1.0",
                 "date": "2023-05-06",
                 "localizedDescription": "越狱插件备份工具，支持已越狱设备。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/DEBbackup_1.0.ipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/DEBbackup_1.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -433,6 +433,30 @@
                 "date": "2021-01-19",
                 "localizedDescription": "注销工具，支持TrollStore全版本。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/InstaSpring_1.0.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "Santander",
+          "bundleIdentifier": "com.serena.santander",
+          "developerName": "serena",
+          "subtitle": "文件管理器，支持TrollStore全版本。",
+          "localizedDescription": "文件管理器，支持TrollStore全版本。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Santander.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/Santander.png"
+          ],
+          "versions": [
+              {
+                "version": "1.0",
+                "date": "2022-10-10",
+                "localizedDescription": "文件管理器，支持TrollStore全版本。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/Santander_1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
