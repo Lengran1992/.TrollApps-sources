@@ -69,10 +69,10 @@
           ],
           "versions": [
               {
-                "version": "1.9.5",
-                "date": "2023-12-23",
+                "version": "1.9.8",
+                "date": "2024-01-23",
                 "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/TrollSpeed_1.9.5.tipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240123/TrollSpeed_v1.9.8.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -87,10 +87,10 @@
                 "maxOSVersion": "16.6.1"
               },
               {
-                "version": "1.9.8",
-                "date": "2024-01-23",
+                "version": "1.9.5",
+                "date": "2023-12-23",
                 "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240123/TrollSpeed_v1.9.8.tipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/TrollSpeed_1.9.5.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
