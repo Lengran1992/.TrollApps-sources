@@ -483,30 +483,6 @@
           "appPermissions": {}
         },
         {
-          "name": "InstaSpring",
-          "bundleIdentifier": "org.haxi0.InstaSpring",
-          "developerName": "Haxi0",
-          "subtitle": "注销工具，支持TrollStore全版本。",
-          "localizedDescription": "注销工具，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/InstaSpring.png",
-          "tintColor": "#FF8B29",
-          "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/InstaSpring.png"
-          ],
-          "versions": [
-              {
-                "version": "1.0",
-                "date": "2021-01-19",
-                "localizedDescription": "注销工具，支持TrollStore全版本。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/InstaSpring_1.0.ipa",
-                "size": 331000,
-                "minOSVersion": "14.0",
-                "maxOSVersion": "16.6.1"
-              }
-            ],
-          "appPermissions": {}
-        },
-        {
           "name": "TrollCuts",
           "bundleIdentifier": "com.udevs.TrollCuts",
           "developerName": "udevsharold",
