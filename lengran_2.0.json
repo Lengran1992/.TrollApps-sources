@@ -59,7 +59,7 @@
         {
           "name": "TrollSpeed",
           "bundleIdentifier": "ch.xxtou.hudapp",
-          "developerName": "Lessica&jmpews",
+          "developerName": "Lessica & jmpews",
           "subtitle": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
           "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/TrollSpeed.png",
@@ -73,6 +73,24 @@
                 "date": "2023-12-23",
                 "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/TrollSpeed_1.9.5.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.9.6",
+                "date": "2024-01-19",
+                "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240123/TrollSpeed_v1.9.6.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.9.8",
+                "date": "2024-01-23",
+                "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240123/TrollSpeed_v1.9.8.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -460,6 +478,102 @@
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "InstaSpring",
+          "bundleIdentifier": "org.haxi0.InstaSpring",
+          "developerName": "Haxi0",
+          "subtitle": "注销工具，支持TrollStore全版本。",
+          "localizedDescription": "注销工具，支持TrollStore全版本。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/InstaSpring.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/InstaSpring.png"
+          ],
+          "versions": [
+              {
+                "version": "1.0",
+                "date": "2021-01-19",
+                "localizedDescription": "注销工具，支持TrollStore全版本。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/InstaSpring_1.0.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "TrollCuts",
+          "bundleIdentifier": "com.udevs.TrollCuts",
+          "developerName": "udevsharold",
+          "subtitle": "快捷指令功能扩展，支持 iOS16 及以上。",
+          "localizedDescription": "快捷指令功能扩展，支持 iOS16 及以上。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/TrollCuts.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/TrollCuts.png"
+          ],
+          "versions": [
+              {
+                "version": "1.1",
+                "date": "2024-01-20",
+                "localizedDescription": "快捷指令功能扩展：\n1.设备锁屏\n2.设备重启\n3.设备注销\n 4.重启用户空间\n5.一键切换巨魔应用用户/系统权限\n 6.iCloud 备份\n7.自动锁屏时间设置\n8.自动亮度开关\n安装后打开快捷指令，新建捷径，添加操作App-选择TrollCuts，添加功能，运行或者把捷径放桌面使用\n在iOS15上会闪退",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240123/TrollCuts_v1.1.tipa",
+                "size": 331000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "TrollLEDs",
+          "bundleIdentifier": "com.ps.TrollLEDs",
+          "developerName": "PoomSmart",
+          "subtitle": "手电筒LED控制，支持TrollStore全版本。",
+          "localizedDescription": "手电筒LED控制，支持TrollStore全版本。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/TrollLEDs.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/TrollLEDs.png"
+          ],
+          "versions": [
+              {
+                "version": "1.4.0",
+                "date": "2024-01-22",
+                "localizedDescription": "1.用于控制iOS设备的单个手电筒LED。\n2.可以开着灯直接拍照\n3.添加了应用程序快捷菜单（琥珀色打开、白色打开和全部打开）",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240123/TrollLEDs_v1.4.0.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "AirWall",
+          "bundleIdentifier": "jp.dcsyhi.airwall",
+          "developerName": "Dcsyhi1998",
+          "subtitle": "更改您的 CarPlay 壁纸，支持TrollStore全版本。",
+          "localizedDescription": "更改您的 CarPlay 壁纸，支持TrollStore全版本。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AirWall.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/AirWall.png"
+          ],
+          "versions": [
+              {
+                "version": "1.5",
+                "date": "2023-12-02",
+                "localizedDescription": "更改您的 CarPlay 壁纸，支持TrollStore全版本。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240123/AirWall.v1.5.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
               }
             ],
           "appPermissions": {}
