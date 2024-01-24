@@ -171,6 +171,30 @@
           "appPermissions": {}
         },
         {
+          "name": "AppsDump2",
+          "bundleIdentifier": "cn.gblw.AppsDump",
+          "developerName": "bswbw",
+          "subtitle": "应用程序脱壳工具，支持TrollStore全版本。",
+          "localizedDescription": "应用程序脱壳工具，支持TrollStore全版本。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AppsDump2.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/AppsDump2.png"
+          ],
+          "versions": [
+              {
+                "version": "2.0.7",
+                "date": "2024-01-21",
+                "localizedDescription": "应用程序脱壳工具，支持TrollStore全版本。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240124/AppsDump2_v2.0.7.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
           "name": "电池助手",
           "bundleIdentifier": "com.callassist.batteryinfolist",
           "developerName": "xybp888",
@@ -533,7 +557,7 @@
         {
           "name": "AirWall",
           "bundleIdentifier": "jp.dcsyhi.airwall",
-          "developerName": "Dcsyhi1998",
+          "developerName": "Dcsyhi",
           "subtitle": "更改您的 CarPlay 壁纸，支持TrollStore全版本。",
           "localizedDescription": "更改您的 CarPlay 壁纸，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AirWall.png",
@@ -550,6 +574,78 @@
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "CarMovie",
+          "bundleIdentifier": "jp.dcsyhi.CarMovie",
+          "developerName": "Dcsyhi",
+          "subtitle": "在 CarPlay 上播放视频，支持TrollStore全版本。",
+          "localizedDescription": "在 CarPlay 上播放视频，支持TrollStore全版本。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/CarMovie.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/CarMovie.png"
+          ],
+          "versions": [
+              {
+                "version": "1.2",
+                "date": "2023-12-26",
+                "localizedDescription": "在 CarPlay 上播放视频，支持TrollStore全版本。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240124/CarMovie_v1.2.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "Bootstrap",
+          "bundleIdentifier": "com.roothide.Bootstrap",
+          "developerName": "roothide",
+          "subtitle": "支持 iOS 14.0 - 16.6.1 和 17.0 系统，支持安装第三方应用插件。",
+          "localizedDescription": "支持 iOS 14.0 - 16.6.1 和 17.0 系统，支持安装第三方应用插件。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Bootstrap.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/Bootstrap.png"
+          ],
+          "versions": [
+              {
+                "version": "1.1",
+                "date": "2024-01-18",
+                "localizedDescription": "支持 iOS 14.0 - 16.6.1 和 17.0 系统，支持安装第三方应用插件。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240124/Bootstrap_v1.1.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "Serotonin",
+          "bundleIdentifier": "pisshill.usprebooter",
+          "developerName": "roothide",
+          "subtitle": "支持 iOS 16.0 - 16.6.1 系统，需要配合 Bootstrap 工具构建越狱后，就能安装系统级插件，但有些插件功能不生效。",
+          "localizedDescription": "支持 iOS 16.0 - 16.6.1 系统，需要配合 Bootstrap 工具构建越狱后，就能安装系统级插件，但有些插件功能不生效。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Serotonin.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/Serotonin.png"
+          ],
+          "versions": [
+              {
+                "version": "1.1",
+                "date": "2024-01-17",
+                "localizedDescription": "支持 iOS 16.0 - 16.6.1 系统，需要配合 Bootstrap 工具构建越狱后，就能安装系统级插件，但有些插件功能不生效。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240124/Serotonin_v1.2.1.tipa",
+                "size": 881000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
               }
             ],
           "appPermissions": {}
