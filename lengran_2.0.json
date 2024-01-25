@@ -630,7 +630,7 @@
                 "version": "1.2",
                 "date": "2023-12-26",
                 "localizedDescription": "在 CarPlay 上播放视频，支持TrollStore全版本。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240124/CarMovie_v1.2.ipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240124/CarMovie_v1.2.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
