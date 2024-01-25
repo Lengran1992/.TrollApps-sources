@@ -561,10 +561,19 @@
           ],
           "versions": [
               {
-                "version": "1.5.0",
+                "version": "1.6.1",
+                "date": "2024-01-25",
+                "localizedDescription": "1.用于控制iOS设备的单个手电筒LED。\n2.可以开着灯直接拍照\n3.添加了应用程序快捷菜单（琥珀色打开、白色打开和全部打开）",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollLEDs_v1.6.1.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.6.0",
                 "date": "2024-01-24",
                 "localizedDescription": "1.用于控制iOS设备的单个手电筒LED。\n2.可以开着灯直接拍照\n3.添加了应用程序快捷菜单（琥珀色打开、白色打开和全部打开）",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollLEDs_v1.5.0.tipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollLEDs_v1.6.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
