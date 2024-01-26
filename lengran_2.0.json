@@ -15,7 +15,7 @@
           "subtitle": "状态栏自定义工具，支持iOS14.0-16.1.2",
           "localizedDescription": "状态栏自定义工具，支持iOS14.0-16.1.2",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/StatusMagic.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#ef9837",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/StatusMagic.png"
           ],
@@ -23,8 +23,26 @@
               {
                 "version": "1.0.2",
                 "date": "2023-02-08",
-                "localizedDescription": "状态栏自定义工具，支持iOS14.0-16.1.2",
+                "localizedDescription": "修复在iOS15上“隐藏DND”。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/StatusMagic_1.0.2.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.1.2"
+              },
+              {
+                "version": "1.0.1",
+                "date": "2023-02-07",
+                "localizedDescription": "1.修复VPN图标隐藏异常的问题；\n2.修复了A12设备上出现的问题；\n3.适配iOS16.2测试版；\n4.为那些仍有问题的人添加了“替代设置程序”；\n5.运营商文本修改方式优化；\n6.如果TrollStore被错误检测时，添加了强制使用MDC的选项；\n7.由于未知问题，“隐藏电池图标”的选项在iPad上不再可用。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/StatusMagic_1.0.1.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.1.2"
+              },
+              {
+                "version": "1.0",
+                "date": "2023-02-04",
+                "localizedDescription": "首次发布",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/StatusMagic_1.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -49,6 +67,33 @@
                 "date": "2023-10-03",
                 "localizedDescription": "状态栏时钟添加秒数及日期，支持iOS14.0-15.4.1",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/SecondHand_1.3.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "15.4.1"
+              },
+              {
+                "version": "1.2",
+                "date": "2023-03-11",
+                "localizedDescription": "1.添加了各种日期格式选项；\n2.添加了启动时的新版本检查。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/SecondHand_v1.2.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "15.4.1"
+              },
+              {
+                "version": "1.1",
+                "date": "2023-03-04",
+                "localizedDescription": "支持iOS测试版本。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/SecondHand_v1.1.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "15.4.1"
+              },
+              {
+                "version": "1.0",
+                "date": "2023-03-04",
+                "localizedDescription": "首次发布",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/SecondHand_v1.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "15.4.1"
@@ -612,8 +657,8 @@
           "name": "TrollCuts",
           "bundleIdentifier": "com.udevs.TrollCuts",
           "developerName": "udevsharold",
-          "subtitle": "快捷指令功能扩展，支持 iOS16 及以上。\n可用扩展：\n1.设备锁屏\n2.设备重启\n3.设备注销\n 4.重启用户空间\n5.一键切换巨魔应用用户/系统权限\n 6.iCloud 备份\n7.自动锁屏时间设置\n8.自动亮度开关",
-          "localizedDescription": "快捷指令功能扩展，支持 iOS16 及以上。\n可用扩展：\n1.设备锁屏\n2.设备重启\n3.设备注销\n 4.重启用户空间\n5.一键切换巨魔应用用户/系统权限\n 6.iCloud 备份\n7.自动锁屏时间设置\n8.自动亮度开关",
+          "subtitle": "快捷指令功能扩展，支持 iOS16 及以上。\n可用扩展：1.设备锁屏、2.设备重启、3.设备注销、4.重启用户空间、5.一键切换巨魔应用用户/系统权限、6.iCloud 备份、7.自动锁屏时间设置、8.自动亮度开关",
+          "localizedDescription": "快捷指令功能扩展，支持 iOS16 及以上。\n可用扩展：1.设备锁屏、2.设备重启、3.设备注销、4.重启用户空间、5.一键切换巨魔应用用户/系统权限、6.iCloud 备份、7.自动锁屏时间设置、8.自动亮度开关",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/TrollCuts.png",
           "tintColor": "#eaac71",
           "screenshotURLs": [
