@@ -907,9 +907,18 @@
           "versions": [
               {
                 "version": "1.1",
-                "date": "2024-01-18",
-                "localizedDescription": "支持 iOS 14.0 - 16.6.1 和 17.0 系统，支持安装第三方应用插件。",
+                "date": "2024-01-22",
+                "localizedDescription": "1.修复应用程序的通知问题;\n2.修复无法加载应用程序插件的问题;\n3.优化本地化语言，感谢贡献的开发者。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240124/Bootstrap_v1.1.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.0",
+                "date": "2024-01-18",
+                "localizedDescription": "1.合并了由@haxi0设计的swiftUI和@sourcelocation设计的图标;\n2.添加多种本地化语言，感谢贡献的开发人员;\n3.修复可能的code255错误。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/Bootstrap_v1.0.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1016,8 +1025,26 @@
               {
                 "version": "1.1.1",
                 "date": "2022-11-27",
-                "localizedDescription": "AirDrop 骚扰神器，支持TrollStore全版本。",
+                "localizedDescription": "修复发送过慢的问题。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/AirTroller-1.1.1.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.1",
+                "date": "2022-11-26",
+                "localizedDescription": "1.移除2人的限制；\n2.自定义图片。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/AirTroller-1.1.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.0",
+                "date": "2022-11-26",
+                "localizedDescription": "首次发布",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/AirTroller-1.0.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
