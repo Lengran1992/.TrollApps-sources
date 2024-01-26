@@ -63,11 +63,20 @@
           "subtitle": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
           "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/TrollSpeed.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#20a39b",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/TrollSpeed.png"
           ],
           "versions": [
+              {
+                "version": "1.10.1",
+                "date": "2024-01-25",
+                "localizedDescription": "外观优化：\n1.启用半粗体文本；\n2.禁用反色淡出动画效果。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_v1.10.1.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
               {
                 "version": "1.10.0",
                 "date": "2024-01-25",
@@ -166,30 +175,6 @@
         },
         {
           "name": "AppsDump2",
-          "bundleIdentifier": "cn.bswbw.AppsDump",
-          "developerName": "bswbw",
-          "subtitle": "应用程序脱壳工具，支持TrollStore全版本。",
-          "localizedDescription": "应用程序脱壳工具，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AppsDump2.png",
-          "tintColor": "#FF8B29",
-          "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/AppsDump2.png"
-          ],
-          "versions": [
-              {
-                "version": "2.0.3",
-                "date": "2023-12-10",
-                "localizedDescription": "应用程序脱壳工具，支持TrollStore全版本。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppsDump2_2.0.3.tipa",
-                "size": 331000,
-                "minOSVersion": "14.0",
-                "maxOSVersion": "16.6.1"
-              }
-            ],
-          "appPermissions": {}
-        },
-        {
-          "name": "AppsDump2",
           "bundleIdentifier": "cn.gblw.AppsDump",
           "developerName": "bswbw",
           "subtitle": "应用程序脱壳工具，支持TrollStore全版本。",
@@ -227,7 +212,7 @@
               {
                 "version": "1.0.7",
                 "date": "2022-10-12",
-                "localizedDescription": "查看健康状态、循环次数、容量、温度、电压、功率等信息，支持TrollStore全版本。",
+                "localizedDescription": "官方最新版本，支持TrollStore全版本。",
                 "downloadURL": "https://www.htv123.com/down/BatteryInfo_1.0.7.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
