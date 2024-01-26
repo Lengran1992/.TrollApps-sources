@@ -57,7 +57,7 @@
           "subtitle": "状态栏时钟添加秒数及日期，支持iOS14.0-15.4.1",
           "localizedDescription": "状态栏时钟添加秒数及日期，支持iOS14.0-15.4.1",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/SecondHand.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#e5ab1e",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/SecondHand.png"
           ],
@@ -65,7 +65,7 @@
               {
                 "version": "1.3",
                 "date": "2023-10-03",
-                "localizedDescription": "状态栏时钟添加秒数及日期，支持iOS14.0-15.4.1",
+                "localizedDescription": "1.支持iOS16.3及以上版本；\n2.在显示不支持之前，会进行读取权限的检查。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/SecondHand_1.3.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -636,7 +636,7 @@
           "subtitle": "文件管理器，支持TrollStore全版本。",
           "localizedDescription": "文件管理器，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Santander.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#ff9696",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/Santander.png"
           ],
@@ -888,7 +888,7 @@
           "subtitle": "支持 iOS 16.0 - 16.6.1 系统，需要配合 Bootstrap 工具构建越狱后，就能安装系统级插件，但有些插件功能不生效。",
           "localizedDescription": "支持 iOS 16.0 - 16.6.1 系统，需要配合 Bootstrap 工具构建越狱后，就能安装系统级插件，但有些插件功能不生效。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Serotonin.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#ffffff",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/Serotonin.png"
           ],
@@ -896,8 +896,35 @@
               {
                 "version": "1.2.1",
                 "date": "2024-01-17",
-                "localizedDescription": "支持 iOS 16.0 - 16.6.1 系统，需要配合 Bootstrap 工具构建越狱后，就能安装系统级插件，但有些插件功能不生效。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240124/Serotonin_v1.2.1.tipa",
+                "localizedDescription": "1.修复内存占用的问题；\n2.修复漏洞选择错误的问题；\n3.修复启动元素加在错误的问题；\n4.删除未使用的代码；\n5.轻微的UI改进。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/Serotonin-1.2.1.tipa",
+                "size": 881000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.2.0",
+                "date": "2024-01-14",
+                "localizedDescription": "1.修复重新安装和卸载Serotonin越狱的切换；\n2.修复了引导模式的切换；\n3.添加了隐藏文本的切换，感谢Fiore/Sugiuta。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/Serotonin-1.2.0.tipa",
+                "size": 881000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.1.0",
+                "date": "2024-01-09",
+                "localizedDescription": "1.修复支持iOS16.0-16.1.2及iOS16.6.1;\n因为不在需要特定的偏移量，应该支持所有arm64e的设备，支持arm64的设备将在稍后发布。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/Serotonin-1.1.0.tipa",
+                "size": 881000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.0.1",
+                "date": "2024-01-08",
+                "localizedDescription": "1.现在支持iOS16.0-16.6.1，这要归功于haxi0和wh1te4ever's，非常感谢！\n2.支持arm64；\n3.引导方式改进，用图像代替代码，感谢AlfieCG提供图像，palera1n团队提供引导方法\n4.应用程序图标改进。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/Serotonin-1.0.1.tipa",
                 "size": 881000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
