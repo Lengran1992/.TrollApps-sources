@@ -80,7 +80,7 @@
               {
                 "version": "1.10.0",
                 "date": "2024-01-25",
-                "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
+                "localizedDescription": "新增功能：支持实时反色。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_v1.10.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -89,7 +89,7 @@
               {
                 "version": "1.9.9",
                 "date": "2024-01-24",
-                "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
+                "localizedDescription": "1.应用程序：支持所有界面方向或样式；\n2.Bug修复：修复了缩放模式下错位的问题；\n3.翻译：更新的西班牙语翻译（感谢@Deci8ElioS）。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_v1.9.9.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -98,7 +98,7 @@
               {
                 "version": "1.9.8",
                 "date": "2024-01-23",
-                "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
+                "localizedDescription": "应用程序：支持所有界面方向或样式。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240123/TrollSpeed_v1.9.8.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -107,7 +107,7 @@
               {
                 "version": "1.9.6",
                 "date": "2024-01-19",
-                "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
+                "localizedDescription": "新增功能：添加选项，可以选择在屏幕截图或屏幕录制时隐藏。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240123/TrollSpeed_v1.9.6.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -116,8 +116,107 @@
               {
                 "version": "1.9.5",
                 "date": "2023-12-23",
-                "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
+                "localizedDescription": "Bug修复：网速在重新启用之前将一直存在。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/TrollSpeed_1.9.5.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.9.3",
+                "date": "2023-12-21",
+                "localizedDescription": "Bug修复：\n1.完全修复内存使用率高时网速消失的问题；\n2.修复触摸穿透异常的问题。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_1.9.3.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.9.2",
+                "date": "2023-12-20",
+                "localizedDescription": "Bug修复：\n1.在iOS 17及以上版本上恢复root权限以避免进程被杀死；\n2.在应用程序变为活动状态时重新加载主按钮状态；\n3.可能修复iOS 15.1之前触摸穿透异常的问题。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_1.9.2.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.9.1",
+                "date": "2023-12-16",
+                "localizedDescription": "实验性功能：通过点击和拖动调整网速的垂直位置。（不适用于居中HUD、并非所有版本的iOS都支持、支持在横屏模式下拖动）",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_1.9.1.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.9.0",
+                "date": "2023-12-16",
+                "localizedDescription": "实验性功能：通过点击和拖动调整网速的垂直位置。（不适用于居中HUD、并非所有版本的iOS都支持、支持在横屏模式下拖动）",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_1.9.0.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.8.9",
+                "date": "2023-12-16",
+                "localizedDescription": "实验性功能：通过轻敲和长按调整网速的垂直位置。（不适用于居中的HUD）",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_1.8.9.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.8.8",
+                "date": "2023-12-16",
+                "localizedDescription": "通过轻敲和长按调整网速的垂直位置。（不适用于居中的HUD）",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_1.8.8.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.8.7",
+                "date": "2023-12-15",
+                "localizedDescription": "1.将UILaunchStoryboardName条目添加到Info.plist；\n2.修复在iOS 17上触摸异常的问题。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_1.8.7.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.8.6",
+                "date": "2023-12-11",
+                "localizedDescription": "现在，您通过一下方式启用或禁用网速：\n1.应用程序触感触控菜单（长按应用程序图标）\n 2.URL schemes: \ntrollspeed://toggle\n trollspeed://on或trollspeed://off\n重要提示：从授权中删除com.apple.private.personona-mgmt，这意味着TrollSpeed将不再需要root权限。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_1.8.6.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.8.5",
+                "date": "2023-12-05",
+                "localizedDescription": "未提供说明。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_1.8.5.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.8.2",
+                "date": "2023-07-28",
+                "localizedDescription": "未提供说明。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_1.8.2.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+              {
+                "version": "1.1",
+                "date": "2023-01-19",
+                "localizedDescription": "未提供说明。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeedGreen_1.1.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
