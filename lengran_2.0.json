@@ -188,7 +188,7 @@
               {
                 "version": "1.8.6",
                 "date": "2023-12-11",
-                "localizedDescription": "现在，您通过一下方式启用或禁用网速：\n1.应用程序触感触控菜单（长按应用程序图标）\n 2.URL schemes: \ntrollspeed://toggle\n trollspeed://on或trollspeed://off\n重要提示：从授权中删除com.apple.private.personona-mgmt，这意味着TrollSpeed将不再需要root权限。",
+                "localizedDescription": "现在，您通过一下方式启用或禁用网速：\n1.应用程序触感触控菜单（长按应用程序图标）；\n2.URL schemes: trollspeed://toggle、trollspeed://on或trollspeed://off\n重要提示：从授权中删除com.apple.private.personona-mgmt，这意味着TrollSpeed将不再需要root权限。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_1.8.6.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
