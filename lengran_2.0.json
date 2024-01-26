@@ -500,7 +500,7 @@
               {
                 "version": "1.4",
                 "date": "2023-03-08",
-                "localizedDescription": "1.可以通过 URL schemes 启动应用，ResplingCC://；\n2.Bug修复。",
+                "localizedDescription": "1.可以通过 URL schemes 启动应用；\n2.Bug修复。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/RespringCC_1.4.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
