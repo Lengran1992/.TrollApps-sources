@@ -276,7 +276,7 @@
           "subtitle": "应用程序数据管理工具，支持iOS15.0-16.6.1",
           "localizedDescription": "应用程序数据管理工具，支持iOS15.0-16.6.1",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AppsManager.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#e24d08m",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/AppsManager.png"
           ],
@@ -300,7 +300,7 @@
           "subtitle": "文件管理器，支持iOS15.0-16.6.1",
           "localizedDescription": "文件管理器，支持iOS15.0-16.6.1",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Filza.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#0cc0ed",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/Filza.png"
           ],
@@ -324,7 +324,7 @@
           "subtitle": "应用程序脱壳工具，支持TrollStore全版本。",
           "localizedDescription": "应用程序脱壳工具，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AppsDump2.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#27cda6",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/AppsDump2.png"
           ],
@@ -356,7 +356,7 @@
               {
                 "version": "1.0.7",
                 "date": "2022-10-12",
-                "localizedDescription": "官方最新版本，支持TrollStore全版本。",
+                "localizedDescription": "官方最新版本",
                 "downloadURL": "https://www.htv123.com/down/BatteryInfo_1.0.7.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -372,7 +372,7 @@
           "subtitle": "应用程序降级工具，支持TrollStore全版本。",
           "localizedDescription": "应用程序降级工具，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AppStore++.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#53afee",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/AppStore++.png"
           ],
@@ -396,7 +396,7 @@
           "subtitle": "越狱插件备份工具，支持已越狱设备。",
           "localizedDescription": "越狱插件备份工具，支持已越狱设备。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/DEBbackup.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#79decc",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/DEBbackup.png"
           ],
@@ -420,7 +420,7 @@
           "subtitle": "应用程序降级工具，支持TrollStore全版本。",
           "localizedDescription": "应用程序降级工具，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/DowngradeApp.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#b1dac9",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/DowngradeApp.png"
           ],
@@ -468,7 +468,7 @@
           "subtitle": "“IPA提取器”是一个用于提取第三方网页中的ipa并进行测试的应用程序，支持TrollStore全版本。",
           "localizedDescription": "“IPA提取器”是一个用于提取第三方网页中的ipa并进行测试的应用程序，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/IpaDownloadTool.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#db0402",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/IpaDownloadTool.png"
           ],
@@ -552,7 +552,7 @@
           "subtitle": "设备固件查询工具，支持TrollStore全版本。",
           "localizedDescription": "设备固件查询工具，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/IPSW.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#fcc231",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/IPSW.png"
           ],
@@ -576,7 +576,7 @@
           "subtitle": "可以通过添加越狱源，了解插件更新的动态，对越狱插件进行下载，支持TrollStore全版本。",
           "localizedDescription": "可以通过添加越狱源，了解插件更新的动态，对越狱插件进行下载，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/PostBox.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#ffffff",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/PostBox.png"
           ],
@@ -600,7 +600,7 @@
           "subtitle": "状态栏小组件管理工具，支持TrollStore全版本。",
           "localizedDescription": "状态栏小组件管理工具，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Helium.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#61c6fa",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/Helium.png"
           ],
@@ -624,7 +624,7 @@
           "subtitle": "让你随时掌握iPhone电池的健康状态，支持TrollStore全版本。",
           "localizedDescription": "让你随时掌握iPhone电池的健康状态，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/BatteryLife.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#40f055",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/BatteryLife.png"
           ],
@@ -648,7 +648,7 @@
           "subtitle": "注销工具，支持TrollStore全版本。",
           "localizedDescription": "注销工具，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/InstaSpring.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#bfbfbf",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/InstaSpring.png"
           ],
@@ -852,7 +852,7 @@
           "subtitle": "更改您的 CarPlay 壁纸，支持TrollStore全版本。",
           "localizedDescription": "更改您的 CarPlay 壁纸，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AirWall.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#d76f31",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/AirWall.png"
           ],
@@ -876,7 +876,7 @@
           "subtitle": "在 CarPlay 上播放视频，支持TrollStore全版本。",
           "localizedDescription": "在 CarPlay 上播放视频，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/CarMovie.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#efeff2",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/CarMovie.png"
           ],
@@ -900,7 +900,7 @@
           "subtitle": "支持 iOS 14.0 - 16.6.1 和 17.0 系统，支持安装第三方应用插件。",
           "localizedDescription": "支持 iOS 14.0 - 16.6.1 和 17.0 系统，支持安装第三方应用插件。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Bootstrap.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#d7effb",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/Bootstrap.png"
           ],
@@ -1008,7 +1008,7 @@
           "subtitle": "AirDrop 骚扰神器，支持TrollStore全版本。",
           "localizedDescription": "AirDrop 骚扰神器，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AirTroller.png",
-          "tintColor": "#FF8B29",
+          "tintColor": "#51e06f",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/AirTroller.png"
           ],
