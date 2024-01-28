@@ -333,7 +333,7 @@
                 "version": "2.0.7",
                 "date": "2024-01-21",
                 "localizedDescription": "应用程序脱壳工具，支持TrollStore全版本。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240124/AppsDump2_v2.0.7.tipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240124/AppDump2_v2.0.7.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1045,6 +1045,30 @@
                 "date": "2022-11-26",
                 "localizedDescription": "首次发布",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/AirTroller-1.0.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "AppIndex",
+          "bundleIdentifier": "com.serena.AppIndex",
+          "developerName": "Antoine",
+          "subtitle": "应用程序管理器，支持TrollStore全版本。",
+          "localizedDescription": "应用程序管理器，支持TrollStore全版本。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AppIndex.png",
+          "tintColor": "#9867dd",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/AppIndex.png"
+          ],
+          "versions": [
+              {
+                "version": "1.0",
+                "date": "2023-04-04",
+                "localizedDescription": "首次发布",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/AppIndex_v1.0.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
