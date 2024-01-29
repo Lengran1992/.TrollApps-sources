@@ -117,7 +117,7 @@
                 "version": "1.11.0-iOS16",
                 "date": "2024-01-28",
                 "localizedDescription": "新增功能：对iOS16及以上版本增加快捷指令的支持。\n如果想要使用这个功能，请安装TrollSpeed+AppIntents16_*.tipa。\n如果不想使用该功能或系统版本iOS15及以下，请安装TrollSpeed_*.tipa。\n特别感谢：@udevsharold的TrollCuts。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed+AppIntents16_1.11.0.tipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/TrollSpeed+AppIntents16_1.11.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -126,7 +126,7 @@
                 "version": "1.11.0-iOS15",
                 "date": "2024-01-28",
                 "localizedDescription": "新增功能：对iOS16及以上版本增加快捷指令的支持。\n如果想要使用这个功能，请安装TrollSpeed+AppIntents16_*.tipa。\n如果不想使用该功能或系统版本iOS15及以下，请安装TrollSpeed_*.tipa。\n特别感谢：@udevsharold的TrollCuts。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_v1.11.0.tipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/TrollSpeed_v1.11.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -135,7 +135,7 @@
                 "version": "1.10.2",
                 "date": "2024-01-26",
                 "localizedDescription": "细节优化",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_v1.10.2.tipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/TrollSpeed_v1.10.2.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
