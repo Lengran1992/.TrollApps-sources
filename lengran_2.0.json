@@ -1099,6 +1099,57 @@
               }
             ],
           "appPermissions": {}
+        },
+        {
+          "name": "电话助手",
+          "bundleIdentifier": "com.apple.mobilephone-call",
+          "developerName": "xybp888",
+          "subtitle": "电话助手巨魔版，请按照系统下载对应版本，支持TrollStore全版本。",
+          "localizedDescription": "电话助手巨魔版，请按照系统下载对应版本，支持TrollStore全版本。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/CallAssist.png",
+          "tintColor": "#686a71",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/CallAssist.png"
+          ],
+          "versions": [
+              {
+                "version": "36-17",
+                "date": "2023-12-22",
+                "localizedDescription": "适用于iOS17",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS17.tipa",
+                "size": 881000,
+                "minOSVersion": "17.0",
+                "maxOSVersion": "17.9.9"
+              },
+              {
+                "version": "36-16",
+                "date": "2023-12-22",
+                "localizedDescription": "适用于iOS16",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS16.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.7.5"
+              },
+              {
+                "version": "36-15",
+                "date": "2023-12-22",
+                "localizedDescription": "适用于iOS15",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS15.ipa",
+                "size": 881000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "15.8.1"
+              },
+              {
+                "version": "36-14",
+                "date": "2023-12-22",
+                "localizedDescription": "适用于iOS14",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS14.ipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "14.8.1"
+              }
+            ],
+          "appPermissions": {}
         }
     ],
     "news": []
