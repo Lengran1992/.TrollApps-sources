@@ -1107,7 +1107,7 @@
           "subtitle": "电话助手巨魔版，请按照系统下载对应版本，支持TrollStore全版本。",
           "localizedDescription": "电话助手巨魔版，请按照系统下载对应版本，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/CallAssist.png",
-          "tintColor": "#4dec68",
+          "tintColor": "#47e862",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/CallAssist.png"
           ],
