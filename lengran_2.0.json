@@ -105,14 +105,41 @@
           "name": "TrollSpeed",
           "bundleIdentifier": "ch.xxtou.hudapp",
           "developerName": "Lessica & jmpews",
-          "subtitle": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
-          "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。",
+          "subtitle": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。\n注意：从1.11.0版本开始，新增iOS16及以上快捷指令的支持，请按照系统下载对应版本。",
+          "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。\n注意：从1.11.0版本开始，新增iOS16及以上快捷指令的支持，请按照系统下载对应版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/TrollSpeed.png",
           "tintColor": "#20a39b",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/TrollSpeed.png"
           ],
           "versions": [
+              {
+                "version": "1.11.0-iOS16",
+                "date": "2024-01-28",
+                "localizedDescription": "新增功能：对iOS16及以上版本增加快捷指令的支持。\n如果想要使用这个功能，请安装TrollSpeed+AppIntents16_*.tipa。\n如果不想使用该功能或系统版本iOS15及以下，请安装TrollSpeed_*.tipa。\n特别感谢：@udevsharold的TrollCuts。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed+AppIntents16_1.11.0.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.11.0-iOS15",
+                "date": "2024-01-28",
+                "localizedDescription": "新增功能：对iOS16及以上版本增加快捷指令的支持。\n如果想要使用这个功能，请安装TrollSpeed+AppIntents16_*.tipa。\n如果不想使用该功能或系统版本iOS15及以下，请安装TrollSpeed_*.tipa。\n特别感谢：@udevsharold的TrollCuts。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_v1.10.1.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.10.2",
+                "date": "2024-01-26",
+                "localizedDescription": "细节优化",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_v1.10.2.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
               {
                 "version": "1.10.1",
                 "date": "2024-01-25",
@@ -306,9 +333,18 @@
           ],
           "versions": [
               {
+                "version": "4.0-NoUrlScheme",
+                "date": "2022-11-21",
+                "localizedDescription": "去除 Url Scheme，屏蔽数字人民币检测越狱。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/Filza_4.0.0_NoUrlScheme.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
                 "version": "4.0",
                 "date": "2022-11-21",
-                "localizedDescription": "文件管理器，支持iOS15.0-16.6.1",
+                "localizedDescription": "官方最新版本",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/Filza_4.0.0.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
@@ -1113,7 +1149,7 @@
           ],
           "versions": [
               {
-                "version": "36-17",
+                "version": "36-iOS17",
                 "date": "2023-12-22",
                 "localizedDescription": "适用于iOS17",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS17.tipa",
@@ -1122,7 +1158,7 @@
                 "maxOSVersion": "17.9.9"
               },
               {
-                "version": "36-16",
+                "version": "36-iOS16",
                 "date": "2023-12-22",
                 "localizedDescription": "适用于iOS16",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS16.tipa",
@@ -1131,7 +1167,7 @@
                 "maxOSVersion": "16.7.5"
               },
               {
-                "version": "36-15",
+                "version": "36-iOS15",
                 "date": "2023-12-22",
                 "localizedDescription": "适用于iOS15",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS15.ipa",
@@ -1140,7 +1176,7 @@
                 "maxOSVersion": "15.8.1"
               },
               {
-                "version": "36-14",
+                "version": "36-iOS14",
                 "date": "2023-12-22",
                 "localizedDescription": "适用于iOS14",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS14.ipa",
