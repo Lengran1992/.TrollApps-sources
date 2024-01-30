@@ -311,7 +311,7 @@
               {
                 "version": "1.8",
                 "date": "2023-11-28",
-                "localizedDescription": "应用程序数据管理工具，支持iOS15.0-16.6.1",
+                "localizedDescription": "官方最新版本",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppsManager_1.8.4.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
@@ -368,7 +368,7 @@
               {
                 "version": "2.0.7",
                 "date": "2024-01-21",
-                "localizedDescription": "应用程序脱壳工具，支持TrollStore全版本。",
+                "localizedDescription": "官方最新版本",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/AppsDump2_v2.0.7.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -416,7 +416,7 @@
               {
                 "version": "1.0.3",
                 "date": "2022-09-22",
-                "localizedDescription": "应用程序降级工具，支持TrollStore全版本。",
+                "localizedDescription": "官方最新版本",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppStore++_1.0.3.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -440,7 +440,7 @@
               {
                 "version": "1.0",
                 "date": "2023-05-06",
-                "localizedDescription": "越狱插件备份工具，支持已越狱设备。",
+                "localizedDescription": "官方最新版本",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/DEBbackup_1.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -464,7 +464,7 @@
               {
                 "version": "1.1-8",
                 "date": "2023-11-30",
-                "localizedDescription": "应用程序降级工具，支持TrollStore全版本。",
+                "localizedDescription": "官方最新版本",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/DowngradeApp_1.1-8.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -596,7 +596,7 @@
               {
                 "version": "1.0",
                 "date": "2022-07-28",
-                "localizedDescription": "设备固件查询工具，支持TrollStore全版本。",
+                "localizedDescription": "官方最新版本",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/IPSW_1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -620,7 +620,7 @@
               {
                 "version": "0.8.1",
                 "date": "2022-08-28",
-                "localizedDescription": "可以通过添加越狱源，了解插件更新的动态，对越狱插件进行下载，支持TrollStore全版本。",
+                "localizedDescription": "官方最新版本",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/PostBox_0.8.1.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -668,7 +668,7 @@
               {
                 "version": "3.2.1",
                 "date": "2021-01-19",
-                "localizedDescription": "让你随时掌握iPhone电池的健康状态，支持TrollStore全版本。",
+                "localizedDescription": "官方最新版本",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/BatteryLife_3.2.1.ipa",
                 "size": 631000,
                 "minOSVersion": "14.0",
@@ -692,7 +692,7 @@
               {
                 "version": "1.0",
                 "date": "2021-01-19",
-                "localizedDescription": "注销工具，支持TrollStore全版本。",
+                "localizedDescription": "官方最新版本",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/InstaSpring_1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -896,8 +896,17 @@
               {
                 "version": "1.5",
                 "date": "2023-12-02",
-                "localizedDescription": "更改您的 CarPlay 壁纸，支持TrollStore全版本。",
+                "localizedDescription": "官方最新版本",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240123/AirWall.v1.5.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.0",
+                "date": "2023-11-10",
+                "localizedDescription": "首次发布",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240130/AirWall_v1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -920,8 +929,26 @@
               {
                 "version": "1.2",
                 "date": "2023-12-26",
-                "localizedDescription": "在 CarPlay 上播放视频，支持TrollStore全版本。",
+                "localizedDescription": "1.视频现在可以按文件夹进行分类管理；\n2.改进了CarPlay视频播放屏幕的交互界面；\n3.添加新视频时，新增输入视频元信息的界面；\n4.在应用程序启动时，进行版本更新检测；\n5.支持Url链接的视频的播放。（m3u8、m3u、mp4、mp3等）",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240124/CarMovie_v1.2.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.1",
+                "date": "2023-12-17",
+                "localizedDescription": "修复了左驾驶车辆无法正确显示图像的问题。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240130/CarMovie.v1.1.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.0",
+                "date": "2023-12-16",
+                "localizedDescription": "首次发布",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240130/CarMovie_v1.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -995,7 +1022,7 @@
               {
                 "version": "1.1.0",
                 "date": "2024-01-09",
-                "localizedDescription": "1.修复支持iOS16.0-16.1.2及iOS16.6.1;\n因为不在需要特定的偏移量，应该支持所有arm64e的设备，支持arm64的设备将在稍后发布。",
+                "localizedDescription": "1.修复支持iOS16.0-16.1.2及iOS16.6.1;\n因为不再需要特定的偏移量，应该支持所有arm64e的设备，支持arm64的设备将在稍后发布。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/Serotonin-1.1.0.tipa",
                 "size": 881000,
                 "minOSVersion": "16.0",
