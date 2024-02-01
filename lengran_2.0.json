@@ -6,7 +6,7 @@
     "headerURL": "https://avatars.githubusercontent.com/u/35867569?v=4",
     "website": "https://lengran1992.github.io/repo/",
     "tintColor": "#F54F32",
-    "featuredApps": ["", "", ""],
+    "featuredApps": ["ch.xxtou.hudapp", "com.roothide.Bootstrap", "com.apple.mobilephone-call", "com.callassist.batteryinfolist"],
     "apps": [
         {
           "name": "StatusMagic",
@@ -113,6 +113,24 @@
               "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/TrollSpeed.png"
           ],
           "versions": [
+              {
+                "version": "1.11.2-iOS16",
+                "date": "2024-01-31",
+                "localizedDescription": "外观：\n自定义网速字体大小。\n兼容性：\n快捷指令仅在iOS16及以上开启或关闭。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240201/TrollSpeed+AppIntents16_1.11.2.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.11.2-iOS15",
+                "date": "2024-01-31",
+                "localizedDescription": "外观：\n自定义网速字体大小。\n兼容性：\n快捷指令仅在iOS16及以上开启或关闭。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240201/TrollSpeed_v1.11.2.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
               {
                 "version": "1.11.0-iOS16",
                 "date": "2024-01-28",
@@ -971,6 +989,15 @@
               {
                 "version": "1.1",
                 "date": "2024-01-22",
+                "localizedDescription": "1.修复了在为某些应用程序启用调整时，首选项设置应用程序可能被错误重定向的问题；\n2.改进本地化语言，感谢做出贡献的开发人员；\n3.清理未使用的代码。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240201/Bootstrap_v1.1.1.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.1",
+                "date": "2024-01-22",
                 "localizedDescription": "1.修复应用程序的通知问题;\n2.修复无法加载应用程序插件的问题;\n3.优化本地化语言，感谢贡献的开发者。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240124/Bootstrap_v1.1.tipa",
                 "size": 881000,
@@ -981,7 +1008,7 @@
                 "version": "1.0",
                 "date": "2024-01-18",
                 "localizedDescription": "1.合并了由@haxi0设计的swiftUI和@sourcelocation设计的图标;\n2.添加多种本地化语言，感谢贡献的开发人员;\n3.修复可能的code255错误。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/Bootstrap_v1.0.tipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240130/Bootstrap_v1.0.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1014,7 +1041,7 @@
                 "version": "1.2.0",
                 "date": "2024-01-14",
                 "localizedDescription": "1.修复重新安装和卸载Serotonin越狱的切换；\n2.修复了引导模式的切换；\n3.添加了隐藏文本的切换，感谢Fiore/Sugiuta。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/Serotonin-1.2.0.tipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240130/Serotonin-1.2.0.tipa",
                 "size": 881000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
