@@ -987,8 +987,8 @@
           ],
           "versions": [
               {
-                "version": "1.1",
-                "date": "2024-01-22",
+                "version": "1.1.1",
+                "date": "2024-02-01",
                 "localizedDescription": "1.修复了在为某些应用程序启用调整时，首选项设置应用程序可能被错误重定向的问题；\n2.改进本地化语言，感谢做出贡献的开发人员；\n3.清理未使用的代码。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240201/Bootstrap_v1.1.1.tipa",
                 "size": 881000,
