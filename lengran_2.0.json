@@ -366,34 +366,19 @@
           ],
           "versions": [
               {
-                "version": "4.0",
-                "date": "2022-11-21",
-                "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/Filza_4.0.0.tipa",
-                "size": 331000,
-                "minOSVersion": "15.0",
-                "maxOSVersion": "16.6.1"
-              }
-            ],
-          "appPermissions": {}
-        },
-        {
-          "name": "Filza File Manager - NoUrlScheme",
-          "bundleIdentifier": "com.tigisoftware.Filza",
-          "developerName": "TIGI Software",
-          "subtitle": "文件管理器，支持iOS15.0-16.6.1。\n去除 Url Scheme，屏蔽数字人民币检测越狱。",
-          "localizedDescription": "文件管理器，支持iOS15.0-16.6.1。\n去除 Url Scheme，屏蔽数字人民币检测越狱。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Filza.png",
-          "tintColor": "#0cc0ed",
-          "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/Filza.png"
-          ],
-          "versions": [
-              {
                 "version": "4.0-NoUrlScheme",
                 "date": "2022-11-21",
                 "localizedDescription": "去除 Url Scheme，屏蔽数字人民币检测越狱。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/Filza_4.0.0_NoUrlScheme.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "4.0",
+                "date": "2022-11-21",
+                "localizedDescription": "官方最新版本",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/Filza_4.0.0.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
