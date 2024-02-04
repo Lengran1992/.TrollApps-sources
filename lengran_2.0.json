@@ -1300,11 +1300,11 @@
           "appPermissions": {}
         },
         {
-          "name": "轻松签+",
+          "name": "轻松签",
           "bundleIdentifier": "p3.xyz.yyyue.esign",
           "developerName": "ESign",
-          "subtitle": "轻松签+，手机端ipa签名工具。",
-          "localizedDescription": "轻松签+，手机端ipa签名工具。",
+          "subtitle": "轻松签，手机端ipa签名工具。",
+          "localizedDescription": "轻松签，手机端ipa签名工具。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/ESign.png",
           "tintColor": "#4899f7",
           "screenshotURLs": [
