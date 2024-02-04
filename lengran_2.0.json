@@ -1278,7 +1278,7 @@
         {
           "name": "Plist Editor",
           "bundleIdentifier": "com.plisteditor.SamoExc",
-          "developerName": "SamoXcZ",
+          "developerName": "ESign",
           "subtitle": "Plist编辑器，实测支持iOS16，在iOS15上闪退。",
           "localizedDescription": "Plist编辑器，实测支持iOS16，在iOS15上闪退。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/PlistEditor.png",
@@ -1289,9 +1289,58 @@
           "versions": [
               {
                 "version": "2.0",
-                "date": "2022-02-02",
+                "date": "2024-02-02",
                 "localizedDescription": "官方最新版本",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240204/PlistEditor_2.0.ipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "轻松签+",
+          "bundleIdentifier": "p3.xyz.yyyue.esign",
+          "developerName": "ESign",
+          "subtitle": "轻松签+，手机端ipa签名工具。",
+          "localizedDescription": "轻松签+，手机端ipa签名工具。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/ESign.png",
+          "tintColor": "#4899f7",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/ESign_01.png",
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/ESign_02.png"
+          ],
+          "versions": [
+              {
+                "version": "5.0.2",
+                "date": "2024-01-28",
+                "localizedDescription": "官方最新版本",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240204/ESign_5.0.2.ipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "JetSign",
+          "bundleIdentifier": "com.jetsign.app",
+          "developerName": "ESign",
+          "subtitle": "轻松签安装器",
+          "localizedDescription": "轻松签安装器",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/JetSign.png",
+          "tintColor": "#27548c",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/JetSign.png"
+          ],
+          "versions": [
+              {
+                "version": "2.5.4",
+                "date": "2024-01-21",
+                "localizedDescription": "官方最新版本",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240204/JetSign_v2.5.4.ipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
