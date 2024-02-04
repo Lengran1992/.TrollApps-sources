@@ -102,7 +102,7 @@
           "appPermissions": {}
         },
         {
-          "name": "TrollSpeed iOS16",
+          "name": "TrollSpeed（iOS16）",
           "bundleIdentifier": "ch.xxtou.hudapp",
           "developerName": "Lessica & jmpews",
           "subtitle": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。\n注意：从1.11.0版本开始，新增iOS16及以上快捷指令的支持，请按照系统下载对应版本。",
