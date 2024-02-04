@@ -1241,8 +1241,7 @@
               }
             ],
           "appPermissions": {}
-        }
-        ,
+        },
         {
           "name": "OTADisabler",
           "bundleIdentifier": "com.ichitaso.otadisablerts",
@@ -1269,6 +1268,30 @@
                 "date": "2022-01-27",
                 "localizedDescription": "首次发布",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240202/OTADisabler_1.0.0.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "Plist Editor",
+          "bundleIdentifier": "com.plisteditor.SamoExc",
+          "developerName": "SamoXcZ",
+          "subtitle": "Plist编辑器，实测支持iOS16，在iOS15上闪退。",
+          "localizedDescription": "Plist编辑器，实测支持iOS16，在iOS15上闪退。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/PlistEditor.png",
+          "tintColor": "#fefd65",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/PlistEditor.png"
+          ],
+          "versions": [
+              {
+                "version": "2.0",
+                "date": "2022-02-02",
+                "localizedDescription": "官方最新版本",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240204/PlistEditor_2.0.ipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
