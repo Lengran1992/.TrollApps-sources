@@ -1436,8 +1436,8 @@
           "name": "Antoine",
           "bundleIdentifier": "com.serena.Antoine",
           "developerName": "Serena",
-          "subtitle": "Antoine是适用于iOS和iPadOS设备的系统日志查看软件，允许您实时查看系统日志，并能够按进程、消息、类型等过滤日志。\n如果你以前在macOS上使用过Console.app，可以将其视为iOS版的平替软件。",
-          "localizedDescription": "Antoine是适用于iOS和iPadOS设备的系统日志查看软件，允许您实时查看系统日志，并能够按进程、消息、类型等过滤日志。\n如果你以前在macOS上使用过Console.app，可以将其视为iOS版的平替软件。",
+          "subtitle": "Antoine是适用于iOS和iPadOS设备的系统日志查看软件，允许您实时查看系统日志，并能够按进程、消息、类型等条件过滤日志。\n如果你以前在macOS上使用过Console.app，可以将其视为iOS版的平替软件。",
+          "localizedDescription": "Antoine是适用于iOS和iPadOS设备的系统日志查看软件，允许您实时查看系统日志，并能够按进程、消息、类型等条件过滤日志。\n如果你以前在macOS上使用过Console.app，可以将其视为iOS版的平替软件。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Antoine.png",
           "tintColor": "#497a6f",
           "screenshotURLs": [
