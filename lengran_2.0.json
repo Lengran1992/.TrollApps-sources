@@ -1398,6 +1398,30 @@
               }
             ],
           "appPermissions": {}
+        },
+        {
+          "name": "AlDente",
+          "bundleIdentifier": "chaoge.AlDente",
+          "developerName": "lich4",
+          "subtitle": "MacOS系统上大名鼎鼎的AlDente，本人针对iOS重新开发，适用于长时间过冲情况下保护电池健康度。\niOS<=14需要越狱+安装deb使用, 每次越狱时自动启动\niOS>=15需要TrollStore+安装tipa使用",
+          "localizedDescription": "MacOS系统上大名鼎鼎的AlDente，本人针对iOS重新开发，适用于长时间过冲情况下保护电池健康度。\niOS<=14需要越狱+安装deb使用, 每次越狱时自动启动\niOS>=15需要TrollStore+安装tipa使用",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AlDente.png",
+          "tintColor": "#727272",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/AlDente.png"
+          ],
+          "versions": [
+              {
+                "version": "1.0",
+                "date": "2024-02-04",
+                "localizedDescription": "首次发布",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240205/AlDente_v1.0.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              }
+            ],
+          "appPermissions": {}
         }
     ],
     "news": []
