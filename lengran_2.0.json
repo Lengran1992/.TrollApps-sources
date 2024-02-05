@@ -1041,7 +1041,7 @@
               {
                 "version": "1.2.1",
                 "date": "2024-02-05",
-                "localizedDescription": "1.修复了越狱应用的主目录路径不正确的问题；\n2.修复了安装deb包时可能导致dpkg数据损坏的问题；\n3.更新了apt的strapfiles，并修复了apt在安装deb包时环境变量路径不正确的问题；\n4.修复了注入调整后Shortcuts/Spotlight/MobileMail无法正确工作的问题；\n5.在应用设置中添加了一个“重置移动用户密码”的按钮；\n6.将内置的Zebra更新到1.1.36-1以解决以下问题：修复了安装与llvm相关的软件包时无法正确解析依赖关系的问题；修复了安装ffmpeg时无法正确解析依赖关系的问题；修复了一些潜在的错误并提高了稳定性；\n7.将内置的Sileo更新到2.5-12，解决以下问题：修复了安装与llvm相关的软件包时无法取消下载的问题；修复了启动时可能意外删除图像缓存的问题；为已安装的软件包列表添加了下拉刷新功能；修复了一些可能导致崩溃的其他错误并提高了稳定性；；\n8.修复了与Serotonin一起使用时由1.2引起的主屏幕错误和设备过热问题；\n9.修复了1.2中可能导致Sileo在某些设备上崩溃的问题；\n10.修复了启用某些应用程序调整时可能出现的代码（255）错误的问题。",
+                "localizedDescription": "1.修复了越狱应用的主目录路径不正确的问题；\n2.修复了安装deb包时可能导致dpkg数据损坏的问题；\n3.更新了apt的strapfiles，并修复了apt在安装deb包时环境变量路径不正确的问题；\n4.修复了注入调整后Shortcuts/Spotlight/MobileMail无法正确工作的问题；\n5.在应用设置中添加了一个“重置移动用户密码”的按钮；\n6.将内置的Zebra更新到1.1.36-1以解决以下问题：修复了安装与llvm相关的软件包时无法正确解析依赖关系的问题；修复了安装ffmpeg时无法正确解析依赖关系的问题；修复了一些潜在的错误并提高了稳定性；\n7.将内置的Sileo更新到2.5-12，解决以下问题：修复了安装与llvm相关的软件包时无法取消下载的问题；修复了启动时可能意外删除图像缓存的问题；为已安装的软件包列表添加了下拉刷新功能；修复了一些可能导致崩溃的其他错误并提高了稳定性；\n8.修复了与Serotonin一起使用时由1.2引起的主屏幕错误和设备过热问题；\n9.修复了1.2中可能导致Sileo在某些设备上崩溃的问题；\n10.修复了启用某些应用程序调整时可能出现的代码（255）错误的问题。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240205/Bootstrap_v1.2.1.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
@@ -1428,6 +1428,40 @@
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "Antoine",
+          "bundleIdentifier": "com.serena.Antoine",
+          "developerName": "Serena",
+          "subtitle": "Antoine是适用于iOS和iPadOS设备的系统日志查看软件，允许您实时查看系统日志，并能够按进程、消息、类型等过滤日志。\n如果你以前在macOS上使用过Console.app，可以将其视为iOS版的平替软件。",
+          "localizedDescription": "Antoine是适用于iOS和iPadOS设备的系统日志查看软件，允许您实时查看系统日志，并能够按进程、消息、类型等过滤日志。\n如果你以前在macOS上使用过Console.app，可以将其视为iOS版的平替软件。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/Antoine.png",
+          "tintColor": "#497a6f",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/Antoine_01.png",
+              "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/screenshots/Antoine_02.png"
+          ],
+          "versions": [
+              {
+                "version": "1.3",
+                "date": "2023-08-18",
+                "localizedDescription": "用于显示大多数日志的＜private＞vars的实际值的选项（默认为打开）",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240205/AntoineTrollStore_v1.3.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.2",
+                "date": "2023-05-12",
+                "localizedDescription": "1.修复了iOS13上不显示文本消息的问题；\n2.改进了运行方式以获得更好的性能；\n3.支持日志的导出和导入。（文件扩展名为.antoinelog，基于JSON）",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240205/AntoineTrollStore_v1.2.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
               }
             ],
           "appPermissions": {}
