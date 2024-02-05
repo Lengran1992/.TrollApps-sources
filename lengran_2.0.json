@@ -823,9 +823,18 @@
           ],
           "versions": [
               {
+                "version": "1.8.0",
+                "date": "2024-02-05",
+                "localizedDescription": "1.（iOS 16+）可以手动添加应用程序快捷方式，允许您单独配置每个LED（仅适用于四个LED设备）;\n2.（iOS 16+）添加了全部关闭的应用程序快捷方式，可关闭所有LED；\n3.全部开启的快捷方式将打开双LED设备上的单个白色LED。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240205/TrollLEDs_v1.8.0.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "1.7.0",
                 "date": "2024-02-04",
-                "localizedDescription": "增加对快捷指令的支持。（iOS16及以上）",
+                "localizedDescription": "增加对快捷指令的支持。（iOS16+）",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240204/TrollLEDs_v1.7.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
