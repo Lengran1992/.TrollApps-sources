@@ -1421,8 +1421,26 @@
           ],
           "versions": [
               {
+                "version": "1.1",
+                "date": "2024-02-10",
+                "localizedDescription": "未提供说明",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240211/AlDente_v1.1.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.0.1",
+                "date": "2024-02-05",
+                "localizedDescription": "1.TrollStore实现真后台，杀掉前台进程不会导致后台进程被杀；\n2.修复巨魔和越狱环境共存时WKWebView不回调导致黑屏的问题；\n3.增加本地通知，到达阈值时在桌面通知中提醒。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240211/AlDente_v1.0.1.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "1.0",
-                "date": "2024-02-04",
+                "date": "2024-02-03",
                 "localizedDescription": "首次发布",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240205/AlDente_v1.0.tipa",
                 "size": 881000,
