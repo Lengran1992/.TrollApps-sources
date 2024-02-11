@@ -1206,7 +1206,7 @@
         {
           "name": "AppIndex",
           "bundleIdentifier": "com.serena.AppIndex",
-          "developerName": "Antoine",
+          "developerName": "Serena",
           "subtitle": "应用程序管理器，支持TrollStore全版本。",
           "localizedDescription": "应用程序管理器，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/AppIndex.png",
@@ -1338,7 +1338,7 @@
         {
           "name": "Plist Editor",
           "bundleIdentifier": "com.plisteditor.SamoExc",
-          "developerName": "ESign",
+          "developerName": "SamoXcZ",
           "subtitle": "Plist编辑器，实测支持iOS16，在iOS15上闪退。",
           "localizedDescription": "Plist编辑器，实测支持iOS16，在iOS15上闪退。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/TrollApps/main/icons/PlistEditor.png",
