@@ -104,7 +104,7 @@
         {
           "name": "TrollSpeed（iOS16）",
           "bundleIdentifier": "ch.xxtou.hudapp",
-          "developerName": "Lessica & jmpews",
+          "developerName": "i_82",
           "subtitle": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。\n注意：从1.11.0版本开始，新增iOS16及以上快捷指令的支持，请按照系统下载对应版本。",
           "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。\n注意：从1.11.0版本开始，新增iOS16及以上快捷指令的支持，请按照系统下载对应版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollSpeed.png",
@@ -137,7 +137,7 @@
         {
           "name": "TrollSpeed",
           "bundleIdentifier": "ch.xxtou.hudapp",
-          "developerName": "Lessica & jmpews",
+          "developerName": "i_82",
           "subtitle": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。\n注意：从1.11.0版本开始，新增iOS16及以上快捷指令的支持，请按照系统下载对应版本。",
           "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。\n注意：从1.11.0版本开始，新增iOS16及以上快捷指令的支持，请按照系统下载对应版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollSpeed.png",
@@ -1409,8 +1409,8 @@
           "appPermissions": {}
         },
         {
-          "name": "AlDente",
-          "bundleIdentifier": "chaoge.AlDente",
+          "name": "ChargeLimiter",
+          "bundleIdentifier": "chaoge.ChargeLimiter",
           "developerName": "lich4",
           "subtitle": "MacOS系统上大名鼎鼎的AlDente，本人针对iOS重新开发，适用于长时间过冲情况下保护电池健康度。\niOS<=14需要越狱+安装deb使用, 每次越狱时自动启动\niOS>=15需要TrollStore+安装tipa使用",
           "localizedDescription": "MacOS系统上大名鼎鼎的AlDente，本人针对iOS重新开发，适用于长时间过冲情况下保护电池健康度。\niOS<=14需要越狱+安装deb使用, 每次越狱时自动启动\niOS>=15需要TrollStore+安装tipa使用",
@@ -1421,28 +1421,10 @@
           ],
           "versions": [
               {
-                "version": "1.1",
-                "date": "2024-02-10",
-                "localizedDescription": "未提供说明",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240211/AlDente_v1.1.tipa",
-                "size": 881000,
-                "minOSVersion": "14.0",
-                "maxOSVersion": "17.0"
-              },
-              {
-                "version": "1.0.1",
-                "date": "2024-02-05",
-                "localizedDescription": "1.TrollStore实现真后台，杀掉前台进程不会导致后台进程被杀；\n2.修复巨魔和越狱环境共存时WKWebView不回调导致黑屏的问题；\n3.增加本地通知，到达阈值时在桌面通知中提醒。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240211/AlDente_v1.0.1.tipa",
-                "size": 881000,
-                "minOSVersion": "14.0",
-                "maxOSVersion": "17.0"
-              },
-              {
-                "version": "1.0",
-                "date": "2024-02-03",
-                "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240205/AlDente_v1.0.tipa",
+                "version": "1.3",
+                "date": "2024-02-12",
+                "localizedDescription": "1.解决开启“优化电池充电”导致本工具无效的问题；\n2.增加无根越狱支持；\n3.由于知识产权原因本项目名称从AlDente修改为ChargeLimiter。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240213/ChargeLimiter_v1.3.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1477,6 +1459,39 @@
                 "date": "2023-05-12",
                 "localizedDescription": "1.修复了iOS13上不显示文本消息的问题；\n2.改进了运行方式以获得更好的性能；\n3.支持日志的导出和导入。（文件扩展名为.antoinelog，基于JSON）",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240205/AntoineTrollStore_v1.2.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "Cardio",
+          "bundleIdentifier": "com.cisc0freak.cardio",
+          "developerName": "cisc0disco",
+          "subtitle": "Apple Pay 卡片图案更换，支持iOS14.0-15.4.1(15.5b4)，实测支持iOS16",
+          "localizedDescription": "Apple Pay 卡片图案更换，支持iOS14.0-15.4.1(15.5b4)，实测支持iOS16",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Cardio.png",
+          "tintColor": "#6686d9",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Cardio.png"
+          ],
+          "versions": [
+              {
+                "version": "1.1",
+                "date": "2022-09-30",
+                "localizedDescription": "1.增加重置按钮；\n2.基本修复现有Bug；\n3.增加对PDF背景的支持。",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240213/Cardio_v1.1.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.0",
+                "date": "2022-09-30",
+                "localizedDescription": "首次发布",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240213/Cardio_v1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
