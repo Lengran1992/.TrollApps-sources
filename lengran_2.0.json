@@ -6,7 +6,7 @@
     "headerURL": "https://avatars.githubusercontent.com/u/35867569?v=4",
     "website": "https://lengran1992.github.io/repo/",
     "tintColor": "#F54F32",
-    "featuredApps": ["ch.xxtou.hudapp", "com.roothide.Bootstrap", "com.apple.mobilephone-call", "com.callassist.batteryinfolist"],
+    "featuredApps": ["com.opa334.Dopamine", "ch.xxtou.hudapp", "com.roothide.Bootstrap", "com.callassist.batteryinfolist"],
     "apps": [
         {
           "name": "StatusMagic",
