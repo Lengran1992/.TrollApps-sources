@@ -1430,6 +1430,15 @@
           ],
           "versions": [
               {
+                "version": "1.4",
+                "date": "2024-02-17",
+                "localizedDescription": "1.增加快速充电模式(飞行模式+降低屏幕亮度+低电量模式)；\n2.将启动服务改为启用,方便实时查看电池状态,不必真正关闭后台；\n3.增加悬浮窗便捷控制(可拖动改变位置,单击切换启用状态)；\n4.增加触发逻辑实现高于指定温度开始充电,仅限插电即充模式。",
+                "downloadURL": "https://github.com/lich4/ChargeLimiter/releases/download/1.4/ChargeLimiter.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "1.3",
                 "date": "2024-02-12",
                 "localizedDescription": "1.解决开启“优化电池充电”导致本工具无效的问题；\n2.增加无根越狱支持；\n3.由于知识产权原因本项目名称从AlDente修改为ChargeLimiter。",
