@@ -696,7 +696,7 @@
                 "version": "3.2.5",
                 "date": "2024-02-13",
                 "localizedDescription": "1.横向模式现在可以正常运行；\n2.大幅改进自适应颜色功能；\n3，新增选择文本字体；\n4.新增斜体文本选项；\n5.可控制每个小工具的更新间隔；\n6.新增天气小工具（必须设置自己的 API 密钥）；\n7.启用和禁用小组件；\n8.HUD 现在无需重启即可更新部件集；\n9.可在部件周围添加调试边框；\n10.针对中文用户的日期区域修正；\n11.中文翻译；\n12.大量其他改进/修复。\n再次感谢 AsakuraFuuko 带来的重大更新。\n欢迎他们加入开发团队，希望他们能继续更新应用程序！\n敬请期待这位冉冉升起的开发者。 ",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240214/Helium_3.2.5.tipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240214/Helium_v3.2.5.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1503,6 +1503,66 @@
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240213/Cardio_v1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "Dopamine",
+          "bundleIdentifier": "com.opa334.Dopamine",
+          "developerName": "opa334",
+          "subtitle": "Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64). More details will follow here soon.\nOfficial website / download: https://ellekit.space/dopamine/",
+          "localizedDescription": "Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64). More details will follow here soon.\nOfficial website / download: https://ellekit.space/dopamine/",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Dopamine.png",
+          "tintColor": "#0e9f89",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Dopamine.png"
+          ],
+          "versions": [
+              {
+                "version": "2.0.4",
+                "date": "2024-02-17",
+                "localizedDescription": "Actually fix libkrw not working (The 2.0 changelog was lying...)",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.4/Dopamine.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "2.0.3",
+                "date": "2024-02-17",
+                "localizedDescription": "Fix localization fallback not properly working (would show placeholder instead of english when no localization for the selected language was available)\nDon't attempt jbupdate if the phone is not already jailbroken\nFix an issue where PAC primitives would get lost during a jbupdate, causing the launch of a sideloaded Dopamine app to trigger a kernel panic on <15.2",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.3/Dopamine.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "2.0.2",
+                "date": "2024-02-17",
+                "localizedDescription": "Fix new bootstrap getting created every rejailbreak (super dumb 2.0.1 regression...)",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.2/Dopamine.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "2.0.1",
+                "date": "2024-02-17",
+                "localizedDescription": "Fix XPF not working on 15.0.x arm64e\nFix an app crash during the jailbreak process\nFix an app crash when launching the app on a jailbreak that is not Dopamine (this is still not really supported)",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.1/Dopamine.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "2.0",
+                "date": "2024-02-17",
+                "localizedDescription": "Add support for arm64e iOS 15.5 - 16.5.1\nAdd support for arm64 15.0 - 16.6.1 (A8 not supported for now) (by @kok3shidoll) \nSupport installation via sideloading (Only works on non beta iOS versions using libgrabkernel for now, also a few features are only supported when installing via TrollStore) \nRewrite the jailbreak app in Objective C with flexibility in mind (UI has been written by @tomt000) \nAdd exploit picker (only kfd for now, more exploits for older versions will be added later) \nAdd themes to app (in app + icon) \nAdd support for using NSTask from tweaks, previously was unsupported, calling it from apps and other processes is also possible but you will have to call dopamine_fix_NSTask() yourself beforehand\nRemove libfilecom, switch to using XPC for handoff communication\nDeprecate jailbreakd in favor of launchd hook\nInstead of boot_info.plist, all jailbreak related info is now stored inside launchd and can be retrieved via XPC\nRework kcall handoff to be stateless\nRework trustcaching to be stateless\nReplace kernel patchfinder with XPF (https://github.com/opa334/XPF) \nFix various issues with trustcaching\nInclude libroot provider library (https://github.com/opa334/libroot) \nMake libkrw actually work (Yes, it was broken all throughout 1.x and nobody noticed)",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0/Dopamine.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
               }
             ],
