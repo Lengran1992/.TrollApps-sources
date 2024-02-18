@@ -1423,10 +1423,10 @@
           "developerName": "lich4",
           "subtitle": "MacOS系统上大名鼎鼎的AlDente，本人针对iOS重新开发，适用于长时间过冲情况下保护电池健康度。\niOS<=14需要越狱+安装deb使用, 每次越狱时自动启动\niOS>=15需要TrollStore+安装tipa使用",
           "localizedDescription": "MacOS系统上大名鼎鼎的AlDente，本人针对iOS重新开发，适用于长时间过冲情况下保护电池健康度。\niOS<=14需要越狱+安装deb使用, 每次越狱时自动启动\niOS>=15需要TrollStore+安装tipa使用",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/AlDente.png",
-          "tintColor": "#727272",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/ChargeLimiterchargecharge.png",
+          "tintColor": "#29602c",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/AlDente.png"
+              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/ChargeLimiter.png"
           ],
           "versions": [
               {
@@ -1529,6 +1529,15 @@
               "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Dopamine.png"
           ],
           "versions": [
+              {
+                "version": "2.0.5",
+                "date": "2024-02-17",
+                "localizedDescription": "Improve kfd reliability by memory hogging, also fixes support for devices with 16GB RAM, contributed by @dhinakg；\nFix an issue where /var/jb/var/mobile would get the wrong file permissions on new bootstraps (Fixed retroactively on next rejailbreak)；\nImprove the way injection into problematic processes is blocked；\nBlock injection into dataaccessd because it seemed to be crash looping for some users；\nFix verbose logs not showing in error log when they aren't enabled；\nActually print the error that caused the failure in the error log........；\nFix app crash on iPads when sharing log；\nFix a random app crash while jailbreaking",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.5/Dopamine.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
               {
                 "version": "2.0.4",
                 "date": "2024-02-17",
