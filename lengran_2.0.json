@@ -1421,8 +1421,8 @@
           "name": "ChargeLimiter",
           "bundleIdentifier": "chaoge.ChargeLimiter",
           "developerName": "lich4",
-          "subtitle": "MacOS系统上大名鼎鼎的AlDente，本人针对iOS重新开发，适用于长时间过冲情况下保护电池健康度。\niOS<=14需要越狱+安装deb使用, 每次越狱时自动启动\niOS>=15需要TrollStore+安装tipa使用",
-          "localizedDescription": "MacOS系统上大名鼎鼎的AlDente，本人针对iOS重新开发，适用于长时间过冲情况下保护电池健康度。\niOS<=14需要越狱+安装deb使用, 每次越狱时自动启动\niOS>=15需要TrollStore+安装tipa使用",
+          "subtitle": "MacOS系统上大名鼎鼎的AlDente，本人针对iOS重新开发，适用于长时间过冲情况下保护电池健康度。\n支持有根越狱(???-arm.deb)/无根越狱(???-arm64.deb )/TrollStore(???.tipa)\n(注意: TrollStore环境下安装新版之前请先卸载旧版)\n##注意##\n1.Mac上使用的温控接口可以进行更底层的温控和风扇速度控制,但iOS上并无此功能,因此本工具几乎是iOS上防过充唯一选择,其实这种工具十年前就应该出现了,只是一直没人研究；\n2.有研究表明电量在20%-80%之间,温度在10°C-35°C之间,对电池寿命影响最小.因此App上下阈值默认设定为20/80.如果自行调整还是建议在20-80之间.\n3.如果有兴趣参与本项目或者对本项目有建议的的欢迎参提交代码\n##目前触发充电的条件##\n1.电量低于设定的最小值\n2.插电即充模式下在未插入电源情况下插入电源\n3.插电即充模式下温度低于设定的最小值(版本1.4起支持)\n##目前触发停充的条件##\n1.电量高于设定的最大值\n2.温度高于设定的最大值",
+          "localizedDescription": "MacOS系统上大名鼎鼎的AlDente，本人针对iOS重新开发，适用于长时间过冲情况下保护电池健康度。\n支持有根越狱(???-arm.deb)/无根越狱(???-arm64.deb )/TrollStore(???.tipa)\n(注意: TrollStore环境下安装新版之前请先卸载旧版)\n##注意##\n1.Mac上使用的温控接口可以进行更底层的温控和风扇速度控制,但iOS上并无此功能,因此本工具几乎是iOS上防过充唯一选择,其实这种工具十年前就应该出现了,只是一直没人研究；\n2.有研究表明电量在20%-80%之间,温度在10°C-35°C之间,对电池寿命影响最小.因此App上下阈值默认设定为20/80.如果自行调整还是建议在20-80之间.\n3.如果有兴趣参与本项目或者对本项目有建议的的欢迎参提交代码\n##目前触发充电的条件##\n1.电量低于设定的最小值\n2.插电即充模式下在未插入电源情况下插入电源\n3.插电即充模式下温度低于设定的最小值(版本1.4起支持)\n##目前触发停充的条件##\n1.电量高于设定的最大值\n2.温度高于设定的最大值",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/ChargeLimiter.png",
           "tintColor": "#29602c",
           "screenshotURLs": [
