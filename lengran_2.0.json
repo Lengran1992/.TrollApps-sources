@@ -1423,7 +1423,7 @@
           "developerName": "lich4",
           "subtitle": "MacOS系统上大名鼎鼎的AlDente，本人针对iOS重新开发，适用于长时间过冲情况下保护电池健康度。\niOS<=14需要越狱+安装deb使用, 每次越狱时自动启动\niOS>=15需要TrollStore+安装tipa使用",
           "localizedDescription": "MacOS系统上大名鼎鼎的AlDente，本人针对iOS重新开发，适用于长时间过冲情况下保护电池健康度。\niOS<=14需要越狱+安装deb使用, 每次越狱时自动启动\niOS>=15需要TrollStore+安装tipa使用",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/ChargeLimiterchargecharge.png",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/ChargeLimiter.png",
           "tintColor": "#29602c",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/ChargeLimiter.png"
