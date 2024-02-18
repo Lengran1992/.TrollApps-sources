@@ -6,7 +6,7 @@
     "headerURL": "https://avatars.githubusercontent.com/u/35867569?v=4",
     "website": "https://lengran1992.github.io/repo/",
     "tintColor": "#F54F32",
-    "featuredApps": ["com.opa334.Dopamine", "ch.xxtou.hudapp", "com.roothide.Bootstrap", "com.callassist.batteryinfolist"],
+    "featuredApps": ["com.opa334.Dopamine", "com.ichitaso.otadisablerts", "cn.zxlee.IpaDownloadTool", "com.callassist.batteryinfolist"],
     "apps": [
         {
           "name": "StatusMagic",
@@ -1582,6 +1582,39 @@
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "KillMyOTA",
+          "bundleIdentifier": "org.haxi0.KillMyOTA",
+          "developerName": "haxi0",
+          "subtitle": "利用MDC漏洞禁用OTA更新，支持iOS15.0-16.1.2",
+          "localizedDescription": "利用MDC漏洞禁用OTA更新，支持iOS15.0-16.1.2",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/KillMyOTA.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/KillMyOTA.png"
+          ],
+          "versions": [
+              {
+                "version": "1.1",
+                "date": "2023-01-30",
+                "localizedDescription": "修复应用程序加载时按钮文本显示异常的问题。",
+                "downloadURL": "https://github.com/haxi0/KillMyOTA/releases/download/1.1/KillMyOTA-1.1.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.1.2"
+              },
+              {
+                "version": "1.0",
+                "date": "2023-01-28",
+                "localizedDescription": "首次发布",
+                "downloadURL": "https://github.com/haxi0/KillMyOTA/releases/download/1.1/KillMyOTA-1.0.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.1.2"
               }
             ],
           "appPermissions": {}
