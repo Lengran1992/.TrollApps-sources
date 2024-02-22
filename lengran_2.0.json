@@ -1530,9 +1530,18 @@
           ],
           "versions": [
               {
+                "version": "2.0.6",
+                "date": "2024-02-22",
+                "localizedDescription": "进行了更多的kfd优化，现在应该更加稳定了（由@dhinakg贡献）\n修复了一个随机的panic，由于信任某些文件时launchd发生崩溃引发\n修复用户空间重启时创建boomerang僵尸进程的问题\n解决了一个原生错误，其中用户空间重启后，nano启动守护进程不会被注册，导致一些苹果手表功能无法使用\n一系列的UI改进（由@tomt000贡献）\n修复了越狱过程中由于竞态条件造成的应用崩溃问题\n修复了对iOS 16.4b1 - 16.4b3的支持问题\n如果创建/var/jb失败，则会以错误方式正确终止\n在支持的设备上，更倾向于选择physpuppet而不是landa \n修复了在iOS 15.x上，尽管smith和physpuppet并不支持，但仍可以选择的问题",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.6/Dopamine.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
                 "version": "2.0.5",
                 "date": "2024-02-17",
-                "localizedDescription": "Improve kfd reliability by memory hogging, also fixes support for devices with 16GB RAM, contributed by @dhinakg；\nFix an issue where /var/jb/var/mobile would get the wrong file permissions on new bootstraps (Fixed retroactively on next rejailbreak)；\nImprove the way injection into problematic processes is blocked；\nBlock injection into dataaccessd because it seemed to be crash looping for some users；\nFix verbose logs not showing in error log when they aren't enabled；\nActually print the error that caused the failure in the error log........；\nFix app crash on iPads when sharing log；\nFix a random app crash while jailbreaking",
+                "localizedDescription": "通过内存占用提高 kfd 可靠性，还修复了对 16GB RAM 设备的支持，贡献者@dhinakg\n修复 /var/jb/var/mobile 在新引导程序上获得错误文件权限的问题（在下次越狱时追溯修复）\n改进阻止注入有问题的进程的方式\n阻止注入，dataaccessd因为对于某些用户来说它似乎是崩溃循环\n修复未启用时详细日志不显示在错误日志中的问题\n实际上在错误日志中打印导致失败的错误...... \n修复 iPad 上共享日志时应用程序崩溃的问题\n修复越狱时随机应用程序崩溃的问题",
                 "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.5/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
@@ -1541,7 +1550,7 @@
               {
                 "version": "2.0.4",
                 "date": "2024-02-17",
-                "localizedDescription": "Actually fix libkrw not working (The 2.0 changelog was lying...)",
+                "localizedDescription": "实际上修复了libkrw不起作用的问题",
                 "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.4/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
@@ -1550,7 +1559,7 @@
               {
                 "version": "2.0.3",
                 "date": "2024-02-17",
-                "localizedDescription": "Fix localization fallback not properly working (would show placeholder instead of english when no localization for the selected language was available)\nDon't attempt jbupdate if the phone is not already jailbroken\nFix an issue where PAC primitives would get lost during a jbupdate, causing the launch of a sideloaded Dopamine app to trigger a kernel panic on <15.2",
+                "localizedDescription": "修复本地化翻译后备无法正常工作的问题（当所选语言没有本地化可用时，将显示占位符而不是英语）\n如果手机尚未越狱，请勿尝试 jbupdate\n修复了 PAC 原语在 jbupdate 期间丢失的问题，导致侧载 Dopamine 应用程序的启动在 <15.2 上触发内核恐慌",
                 "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.3/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
@@ -1559,7 +1568,7 @@
               {
                 "version": "2.0.2",
                 "date": "2024-02-17",
-                "localizedDescription": "Fix new bootstrap getting created every rejailbreak (super dumb 2.0.1 regression...)",
+                "localizedDescription": "修复每次越狱时都会创建新的引导程序",
                 "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.2/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
@@ -1568,7 +1577,7 @@
               {
                 "version": "2.0.1",
                 "date": "2024-02-17",
-                "localizedDescription": "Fix XPF not working on 15.0.x arm64e\nFix an app crash during the jailbreak process\nFix an app crash when launching the app on a jailbreak that is not Dopamine (this is still not really supported)",
+                "localizedDescription": "修复 XPF 无法在 15.0.x arm64e 上运行的问题\n修复越狱过程中应用程序崩溃的问题\n修复了在非多巴胺越狱中启动应用程序时发生的应用程序崩溃问题（这仍然不受真正支持）",
                 "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.1/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
@@ -1577,7 +1586,7 @@
               {
                 "version": "2.0",
                 "date": "2024-02-17",
-                "localizedDescription": "Add support for arm64e iOS 15.5 - 16.5.1\nAdd support for arm64 15.0 - 16.6.1 (A8 not supported for now) (by @kok3shidoll) \nSupport installation via sideloading (Only works on non beta iOS versions using libgrabkernel for now, also a few features are only supported when installing via TrollStore) \nRewrite the jailbreak app in Objective C with flexibility in mind (UI has been written by @tomt000) \nAdd exploit picker (only kfd for now, more exploits for older versions will be added later) \nAdd themes to app (in app + icon) \nAdd support for using NSTask from tweaks, previously was unsupported, calling it from apps and other processes is also possible but you will have to call dopamine_fix_NSTask() yourself beforehand\nRemove libfilecom, switch to using XPC for handoff communication\nDeprecate jailbreakd in favor of launchd hook\nInstead of boot_info.plist, all jailbreak related info is now stored inside launchd and can be retrieved via XPC\nRework kcall handoff to be stateless\nRework trustcaching to be stateless\nReplace kernel patchfinder with XPF (https://github.com/opa334/XPF) \nFix various issues with trustcaching\nInclude libroot provider library (https://github.com/opa334/libroot) \nMake libkrw actually work (Yes, it was broken all throughout 1.x and nobody noticed)",
+                "localizedDescription": "1.添加对arm64e iOS 15.5 - 16.5.1的支持\n2.添加对arm64 15.0 - 16.6.1的支持（暂时不支持A8）（通过@kok3shidoll）\n 3.支持通过侧载安装（目前仅适用于使用 libgrabkernel 的非 beta iOS 版本，并且仅在通过 TrollStore 安装时支持一些功能）\n 4.考虑到灵活性，用 Objective C 重写越狱应用程序（UI 是由@tomt000）\n 5.添加漏洞利用选择器（目前仅kfd，稍后将添加更多针对旧版本的漏洞利用）\n 6.将主题添加到应用程序（在应用程序 + 图标中）\n 7.通过调整添加对使用 NSTask 的支持，以前是不支持的，也可以从应用程序和其他进程调用它，但您必须dopamine_fix_NSTask()事先调用自己\n 8.删除libfilecom，改用XPC进行切换通信\n 9.弃用jailbreakd，转而使用launchd hook\n 10.所有越狱相关信息现在都存储在 launchd 内，而不是 boot_info.plist，并且可以通过 XPC 检索\n 11.将 kcall 切换重做为无状态\n 12.将信任缓存重新设计为无状态\n 13.用 XPF 替换内核 patchfinder ( https://github.com/opa334/XPF ) \n 14.修复信任缓存的各种问题\n 15.包含 libroot 提供程序库（https://github.com/opa334/libroot）\n 16.让 libkrw 真正工作（是的，它在整个 1.x 中都被破坏了，没有人注意到）",
                 "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
