@@ -1521,8 +1521,8 @@
           "name": "Dopamine",
           "bundleIdentifier": "com.opa334.Dopamine",
           "developerName": "opa334",
-          "subtitle": "多巴胺是无根(rootless)越狱，必须使用适配了rootless的插件，不要直接安装老插件！\n##适用机型##\n A9~A11--iOS15.0~16.6.1\nA12~A14--iOS15.0~16.51\nA15~A16--15.0~16.5\nM1--15.0~16.51\nM2--15.0~16.5",
-          "localizedDescription": "多巴胺是无根(rootless)越狱，必须使用适配了rootless的插件，不要直接安装老插件！\n##适用机型##\n A9~A11--iOS15.0~16.6.1\nA12~A14--iOS15.0~16.51\nA15~A16--15.0~16.5\nM1--15.0~16.51\nM2--15.0~16.5",
+          "subtitle": "多巴胺是无根(rootless)越狱，必须使用适配了rootless的插件，不要直接安装老插件！\n##适用机型##\nA9~A11--iOS15.0~16.6.1\nA12~A14--iOS15.0~16.51\nA15~A16--15.0~16.5\nM1--15.0~16.51\nM2--15.0~16.5",
+          "localizedDescription": "多巴胺是无根(rootless)越狱，必须使用适配了rootless的插件，不要直接安装老插件！\n##适用机型##\nA9~A11--iOS15.0~16.6.1\nA12~A14--iOS15.0~16.51\nA15~A16--15.0~16.5\nM1--15.0~16.51\nM2--15.0~16.5",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Dopamine.png",
           "tintColor": "#0e9f89",
           "screenshotURLs": [
