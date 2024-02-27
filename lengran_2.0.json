@@ -1530,6 +1530,24 @@
           ],
           "versions": [
               {
+                "version": "2.0.8",
+                "date": "2024-02-25",
+                "localizedDescription": "1.修复 VPN 无法在 arm64 上运行的问题（2.0.7）\n2.修复 iCloud 设置在 arm64 上部分灰显的问题（2.0.7）\n3.修复应用程序未显示在 arm64 上的设置中的问题（2.0.7）\n4.修复对 iOS 15.0b1 - 15.0b3 的支持",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.8/Dopamine.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "2.0.7",
+                "date": "2024-02-25",
+                "localizedDescription": "1.修复了arm64上的几个问题（电池部分未加载，相机应用程序无法工作，...）\n2.改进隐藏越狱，以便在隐藏越狱时从图标缓存中删除越狱应用程序\n3.修复 idownloadd 在用户空间重新启动期间启动的问题，即使在设置中禁用了 iDownload\n4.修复当 /var/jb 是实际目录而不是符号链接时越狱不起作用，改进与此相关的错误处理",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.7/Dopamine.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
                 "version": "2.0.6",
                 "date": "2024-02-22",
                 "localizedDescription": "1.进行了更多的kfd优化，现在应该更加稳定了（由@dhinakg贡献）\n2.修复了一个随机的panic，由于信任某些文件时launchd发生崩溃引发\n3.修复用户空间重启时创建boomerang僵尸进程的问题\n4.解决了一个原生错误，其中用户空间重启后，nano启动守护进程不会被注册，导致一些苹果手表功能无法使用\n5.一系列的UI改进（由@tomt000贡献）\n6.修复了越狱过程中由于竞态条件造成的应用崩溃问题\n7.修复了对iOS 16.4b1 - 16.4b3的支持问题\n8.如果创建/var/jb失败，则会以错误方式正确终止\n9.在支持的设备上，更倾向于选择physpuppet而不是landa \n10.修复了在iOS 15.x上，尽管smith和physpuppet并不支持，但仍可以选择的问题",
