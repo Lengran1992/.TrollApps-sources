@@ -802,7 +802,7 @@
                 "version": "1.1",
                 "date": "2024-01-20",
                 "localizedDescription": "新增快捷指令功能扩展：\n1.集成locsim；\n2.设置或获取呼叫状态；\n3.启用/禁用定位服务.",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240123/TrollCuts_v1.1.tipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240306/TrollCuts_v1.1.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -1429,6 +1429,15 @@
               "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/ChargeLimiter.png"
           ],
           "versions": [
+              {
+                "version": "1.4.1",
+                "date": "2024-03-01",
+                "localizedDescription": "1.优化WebUI界面；\n2.IPAD悬浮窗跟随朝向；\n3.增加黑夜模式；\n4.支持设定更新频率以省电。",
+                "downloadURL": "https://github.com/lich4/ChargeLimiter/releases/download/1.4.1/ChargeLimiter.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
               {
                 "version": "1.4",
                 "date": "2024-02-17",
