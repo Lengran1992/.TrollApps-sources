@@ -114,10 +114,28 @@
           ],
           "versions": [
               {
+                "version": "1.11.6",
+                "date": "2024-03-07",
+                "localizedDescription": "1.在越狱设备上，图标现在已经可以正常显示了；\n2.允许触感反馈在iOS16+上进行后台运行；\n3.感谢@dlevi309。防止在调整HUD窗口大小时，意外进入通知/控制中心（仅在应用程序中）。",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.6/TrollSpeed+AppIntents16_1.11.6.tipa",
+                "size": 331000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.11.3",
+                "date": "2024-03-07",
+                "localizedDescription": "允许振动引擎在 iOS 16+ 上在后台运行。",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.3/TrollSpeed+AppIntents16_1.11.3.tipa",
+                "size": 331000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
                 "version": "1.11.2",
                 "date": "2024-01-31",
                 "localizedDescription": "外观：\n自定义网速字体大小。\n兼容性：\n快捷指令仅在iOS16及以上开启或关闭。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240201/TrollSpeed+AppIntents16_1.11.2.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.2/TrollSpeed+AppIntents16_1.11.2.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -126,7 +144,7 @@
                 "version": "1.11.0",
                 "date": "2024-01-28",
                 "localizedDescription": "新增功能：对iOS16及以上版本增加快捷指令的支持。\n如果想要使用这个功能，请安装TrollSpeed+AppIntents16_*.tipa。\n如果不想使用该功能或系统版本iOS15及以下，请安装TrollSpeed_*.tipa。\n特别感谢：@udevsharold的TrollCuts。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/TrollSpeed+AppIntents16_1.11.0.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.0/TrollSpeed+AppIntents16_1.11.0.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -147,10 +165,28 @@
           ],
           "versions": [
               {
+                "version": "1.11.6",
+                "date": "2024-03-07",
+                "localizedDescription": "1.在越狱设备上，图标现在已经可以正常显示了；\n2.允许触感反馈在iOS16+上进行后台运行；\n3.感谢@dlevi309。防止在调整HUD窗口大小时，意外进入通知/控制中心（仅在应用程序中）。",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.6/TrollSpeed_v1.11.6.tipa",
+                "size": 331000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.11.3",
+                "date": "2024-03-07",
+                "localizedDescription": "允许振动引擎在 iOS 16+ 上在后台运行。",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.3/TrollSpeed_v1.11.3.tipa",
+                "size": 331000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
                 "version": "1.11.2",
                 "date": "2024-01-31",
                 "localizedDescription": "外观：\n自定义网速字体大小。\n兼容性：\n快捷指令仅在iOS16及以上开启或关闭。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240201/TrollSpeed_v1.11.2.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.2/TrollSpeed_v1.11.2.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -159,7 +195,7 @@
                 "version": "1.11.0",
                 "date": "2024-01-28",
                 "localizedDescription": "新增功能：对iOS16及以上版本增加快捷指令的支持。\n如果想要使用这个功能，请安装TrollSpeed+AppIntents16_*.tipa。\n如果不想使用该功能或系统版本iOS15及以下，请安装TrollSpeed_*.tipa。\n特别感谢：@udevsharold的TrollCuts。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/TrollSpeed_v1.11.0.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.0/TrollSpeed_v1.11.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -168,7 +204,7 @@
                 "version": "1.10.2",
                 "date": "2024-01-26",
                 "localizedDescription": "细节优化",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/TrollSpeed_v1.10.2.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.10.2/TrollSpeed_v1.10.2.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -177,7 +213,7 @@
                 "version": "1.10.1",
                 "date": "2024-01-25",
                 "localizedDescription": "外观优化：\n1.启用半粗体文本；\n2.禁用反色淡出动画效果。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_v1.10.1.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.10.1/TrollSpeed_v1.10.1.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -186,7 +222,7 @@
                 "version": "1.10.0",
                 "date": "2024-01-25",
                 "localizedDescription": "新增功能：支持实时反色。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_v1.10.0.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.10.0/TrollSpeed_v1.10.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -195,7 +231,7 @@
                 "version": "1.9.9",
                 "date": "2024-01-24",
                 "localizedDescription": "1.应用程序：支持所有界面方向或样式；\n2.Bug修复：修复了缩放模式下错位的问题；\n3.翻译：新增西班牙语翻译，感谢@Deci8ElioS。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/TrollSpeed_v1.9.9.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.9/TrollSpeed_v1.9.9.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -204,7 +240,7 @@
                 "version": "1.9.8",
                 "date": "2024-01-23",
                 "localizedDescription": "应用程序：支持所有界面方向或样式。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240123/TrollSpeed_v1.9.8.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.8/TrollSpeed_v1.9.8.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -213,7 +249,7 @@
                 "version": "1.9.6",
                 "date": "2024-01-19",
                 "localizedDescription": "新增功能：添加选项，可以选择在屏幕截图或屏幕录制时隐藏。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240123/TrollSpeed_v1.9.6.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.6/TrollSpeed_v1.9.6.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -222,7 +258,7 @@
                 "version": "1.9.5",
                 "date": "2023-12-23",
                 "localizedDescription": "Bug修复：网速在重新启用之前将一直存在。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/TrollSpeed_1.9.5.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.5/TrollSpeed_v1.9.5.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -231,7 +267,7 @@
                 "version": "1.9.3",
                 "date": "2023-12-21",
                 "localizedDescription": "Bug修复：\n1.完全修复内存使用率高时网速消失的问题；\n2.修复触摸穿透异常的问题。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_1.9.3.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.3/TrollSpeed_v1.9.3.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -240,7 +276,7 @@
                 "version": "1.9.2",
                 "date": "2023-12-20",
                 "localizedDescription": "Bug修复：\n1.在iOS 17及以上版本上恢复root权限以避免进程被杀死；\n2.在应用程序变为活动状态时重新加载主按钮状态；\n3.可能修复iOS15.1之前触摸穿透异常的问题。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_1.9.2.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.2/TrollSpeed_v1.9.2.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -249,7 +285,7 @@
                 "version": "1.9.1",
                 "date": "2023-12-16",
                 "localizedDescription": "实验性功能：通过点击和拖动调整网速的垂直位置。\n不适用于居中HUD、并非所有版本的iOS都支持、支持在横屏模式下拖动。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_1.9.1.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.1/TrollSpeed_v1.9.1.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -258,7 +294,7 @@
                 "version": "1.9.0",
                 "date": "2023-12-16",
                 "localizedDescription": "实验性功能：通过点击和拖动调整网速的垂直位置。\n不适用于居中HUD、并非所有版本的iOS都支持、支持在横屏模式下拖动。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_1.9.0.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.0/TrollSpeed_v1.9.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -267,7 +303,7 @@
                 "version": "1.8.9",
                 "date": "2023-12-16",
                 "localizedDescription": "实验性功能：通过轻敲和长按调整网速的垂直位置。\n不适用于居中的HUD。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_1.8.9.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.9/TrollSpeed_v1.8.9.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -276,7 +312,7 @@
                 "version": "1.8.8",
                 "date": "2023-12-16",
                 "localizedDescription": "通过轻敲和长按调整网速的垂直位置。\n不适用于居中的HUD。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_1.8.8.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.8/TrollSpeed_v1.8.8.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -285,7 +321,7 @@
                 "version": "1.8.7",
                 "date": "2023-12-15",
                 "localizedDescription": "1.将UILaunchStoryboardName条目添加到Info.plist；\n2.修复在iOS17上触摸异常的问题。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_1.8.7.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.7/TrollSpeed_v1.8.7.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -294,7 +330,7 @@
                 "version": "1.8.6",
                 "date": "2023-12-11",
                 "localizedDescription": "现在，您通过一下方式启用或禁用网速：\n1.应用程序触感触控菜单（长按应用程序图标）；\n2.URL schemes: trollspeed://toggle、trollspeed://on或trollspeed://off\n重要提示：从授权中删除com.apple.private.personona-mgmt，这意味着TrollSpeed将不再需要root权限。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_1.8.6.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.6/TrollSpeed_1.8.6.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -303,7 +339,7 @@
                 "version": "1.8.5",
                 "date": "2023-12-05",
                 "localizedDescription": "未提供说明。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_1.8.5.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.5/TrollSpeed_1.8.5.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -312,7 +348,7 @@
                 "version": "1.8.2",
                 "date": "2023-07-28",
                 "localizedDescription": "未提供说明。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeed_1.8.2.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.2/TrollSpeed_1.8.2.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -321,7 +357,7 @@
                 "version": "1.1",
                 "date": "2023-01-19",
                 "localizedDescription": "未提供说明。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollSpeedGreen_1.1.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.1/TrollSpeedGreen_1.1.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1539,82 +1575,19 @@
           ],
           "versions": [
               {
-                "version": "2.0.8",
-                "date": "2024-02-25",
-                "localizedDescription": "1.修复 VPN 无法在 arm64 上运行的问题（2.0.7）\n2.修复 iCloud 设置在 arm64 上部分灰显的问题（2.0.7）\n3.修复应用程序未显示在 arm64 上的设置中的问题（2.0.7）\n4.修复对 iOS 15.0b1 - 15.0b3 的支持",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.8/Dopamine.ipa",
+                "version": "2.0.10",
+                "date": "2024-03-08",
+                "localizedDescription": "1.修复禁用开发人员模式时无法使用的越狱（开发人员模式现在将以非持久方式为当前启动启用）；\n2.修复在arm64（Apple Watch、VPN...）上一段时间后出现NECP连接失败；\n3.修复arm64上的terminusd崩溃，重新启用注入它，然后nesessionmanager；\n4.越狱时自动修复/private和/private/preboot的错误权限；\n5.修复在OTA更新中消失或不再打开的应用程序图标（仅为未来的更新修复，而不是2.0.10，还需要TrollStore 2.0.13）。",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.10/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
               },
               {
-                "version": "2.0.7",
-                "date": "2024-02-25",
-                "localizedDescription": "1.修复了arm64上的几个问题（电池部分未加载，相机应用程序无法工作，...）\n2.改进隐藏越狱，以便在隐藏越狱时从图标缓存中删除越狱应用程序\n3.修复 idownloadd 在用户空间重新启动期间启动的问题，即使在设置中禁用了 iDownload\n4.修复当 /var/jb 是实际目录而不是符号链接时越狱不起作用，改进与此相关的错误处理",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.7/Dopamine.ipa",
-                "size": 331000,
-                "minOSVersion": "15.0",
-                "maxOSVersion": "16.6.1"
-              },
-              {
-                "version": "2.0.6",
-                "date": "2024-02-22",
-                "localizedDescription": "1.进行了更多的kfd优化，现在应该更加稳定了（由@dhinakg贡献）\n2.修复了一个随机的panic，由于信任某些文件时launchd发生崩溃引发\n3.修复用户空间重启时创建boomerang僵尸进程的问题\n4.解决了一个原生错误，其中用户空间重启后，nano启动守护进程不会被注册，导致一些苹果手表功能无法使用\n5.一系列的UI改进（由@tomt000贡献）\n6.修复了越狱过程中由于竞态条件造成的应用崩溃问题\n7.修复了对iOS 16.4b1 - 16.4b3的支持问题\n8.如果创建/var/jb失败，则会以错误方式正确终止\n9.在支持的设备上，更倾向于选择physpuppet而不是landa \n10.修复了在iOS 15.x上，尽管smith和physpuppet并不支持，但仍可以选择的问题",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.6/Dopamine.ipa",
-                "size": 331000,
-                "minOSVersion": "15.0",
-                "maxOSVersion": "16.6.1"
-              },
-              {
-                "version": "2.0.5",
-                "date": "2024-02-17",
-                "localizedDescription": "1.通过内存占用提高 kfd 可靠性，还修复了对 16GB RAM 设备的支持，贡献者@dhinakg\n2.修复 /var/jb/var/mobile 在新引导程序上获得错误文件权限的问题（在下次越狱时追溯修复）\n3.改进阻止注入有问题的进程的方式\n4.阻止注入，dataaccessd因为对于某些用户来说它似乎是崩溃循环\n5.修复未启用时详细日志不显示在错误日志中的问题\n6.实际上在错误日志中打印导致失败的错误...... \n7.修复 iPad 上共享日志时应用程序崩溃的问题\n8.修复越狱时随机应用程序崩溃的问题",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.5/Dopamine.ipa",
-                "size": 331000,
-                "minOSVersion": "15.0",
-                "maxOSVersion": "16.6.1"
-              },
-              {
-                "version": "2.0.4",
-                "date": "2024-02-17",
-                "localizedDescription": "实际上修复了libkrw不起作用的问题",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.4/Dopamine.ipa",
-                "size": 331000,
-                "minOSVersion": "15.0",
-                "maxOSVersion": "16.6.1"
-              },
-              {
-                "version": "2.0.3",
-                "date": "2024-02-17",
-                "localizedDescription": "1.修复本地化翻译后备无法正常工作的问题（当所选语言没有本地化可用时，将显示占位符而不是英语）\n2.如果手机尚未越狱，请勿尝试 jbupdate\n3.修复了 PAC 原语在 jbupdate 期间丢失的问题，导致侧载 Dopamine 应用程序的启动在 <15.2 上触发内核恐慌",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.3/Dopamine.ipa",
-                "size": 331000,
-                "minOSVersion": "15.0",
-                "maxOSVersion": "16.6.1"
-              },
-              {
-                "version": "2.0.2",
-                "date": "2024-02-17",
-                "localizedDescription": "修复每次越狱时都会创建新的引导程序",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.2/Dopamine.ipa",
-                "size": 331000,
-                "minOSVersion": "15.0",
-                "maxOSVersion": "16.6.1"
-              },
-              {
-                "version": "2.0.1",
-                "date": "2024-02-17",
-                "localizedDescription": "1.修复 XPF 无法在 15.0.x arm64e 上运行的问题\n2.修复越狱过程中应用程序崩溃的问题\n3.修复了在非多巴胺越狱中启动应用程序时发生的应用程序崩溃问题（这仍然不受真正支持）",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.1/Dopamine.ipa",
-                "size": 331000,
-                "minOSVersion": "15.0",
-                "maxOSVersion": "16.6.1"
-              },
-              {
-                "version": "2.0",
-                "date": "2024-02-17",
-                "localizedDescription": "1.添加对arm64e iOS 15.5 - 16.5.1的支持\n2.添加对arm64 15.0 - 16.6.1的支持（暂时不支持A8）（通过@kok3shidoll）\n3.支持通过侧载安装（目前仅适用于使用 libgrabkernel 的非 beta iOS 版本，并且仅在通过 TrollStore 安装时支持一些功能）\n4.考虑到灵活性，用 Objective C 重写越狱应用程序（UI 是由@tomt000）\n5.添加漏洞利用选择器（目前仅kfd，稍后将添加更多针对旧版本的漏洞利用）\n6.将主题添加到应用程序（在应用程序 + 图标中）\n7.通过调整添加对使用 NSTask 的支持，以前是不支持的，也可以从应用程序和其他进程调用它，但您必须dopamine_fix_NSTask()事先调用自己\n8.删除libfilecom，改用XPC进行切换通信\n9.弃用jailbreakd，转而使用launchd hook\n10.所有越狱相关信息现在都存储在 launchd 内，而不是 boot_info.plist，并且可以通过 XPC 检索\n11.将 kcall 切换重做为无状态\n12.将信任缓存重新设计为无状态\n13.用 XPF 替换内核 patchfinder ( https://github.com/opa334/XPF ) \n14.修复信任缓存的各种问题\n15.包含 libroot 提供程序库（https://github.com/opa334/libroot）\n16.让 libkrw 真正工作（是的，它在整个 1.x 中都被破坏了，没有人注意到）",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0/Dopamine.ipa",
+                "version": "2.0.9",
+                "date": "2024-02-29",
+                "localizedDescription": "1.修复了一个超级糟糕的安全问题，即允许应用程序商店应用程序获得完整的系统功能（root + phys r/w），而这些功能原本只能由 root 进程访问，因此多巴胺2.0.0-2.0.8已删除，不再建议任何人使用！！！\n2.修复了一个问题，即2.0.7和2.0.8版本中与arm64相关的修复程序只有在安装了ellekit并启用了插件注入时才有效！\n3.禁用对arm64上的terminusd和nesessionmanager的注入，试图解决崩溃循环和VPN应用程序仍然不适用于某些用户的问题！\n4.立即允许通过POSIX_SPAWN_START_SUSPENDED派生的所有进程上的无效页面，这修复了几个Frida功能无法正常工作的问题！\n5.实际上修复了对早期iOS 15.0测试版的支持（2.0.8版本的更改日志撒谎）。",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.9/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
