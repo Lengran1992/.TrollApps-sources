@@ -695,7 +695,7 @@
         {
           "name": "PostBox",
           "bundleIdentifier": "com.simplycode.PostBox",
-          "developerName": "b0kch01&Polarizz",
+          "developerName": "b0kch01 & Polarizz",
           "subtitle": "可以通过添加越狱源，了解插件更新的动态，对越狱插件进行下载，支持TrollStore全版本。",
           "localizedDescription": "可以通过添加越狱源，了解插件更新的动态，对越狱插件进行下载，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/PostBox.png",
@@ -731,7 +731,7 @@
               {
                 "version": "3.2.5",
                 "date": "2024-02-13",
-                "localizedDescription": "1.横向模式现在可以正常运行；\n2.大幅改进自适应颜色功能；\n3，新增选择文本字体；\n4.新增斜体文本选项；\n5.可控制每个小工具的更新间隔；\n6.新增天气小工具（必须设置自己的 API 密钥）；\n7.启用和禁用小组件；\n8.HUD 现在无需重启即可更新部件集；\n9.可在部件周围添加调试边框；\n10.针对中文用户的日期区域修正；\n11.中文翻译；\n12.大量其他改进/修复。\n再次感谢 AsakuraFuuko 带来的重大更新。\n欢迎他们加入开发团队，希望他们能继续更新应用程序！\n敬请期待这位冉冉升起的开发者。 ",
+                "localizedDescription": "1.横向模式现在可以正常运行；\n2.大幅改进自适应颜色功能；\n3，新增选择文本字体；\n4.新增斜体文本选项；\n5.可控制每个小工具的更新间隔；\n6.新增天气小工具（必须设置自己的 API 密钥）；\n7.启用和禁用小组件；\n8.HUD 现在无需重启即可更新部件集；\n9.可在部件周围添加调试边框；\n10.针对中文用户的日期区域修正；\n11.中文翻译；\n12.大量其他改进/修复。\n再次感谢 AsakuraFuuko 带来的重大更新。\n欢迎他们加入开发团队，希望他们能继续更新应用程序！\n敬请期待这位冉冉升起的开发者。",
                 "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240214/Helium_v3.2.5.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
@@ -800,7 +800,7 @@
         {
           "name": "Santander",
           "bundleIdentifier": "com.serena.santander",
-          "developerName": "serena",
+          "developerName": "Serena",
           "subtitle": "文件管理器，支持TrollStore全版本。",
           "localizedDescription": "文件管理器，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Santander.png",
@@ -1642,7 +1642,7 @@
           "bundleIdentifier": "wiki.qaq.trapp",
           "developerName": "i_82 & Lakr233",
           "subtitle": "支持巨魔的通话录音软件，支持iOS15.0-17.0",
-          "localizedDescription": "利用MDC漏洞禁用OTA更新，支持iOS15.0-16.1.2",
+          "localizedDescription": "支持巨魔的通话录音软件，支持iOS15.0-17.0",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollRecorder.png",
           "tintColor": "#27355e",
           "screenshotURLs": [
@@ -1680,7 +1680,7 @@
               {
                 "version": "1.3.2",
                 "date": "2023-03-11",
-                "localizedDescription": "##重要信息##\n1.如需启用无 CallKit 支持的通话场景的 手动录音 支持，如官方版本的 QQ、微信等，需要打开 “悬浮球” “增强通话场景识别” 选项。\n2.如需启用以上场景的 自动录音 支持，需要打开 “通话录音” “增强自动录音” 选项。\n3.启用以上两个选项：会导致部分场景下，如发送短语音、录制短视频时，悬浮球弹出或者进入录音状态，这种现象不可避免，请自行权衡利弊开启！\n ##问题修复##\n1.应用内购买现已跳转到 Safari 进行。\n2.小组件左下角图标在 iOS 17 以下现在已经能正常显示。\n 3.不再为移除了 URL Scheme 的 Filza 版本显示跳转入口。\n4.在通话过程中接到其他来电的场景，现在以首次接通时的通话名称为准。\n ##新功能##\n1.录音临时文件目录更换为用户可见路径\n2.（逃生通道已开启）如果录音意外保存失败，用户可以在临时目录找到原始音频文件。\n##应用程序##\n1.新增录音 ”重命名“ 功能。—— 现在你可以在录音详情页面点击右上角，为当前录音设置一个新的自定义名称。\n2.录音列表新增 “全选”、“反选” 功能。\n3.录音列表不再支持过长的音频波形预览。\n4.调整了共享音频时的默认文件名称。\n5.现已支持在应用程序内检查来自 GitHub 发布页的更新。\n6.进入应用程序时，Face ID / Touch ID 认证现已支持重试。\n ##悬浮球##\n。1.新增 “增强通话场景识别” 选项。—— 默认为关闭状态，如需在无 CallKit 支持的通话场景下显示悬浮球，可以开启该选项。需要注意的是，在可以预见的未来内，无 CallKit 支持的通话场景识别都不会很准确。如果启用此选项，会出现悬浮球在预期之外的时间弹出。\n ##混音器与合并器##\n1.新增 “保留所有通道” 选项。—— 录音结束时，保留录音期间每个通道的原始音频文件。占用大量存储空间，请谨慎开启。\n2.新增混音器音频格式：高级音频编码 (AAC) 或 未压缩 (PCM)。\n3.付费用户可以选择 “未压缩 (PCM)” 格式，获得原始音频数据 —— 此选项会占用较多存储空间，请谨慎选择。\n ##开发者呼吁##\n普通用户只需使用默认的 MPEG-4 音频 (m4a) 搭配 高级音频编码 (AAC) 即可，不要更改自己不了解的选项。\n ##国际化##\n新增西班牙语支持，提供者：Deci8BelioS。",
+                "localizedDescription": "##重要信息##\n1.如需启用无 CallKit 支持的通话场景的 手动录音 支持，如官方版本的 QQ、微信等，需要打开 “悬浮球” “增强通话场景识别” 选项。\n2.如需启用以上场景的 自动录音 支持，需要打开 “通话录音” “增强自动录音” 选项。\n3.启用以上两个选项：会导致部分场景下，如发送短语音、录制短视频时，悬浮球弹出或者进入录音状态，这种现象不可避免，请自行权衡利弊开启！\n##问题修复##\n1.应用内购买现已跳转到 Safari 进行。\n2.小组件左下角图标在 iOS 17 以下现在已经能正常显示。\n3.不再为移除了 URL Scheme 的 Filza 版本显示跳转入口。\n4.在通话过程中接到其他来电的场景，现在以首次接通时的通话名称为准。\n##新功能##\n1.录音临时文件目录更换为用户可见路径\n2.（逃生通道已开启）如果录音意外保存失败，用户可以在临时目录找到原始音频文件。\n##应用程序##\n1.新增录音 ”重命名“ 功能。—— 现在你可以在录音详情页面点击右上角，为当前录音设置一个新的自定义名称。\n2.录音列表新增 “全选”、“反选” 功能。\n3.录音列表不再支持过长的音频波形预览。\n4.调整了共享音频时的默认文件名称。\n5.现已支持在应用程序内检查来自 GitHub 发布页的更新。\n6.进入应用程序时，Face ID / Touch ID 认证现已支持重试。\n##悬浮球##\n1.新增 “增强通话场景识别” 选项。—— 默认为关闭状态，如需在无 CallKit 支持的通话场景下显示悬浮球，可以开启该选项。需要注意的是，在可以预见的未来内，无 CallKit 支持的通话场景识别都不会很准确。如果启用此选项，会出现悬浮球在预期之外的时间弹出。\n##混音器与合并器##\n1.新增 “保留所有通道” 选项。—— 录音结束时，保留录音期间每个通道的原始音频文件。占用大量存储空间，请谨慎开启。\n2.新增混音器音频格式：高级音频编码 (AAC) 或 未压缩 (PCM)。\n3.付费用户可以选择 “未压缩 (PCM)” 格式，获得原始音频数据 —— 此选项会占用较多存储空间，请谨慎选择。\n##开发者呼吁##\n普通用户只需使用默认的 MPEG-4 音频 (m4a) 搭配 高级音频编码 (AAC) 即可，不要更改自己不了解的选项。\n##国际化##\n新增西班牙语支持，提供者：Deci8BelioS。",
                 "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.3.2-20/TRApp_1.3.2-20.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
