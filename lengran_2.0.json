@@ -114,6 +114,24 @@
           ],
           "versions": [
               {
+                "version": "1.11.11",
+                "date": "2024-03-17",
+                "localizedDescription": "这是 TrollSpeed 的最终版本。\n修复应用程序交互中的Bug。",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.11/TrollSpeed+AppIntents16_1.11.11.tipa",
+                "size": 331000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.11.9",
+                "date": "2024-03-17",
+                "localizedDescription": "最终，修复了越狱设备上图标显示异常的问题。(感谢 @opa334)",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.9/TrollSpeed+AppIntents16_1.11.9.tipa",
+                "size": 331000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
                 "version": "1.11.6",
                 "date": "2024-03-07",
                 "localizedDescription": "1.在越狱设备上，图标现在已经可以正常显示了；\n2.允许触感反馈在iOS16+上进行后台运行；\n3.感谢@dlevi309。防止在调整HUD窗口大小时，意外进入通知/控制中心（仅在应用程序中）。",
@@ -164,6 +182,24 @@
               "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollSpeed.png"
           ],
           "versions": [
+              {
+                "version": "1.11.11",
+                "date": "2024-03-17",
+                "localizedDescription": "这是 TrollSpeed 的最终版本。\n修复应用程序交互中的Bug。",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.11/TrollSpeed_1.11.11.tipa",
+                "size": 331000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.11.9",
+                "date": "2024-03-17",
+                "localizedDescription": "最终，修复了越狱设备上图标显示异常的问题。(感谢 @opa334)",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.9/TrollSpeed_1.11.9.tipa",
+                "size": 331000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
               {
                 "version": "1.11.6",
                 "date": "2024-03-07",
