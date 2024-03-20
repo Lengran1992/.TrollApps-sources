@@ -33,7 +33,7 @@
                 "version": "1.0.1",
                 "date": "2023-02-07",
                 "localizedDescription": "1.修复VPN图标隐藏异常的问题；\n2.修复了A12设备上出现的问题；\n3.适配iOS16.2测试版；\n4.为那些仍有问题的人添加了“替代设置程序”；\n5.运营商文本修改方式优化；\n6.如果TrollStore被错误检测时，添加了强制使用MDC的选项；\n7.由于未知问题，“隐藏电池图标”的选项在iPad上不再可用。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/StatusMagic_1.0.1.tipa",
+                "downloadURL": "https://github.com/Avangelista/StatusMagic/releases/download/1.0.1/StatusMagic.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -42,7 +42,7 @@
                 "version": "1.0",
                 "date": "2023-02-04",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/StatusMagic_1.0.tipa",
+                "downloadURL": "https://github.com/Avangelista/StatusMagic/releases/download/1.0/StatusMagic.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -66,7 +66,7 @@
                 "version": "1.3",
                 "date": "2023-10-03",
                 "localizedDescription": "1.支持iOS16.3及以上版本；\n2.在显示不支持之前，会进行读取权限的检查。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/SecondHand_1.3.ipa",
+                "downloadURL": "https://github.com/leminlimez/SecondHand/releases/download/1.3/SecondHand.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "15.4.1"
@@ -75,7 +75,7 @@
                 "version": "1.2",
                 "date": "2023-03-11",
                 "localizedDescription": "1.添加了各种日期格式选项；\n2.添加了启动时的新版本检查。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/SecondHand_v1.2.ipa",
+                "downloadURL": "https://github.com/leminlimez/SecondHand/releases/download/1.2/SecondHand.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "15.4.1"
@@ -84,7 +84,7 @@
                 "version": "1.1",
                 "date": "2023-03-04",
                 "localizedDescription": "支持iOS测试版本。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/SecondHand_v1.1.ipa",
+                "downloadURL": "https://github.com/leminlimez/SecondHand/releases/download/1.1/SecondHand.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "15.4.1"
@@ -93,7 +93,7 @@
                 "version": "1.0",
                 "date": "2023-03-04",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/SecondHand_v1.0.tipa",
+                "downloadURL": "https://github.com/leminlimez/SecondHand/releases/download/1.0/SecondHand.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "15.4.1"
@@ -618,7 +618,7 @@
                 "version": "2.1.1",
                 "date": "2023-08-09",
                 "localizedDescription": "##新增##\n添加访问禁止名单，禁止访问蒲公英&fir页面。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240204/IpaDownloadTool-2.1.1.ipa",
+                "downloadURL": "http://www.zxlee.cn/ipaDownloadTool/release/ipaDownloadTool-2.1.1.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -627,7 +627,7 @@
                 "version": "2.1.0",
                 "date": "2023-04-08",
                 "localizedDescription": "##新增##\n1.支持自动解析安装UDID描述文件并继续提取IPA信息；\n2.描述文件URL匹配规则&自定义虚拟UDID；\n3.添加URL Scheme，支持通过ipadownloadtool://hander?url=从Safari跳转至“IPA提取器”并打开对应页面。\n##修复##\n从剪贴板中获取URL并加载时网页历史记录为更新的问题。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/IpaDownloadTool_2.1.0.ipa",
+                "downloadURL": "http://www.zxlee.cn/ipaDownloadTool/release/ipaDownloadTool-2.1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -636,7 +636,7 @@
                 "version": "2.0.1",
                 "date": "2022-10-18",
                 "localizedDescription": "##新增##\n1.支持直接下载网页中的ipa文件；\n2.IPA提取器主页添加网页前进、后退、重新加载操作；\n3.ipa提取历史支持根据时间或文件名排序；\n4.网页浏览历史页面支持编辑网页标题；\n5.支持数据导入导出。\n##修复##\n1.当网址中包含中文时，网页加载失败的问题；\n2.plist文件下载失败时，应用闪退的问题；\n3.网页历史记录中网站logo不展示的问题；\n4.横屏时网页加载进度条错位的问题；\n5.修复在iPad中，点击应用详情中的：点击分享/重新下载项时闪退的问题。\n##优化##\n1.提取ipa信息成功后可直接跳转到详情；\n2.删除下载中断的文件；\n3.ipa提取规则&细节；\n4.APP重新打开自动加载最近一次加载的网页；\n5.分享的文件名显示原名，而非显示md5之后的密文。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240204/IpaDownloadTool-2.0.1.ipa",
+                "downloadURL": "http://www.zxlee.cn/ipaDownloadTool/release/ipaDownloadTool-2.0.1.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -660,7 +660,7 @@
                 "version": "1.4",
                 "date": "2023-03-08",
                 "localizedDescription": "1.可以通过 URL schemes 启动应用（ResplingCC://）；\n2.Bug修复。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/RespringCC_1.4.ipa",
+                "downloadURL": "https://github.com/straight-tamago/RespringCC/releases/download/1.4/RespringCC-1.4.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -669,7 +669,7 @@
                 "version": "1.3",
                 "date": "2023-03-08",
                 "localizedDescription": "Bug修复。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/RespringCC-1.3.ipa",
+                "downloadURL": "https://github.com/straight-tamago/RespringCC/releases/download/1.3/RespringCC-1.3.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -678,7 +678,7 @@
                 "version": "1.2",
                 "date": "2023-03-08",
                 "localizedDescription": "前端后端优化。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/RespringCC-1.2.ipa",
+                "downloadURL": "https://github.com/straight-tamago/RespringCC/releases/download/1.2/RespringCC-1.2.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -687,7 +687,7 @@
                 "version": "1.1",
                 "date": "2023-02-07",
                 "localizedDescription": "支持iOS14.0-15.7.1以及16.0-16.1.2",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/RespringCC-1.1.ipa",
+                "downloadURL": "https://github.com/straight-tamago/RespringCC/releases/download/1.1/RespringCC-1.1.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -696,7 +696,7 @@
                 "version": "1.0",
                 "date": "2023-02-04",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/RespringCC-1.0.ipa",
+                "downloadURL": "https://github.com/straight-tamago/RespringCC/releases/download/1.0/RespringCC-1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -768,16 +768,7 @@
                 "version": "3.2.5",
                 "date": "2024-02-13",
                 "localizedDescription": "1.横向模式现在可以正常运行；\n2.大幅改进自适应颜色功能；\n3，新增选择文本字体；\n4.新增斜体文本选项；\n5.可控制每个小工具的更新间隔；\n6.新增天气小工具（必须设置自己的 API 密钥）；\n7.启用和禁用小组件；\n8.HUD 现在无需重启即可更新部件集；\n9.可在部件周围添加调试边框；\n10.针对中文用户的日期区域修正；\n11.中文翻译；\n12.大量其他改进/修复。\n再次感谢 AsakuraFuuko 带来的重大更新。\n欢迎他们加入开发团队，希望他们能继续更新应用程序！\n敬请期待这位冉冉升起的开发者。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240214/Helium_v3.2.5.tipa",
-                "size": 331000,
-                "minOSVersion": "14.0",
-                "maxOSVersion": "16.6.1"
-              },
-              {
-                "version": "2.2.1",
-                "date": "2024-01-13",
-                "localizedDescription": "1.自适应文本颜色已到来！在设置页面上激活它。\n2.HUD现在在重新启动时保持不变。\n3.提高了充电符号的更新速度和一致性。\n3.其他一些小错误修复。\n4.感谢Lessica在自适应颜色方面的工作，极大地加速了将此过程推向最终版本的过程。\n5.修改网速符号\n6.在 Helium2.2.1官方源码基础上，支持农历：CNMM  农历月、CNdd  农历日、E  周几，如周四冬月初九：E CNMM月 CNdd \n🦑乌贼力量修改、🚗 秋名山汉化、🐙 Helium、🐦 LeminLimez",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240114/Helium_2.2.1.tipa",
+                "downloadURL": "https://github.com/leminlimez/Helium/releases/download/v3.2.5/Helium.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -825,7 +816,7 @@
                 "version": "1.0",
                 "date": "2021-01-19",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/InstaSpring_1.0.ipa",
+                "downloadURL": "https://github.com/haxi0/InstaSpring/releases/download/1.0/InstaSpring.1.0.Fix.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -883,7 +874,7 @@
                 "version": "1.0",
                 "date": "2024-01-20",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollCuts_v1.0.tipa",
+                "downloadURL": "https://github.com/udevsharold/TrollCuts/releases/download/1.0/TrollCuts_v1.0.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -907,7 +898,7 @@
                 "version": "1.8.0",
                 "date": "2024-02-05",
                 "localizedDescription": "1.（iOS 16+）可以手动添加应用程序快捷方式，允许您单独配置每个LED（仅适用于四个LED设备）;\n2.（iOS 16+）添加了全部关闭的应用程序快捷方式，可关闭所有LED；\n3.全部开启的快捷方式将打开双LED设备上的单个白色LED。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240205/TrollLEDs_v1.8.0.tipa",
+                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.8.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -916,7 +907,7 @@
                 "version": "1.7.0",
                 "date": "2024-02-04",
                 "localizedDescription": "增加对快捷指令的支持。（iOS16+）",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240204/TrollLEDs_v1.7.0.tipa",
+                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.7.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -925,7 +916,7 @@
                 "version": "1.6.1",
                 "date": "2024-01-25",
                 "localizedDescription": "应用程序图标调整。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollLEDs_v1.6.1.tipa",
+                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.6.1/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -934,7 +925,7 @@
                 "version": "1.6.0",
                 "date": "2024-01-24",
                 "localizedDescription": "为“Programmatic Quad LED设备”（带有H10相机或更新版本的设备）添加了物理LED计数分段控制，您可以明确地通知TrollLEDs您的设备有多少个物理手电筒LED。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollLEDs_v1.6.0.tipa",
+                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.6.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -943,7 +934,7 @@
                 "version": "1.5.0",
                 "date": "2024-01-23",
                 "localizedDescription": "TrollLEDs将在不活动5分钟后自行终止，这是为了解决应用程序在后台运行时可能出现的电池耗尽问题，而不会从应用程序后台杀死进程。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollLEDs_v1.5.0.tipa",
+                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.5.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -952,7 +943,7 @@
                 "version": "1.4.0",
                 "date": "2024-01-23",
                 "localizedDescription": "1.添加了应用程序快捷菜单：琥珀色打开、白色打开和全部打开；\n2.重新制作应用程序中的部分界面。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollLEDs_v1.4.0.tipa",
+                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.4.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -961,7 +952,7 @@
                 "version": "1.3.1",
                 "date": "2024-01-21",
                 "localizedDescription": "未提供说明。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollLEDs_v1.3.1.tipa",
+                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.3.1/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -970,7 +961,7 @@
                 "version": "1.3.0",
                 "date": "2024-01-21",
                 "localizedDescription": "现在可以点击滑块值标签，将滑块值更改为0或最大值。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollLEDs_v1.3.0.tipa",
+                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.3.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -979,7 +970,7 @@
                 "version": "1.2.1",
                 "date": "2024-01-21",
                 "localizedDescription": "修复了iOS14及更低版本上应用程序图标消失的问题。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollLEDs_v1.2.1.tipa",
+                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.2.1/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -988,7 +979,7 @@
                 "version": "1.2.0",
                 "date": "2024-01-21",
                 "localizedDescription": "添加了一个锁定开关，可以在应用程序中控制或取消手电筒LED。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollLEDs_v1.2.0.tipa",
+                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.2.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -997,7 +988,7 @@
                 "version": "1.1.2",
                 "date": "2024-01-20",
                 "localizedDescription": "在TrollStore版本中，删除已损坏的应用程序图标。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollLEDs_v1.1.2.tipa",
+                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.1.2/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1006,7 +997,7 @@
                 "version": "1.1.1",
                 "date": "2024-01-20",
                 "localizedDescription": "减小滑块标签的字体大小，以防止彼此重叠。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollLEDs_v1.1.1.tipa",
+                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.1.1/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1015,7 +1006,7 @@
                 "version": "1.1.0",
                 "date": "2024-01-20",
                 "localizedDescription": "1.新增对iOS12的支持，可能也适用于iOS11和13，如果您使用TrollStore版本，则无所谓；\n2.删除了未使用的com.apple.sprivate.security.container-manager权限。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollLEDs_v1.1.0.tipa",
+                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.1.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1024,7 +1015,7 @@
                 "version": "1.0.0",
                 "date": "2024-01-20",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/TrollLEDs_v1.0.0.tipa",
+                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.0.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1048,7 +1039,7 @@
                 "version": "1.5",
                 "date": "2023-12-02",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240123/AirWall.v1.5.ipa",
+                "downloadURL": "https://github.com/Dcsyhi1998/AirWall/releases/download/v1.5/AirWall.v1.5.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1057,7 +1048,7 @@
                 "version": "1.0",
                 "date": "2023-11-10",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240130/AirWall_v1.0.ipa",
+                "downloadURL": "https://github.com/Dcsyhi1998/AirWall/releases/download/v1.0/AirWall.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1081,7 +1072,7 @@
                 "version": "1.2",
                 "date": "2023-12-26",
                 "localizedDescription": "1.视频现在可以按文件夹进行分类管理；\n2.改进了CarPlay视频播放屏幕的交互界面；\n3.添加新视频时，新增输入视频元信息的界面；\n4.在应用程序启动时，进行版本更新检测；\n5.支持Url链接的视频的播放。（m3u8、m3u、mp4、mp3等）",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240124/CarMovie_v1.2.tipa",
+                "downloadURL": "https://github.com/Dcsyhi1998/CarMovie/releases/download/v1.2/CarMovie.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1090,7 +1081,7 @@
                 "version": "1.1",
                 "date": "2023-12-17",
                 "localizedDescription": "修复了左驾驶车辆无法正确显示图像的问题。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240130/CarMovie.v1.1.tipa",
+                "downloadURL": "https://github.com/Dcsyhi1998/CarMovie/releases/download/v1.1/CarMovie.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1099,7 +1090,7 @@
                 "version": "1.0",
                 "date": "2023-12-16",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240130/CarMovie_v1.0.tipa",
+                "downloadURL": "https://github.com/Dcsyhi1998/CarMovie/releases/download/v1.0/CarMovie.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1123,7 +1114,7 @@
                 "version": "1.2.1",
                 "date": "2024-02-05",
                 "localizedDescription": "1.修复了越狱应用的主目录路径不正确的问题；\n2.修复了安装deb包时可能导致dpkg数据损坏的问题；\n3.更新了apt的strapfiles，并修复了apt在安装deb包时环境变量路径不正确的问题；\n4.修复了注入调整后Shortcuts/Spotlight/MobileMail无法正确工作的问题；\n5.在应用设置中添加了一个“重置移动用户密码”的按钮；\n6.将内置的Zebra更新到1.1.36-1以解决以下问题：修复了安装与llvm相关的软件包时无法正确解析依赖关系的问题；修复了安装ffmpeg时无法正确解析依赖关系的问题；修复了一些潜在的错误并提高了稳定性；\n7.将内置的Sileo更新到2.5-12，解决以下问题：修复了安装与llvm相关的软件包时无法取消下载的问题；修复了启动时可能意外删除图像缓存的问题；为已安装的软件包列表添加了下拉刷新功能；修复了一些可能导致崩溃的其他错误并提高了稳定性；\n8.修复了与Serotonin一起使用时由1.2引起的主屏幕错误和设备过热问题；\n9.修复了1.2中可能导致Sileo在某些设备上崩溃的问题；\n10.修复了启用某些应用程序调整时可能出现的代码（255）错误的问题。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240205/Bootstrap_v1.2.1.tipa",
+                "downloadURL": "https://github.com/roothide/Bootstrap/releases/download/1.2.1/Bootstrap.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1132,7 +1123,7 @@
                 "version": "1.1.1",
                 "date": "2024-02-01",
                 "localizedDescription": "1.修复了在为某些应用程序启用调整时，首选项设置应用程序可能被错误重定向的问题；\n2.改进本地化语言，感谢做出贡献的开发人员；\n3.清理未使用的代码。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240201/Bootstrap_v1.1.1.tipa",
+                "downloadURL": "https://github.com/roothide/Bootstrap/releases/download/1.1.1/Bootstrap.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1141,7 +1132,7 @@
                 "version": "1.1",
                 "date": "2024-01-22",
                 "localizedDescription": "1.修复应用程序的通知问题;\n2.修复无法加载应用程序插件的问题;\n3.优化本地化语言，感谢贡献的开发者。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240124/Bootstrap_v1.1.tipa",
+                "downloadURL": "https://github.com/roothide/Bootstrap/releases/download/1.1/Bootstrap.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1150,7 +1141,7 @@
                 "version": "1.0",
                 "date": "2024-01-18",
                 "localizedDescription": "1.合并了由@haxi0设计的swiftUI和@sourcelocation设计的图标;\n2.添加多种本地化语言，感谢贡献的开发人员;\n3.修复可能的code255错误。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240130/Bootstrap_v1.0.tipa",
+                "downloadURL": "https://github.com/roothide/Bootstrap/releases/download/1.0/Bootstrap.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1174,7 +1165,7 @@
                 "version": "1.2.1",
                 "date": "2024-01-17",
                 "localizedDescription": "1.修复内存占用的问题；\n2.修复漏洞选择错误的问题；\n3.修复启动元素加在错误的问题；\n4.删除未使用的代码；\n5.轻微的UI改进。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/Serotonin-1.2.1.tipa",
+                "downloadURL": "https://github.com/mineek/Serotonin/releases/download/1.2.1/Serotonin.tipa",
                 "size": 881000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -1183,7 +1174,7 @@
                 "version": "1.2.0",
                 "date": "2024-01-14",
                 "localizedDescription": "1.修复重新安装和卸载Serotonin越狱的切换；\n2.修复了引导模式的切换；\n3.添加了隐藏文本的切换，感谢Fiore/Sugiuta。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240130/Serotonin-1.2.0.tipa",
+                "downloadURL": "https://github.com/mineek/Serotonin/releases/download/1.2.0/Serotonin.tipa",
                 "size": 881000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -1192,7 +1183,7 @@
                 "version": "1.1.0",
                 "date": "2024-01-09",
                 "localizedDescription": "1.修复支持iOS16.0-16.1.2及iOS16.6.1;\n因为不再需要特定的偏移量，应该支持所有arm64e的设备，支持arm64的设备将在稍后发布。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/Serotonin-1.1.0.tipa",
+                "downloadURL": "https://github.com/mineek/Serotonin/releases/download/1.1.0/Serotonin.tipa",
                 "size": 881000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -1201,7 +1192,7 @@
                 "version": "1.0.1",
                 "date": "2024-01-08",
                 "localizedDescription": "1.现在支持iOS16.0-16.6.1，这要归功于haxi0和wh1te4ever's，非常感谢！\n2.支持arm64；\n3.引导方式改进，用图像代替代码，感谢AlfieCG提供图像，palera1n团队提供引导方法\n4.应用程序图标改进。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/Serotonin-1.0.1.tipa",
+                "downloadURL": "https://github.com/mineek/Serotonin/releases/download/1.0.1/Serotonin.tipa",
                 "size": 881000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -1225,7 +1216,7 @@
                 "version": "1.0.1",
                 "date": "2022-09-06",
                 "localizedDescription": "1.应用程序启动时，加载当前壁纸；\n2.新增对iOS14的支持。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/WallpaperSetter_v1.0.1.ipa",
+                "downloadURL": "https://github.com/Skittyblock/WallpaperSetter/releases/download/v1.0.1/WallpaperSetter.ipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1234,7 +1225,7 @@
                 "version": "1.0",
                 "date": "2022-09-05",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240126/WallpaperSetter_v1.0.ipa",
+                "downloadURL": "https://github.com/Skittyblock/WallpaperSetter/releases/download/v1.0/WallpaperSetter.ipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1258,7 +1249,7 @@
                 "version": "1.1.1",
                 "date": "2022-11-27",
                 "localizedDescription": "修复发送过慢的问题。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/AirTroller-1.1.1.tipa",
+                "downloadURL": "https://github.com/sourcelocation/AirTroller/releases/download/1.1.1/AirTroller-1.1.1.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1267,7 +1258,7 @@
                 "version": "1.1",
                 "date": "2022-11-26",
                 "localizedDescription": "1.移除2人的限制；\n2.自定义图片。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/AirTroller-1.1.tipa",
+                "downloadURL": "https://github.com/sourcelocation/AirTroller/releases/download/1.1/AirTroller-1.1.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1276,7 +1267,7 @@
                 "version": "1.0",
                 "date": "2022-11-26",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240125/AirTroller-1.0.tipa",
+                "downloadURL": "https://github.com/sourcelocation/AirTroller/releases/download/1.0/AirTroller-1.0.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1300,7 +1291,7 @@
                 "version": "1.0",
                 "date": "2023-04-04",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/AppIndex_v1.0.tipa",
+                "downloadURL": "https://github.com/NSAntoine/AppIndex/releases/download/1.0/AppIndexTrollStore.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1324,7 +1315,7 @@
                 "version": "1.0",
                 "date": "2022-10-26",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240202/ModMyIPA-1.0.2.ipa",
+                "downloadURL": "https://github.com/powenn/ModMyIPA/releases/download/1.0.2/ModMyIPA-1.0.2.ipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1432,7 +1423,7 @@
                 "version": "2.0",
                 "date": "2024-02-02",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240204/PlistEditor_2.0.ipa",
+                "downloadURL": "https://github.com/SamoXcZ/Plist_Editor/releases/download/Plist_Editor2.0/PlistEditor_2.0.ipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1548,7 +1539,7 @@
                 "version": "1.3",
                 "date": "2023-08-18",
                 "localizedDescription": "用于显示大多数日志的＜private＞vars的实际值的选项（默认为打开）",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240205/AntoineTrollStore_v1.3.tipa",
+                "downloadURL": "https://github.com/NSAntoine/Antoine/releases/download/1.3/AntoineTrollStore.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1557,7 +1548,7 @@
                 "version": "1.2",
                 "date": "2023-05-12",
                 "localizedDescription": "1.修复了iOS13上不显示文本消息的问题；\n2.改进了运行方式以获得更好的性能；\n3.支持日志的导出和导入。（文件扩展名为.antoinelog，基于JSON）",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240205/AntoineTrollStore_v1.2.tipa",
+                "downloadURL": "https://github.com/NSAntoine/Antoine/releases/download/1.2/AntoineTrollStore.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1581,7 +1572,7 @@
                 "version": "1.1",
                 "date": "2022-09-30",
                 "localizedDescription": "1.增加重置按钮；\n2.基本修复现有Bug；\n3.增加对PDF背景的支持。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240213/Cardio_v1.1.ipa",
+                "downloadURL": "https://github.com/cisc0disco/Cardio/releases/download/1.1/Cardio.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1590,7 +1581,7 @@
                 "version": "1.0",
                 "date": "2022-09-30",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240213/Cardio_v1.0.ipa",
+                "downloadURL": "https://github.com/cisc0disco/Cardio/releases/download/1.0/Cardio.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
