@@ -1742,6 +1742,30 @@
               }
             ],
           "appPermissions": {}
+        },
+        {
+          "name": "Zomigle",
+          "bundleIdentifier": "xyz.hhls.Zomigle",
+          "developerName": "HAHALOSAH",
+          "subtitle": "Apple Watch 配对神器，支持TrollStore全版本。",
+          "localizedDescription": "Apple Watch 配对神器，支持TrollStore全版本。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Zomigle.png",
+          "tintColor": "#021116",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Zomigle.png"
+          ],
+          "versions": [
+              {
+                "version": "1.0",
+                "date": "2024-03-02",
+                "localizedDescription": "首次发布",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240320/xyz.hhls.zomigle_0.1.0-beta1.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
         }
     ],
     "news": []
