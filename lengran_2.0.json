@@ -1681,7 +1681,7 @@
                 "version": "1.4.7",
                 "date": "2023-03-17",
                 "localizedDescription": "##问题修复##\n1.优化授权验证交互时的部分细节\n2.修复 “增强自动录音” 和 “增强通话场景识别” 在部分场景下不精确的问题\n3.为波形预览增加位图缓存以提升复用效率\n##功能增强##\n1.录音列表现已支持自定义是否显示捆绑包名称\n2.录音列表底部现已支持显示录音数量和存储空间占用（轻按一下录音数量标签以计算存储空间占用）\n3.应用程序现已支持自定义背景样式",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.4.7-46/TRApp-v1.4.7-46.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.4.7-46/TRApp_1.4.7-46.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1690,7 +1690,7 @@
                 "version": "1.4.5",
                 "date": "2023-03-15",
                 "localizedDescription": "##问题修复##\n1.修复联系人号码匹配问题，同时，新增带国际号码前缀的联系人匹配能力。\n2.缓解在频谱分析过程中播放音频的崩溃问题\n3.修复在侧滑返回过程中切换标签页 App 假死的问题\n4.修复搜索录音时列表被键盘遮挡的问题\n5.优化转录功能付费引导的部分交互细节\n##功能增强##\n1.App 内字体现已跟随系统字体大小设定\n2.应用程序现已支持自定义是否显示波形预览及录音时长\n3.发布版本采用 LZMA Zip 压缩格式以减小安装包体积。\n此版本为小修补更新，仅涉及 App 修改及界面优化，核心功能及悬浮窗完全未改。建议视自身情况选择更新。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.4.1-36/TRApp-v1.4.5-36.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.4.5-36/TRApp_1.4.5-36.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
