@@ -1291,7 +1291,7 @@
                 "version": "1.0",
                 "date": "2023-04-04",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/NSAntoine/AppIndex/releases/download/1.0/AppIndexTrollStore.tipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/AppIndex_v1.0.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1750,7 +1750,7 @@
           "subtitle": "Apple Watch 配对神器，支持TrollStore全版本。",
           "localizedDescription": "Apple Watch 配对神器，支持TrollStore全版本。",
           "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Zomigle.png",
-          "tintColor": "#c5b6d7",
+          "tintColor": "#a9cfd5",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Zomigle.png"
           ],
