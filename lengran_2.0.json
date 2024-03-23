@@ -1,6 +1,6 @@
 {
     "name": "Lengran's Source",
-    "subtitle": "A source for all of my apps",
+    "subtitle": "欢迎订阅我的巨魔APP频道，所有资源来源于网络。",
     "description": "欢迎订阅我的巨魔APP频道，所有资源来源于网络。",
     "iconURL": "https://avatars.githubusercontent.com/u/35867569?v=4",
     "headerURL": "https://avatars.githubusercontent.com/u/35867569?v=4",
@@ -186,7 +186,7 @@
                 "version": "1.11.11",
                 "date": "2024-03-17",
                 "localizedDescription": "这是 TrollSpeed 的最终版本。\n修复应用程序交互中的Bug。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.11/TrollSpeed_1.11.11.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.11/TrollSpeed_v1.11.11.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -195,7 +195,7 @@
                 "version": "1.11.9",
                 "date": "2024-03-17",
                 "localizedDescription": "最终，修复了越狱设备上图标显示异常的问题。(感谢 @opa334)",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.9/TrollSpeed_1.11.9.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.9/TrollSpeed_v1.11.9.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
