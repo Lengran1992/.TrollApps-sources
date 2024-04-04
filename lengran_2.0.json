@@ -1690,7 +1690,7 @@
                 "version": "1.5.11",
                 "date": "2023-04-04",
                 "localizedDescription": "##功能改进##\n1.添加额外的快捷指令支持。\n2.添加额外的 URL Scheme 支持：\ntrapp://hud/on: 打开悬浮窗。\ntrapp://hud/off: 关闭悬浮窗。\ntrapp://hud/toggle: 打开/关闭悬浮窗。\ntrapp://recording/on: 开始新的通话录音。\ntrapp://recording/off: 停止现有的通话录音会话。\ntrapp://recording/toggle: 开始新的录音，或停止现有的通话录音会话。\n3.选择后搜索，不再清除所有的选中项。保留搜索结果中已经选中的项目。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.2-65/TRApp_1.5.2-65.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.11-81/TRApp_1.5.11-81.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1699,7 +1699,7 @@
                 "version": "1.5.10",
                 "date": "2023-04-03",
                 "localizedDescription": "##功能改进##\n1.全新的授权界面和交互逻辑，将你的设备连接到 Havoc 账户。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.2-65/TRApp_1.5.2-65.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.10-80/TRApp_1.5.10-80.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1708,7 +1708,7 @@
                 "version": "1.5.9",
                 "date": "2023-04-02",
                 "localizedDescription": "##问题修复##\n1.为地理位置选项增加了提示文本。\n2.修复了可能导致录音无法正常保存的问题。\n3.修复了可能导致录音缓存转换失败的问题。\n4.应急模式：现在你可以先进行通话，随后再启动 App 和通话录音服务。\n5.通话录音服务将检查当前是否处于通话中，并按照配置决定是否启动自动录音。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.2-65/TRApp_1.5.2-65.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.9-79/TRApp_1.5.9-79.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1717,7 +1717,7 @@
                 "version": "1.5.8",
                 "date": "2023-04-01",
                 "localizedDescription": "##关于地理位置权限##\n你必须在系统隐私设置中为巨魔录音机选择 “始终” ，才能使用相关功能。\n##关于稳定性##\n在先前的版本中，当通话结束时，iOS 系统可能会因内存不足，干扰录音的合并与转换过程，进而导致无法生成最终期望的录音文件。由于巨魔环境的条件限制，这一问题仍然难以避免。虽然这种情形发生的概率并不高 —— 目前有数例上报。但是我们仍然非常重视并关注这一问题，并且已经采取了明确的措施来尽可能减少录音的丢失。我们深知，你的通话录音非常重要，每一条录音都不能丢失。\n此前，我们将录音缓存目录移动到了 `/var/mobile/Media` 的可见目录中，方便你提取出它们。\n在当前版本中，我们又提供了一个逃生机制：在特定情形下，你可以在 App 中合成并转换失败的录音缓存。\n很抱歉给你造成不便，我们会继续努力，重点解决这些问题。**—— 如果你需要更稳定和安全的通话录音，我们仍建议你购买一支录音笔。**\n##其他改进##\n1.录音播放器：现在你能够以单声道模式，播放组合模式下录制的通话录音。\n2.悬浮球：提供了一些预设尺寸供你选择。长按悬浮球，直接开始一段新的通话录音，或停止通话录音。\n3.网络存储：WebDAV 服务选项 “连接时保持屏幕常亮”（当 WebDAV 服务器被任何客户端使用时，避免屏幕自动锁定。当你处于 “网络存储” 设置页面时，屏幕也不会自动锁定。）\n4.性能：优化了波形图像的生成和缓存性能。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.2-65/TRApp_1.5.2-65.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.8-78/TRApp_1.5.8-78.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1726,7 +1726,7 @@
                 "version": "1.5.5",
                 "date": "2023-03-29",
                 "localizedDescription": "##细节改进##\n1.考虑到年长用户的需求，新增选项：闲置时淡化悬浮球\n2.现在录音列表支持批量导出了。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.2-65/TRApp_1.5.2-65.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.5-72/TRApp_1.5.5-72.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1735,7 +1735,7 @@
                 "version": "1.5.4",
                 "date": "2023-03-28",
                 "localizedDescription": "##新功能##\n1.新增 WebDAV 服务器。\n##细节改进##\n悬浮球现已支持闲置半透明。\n未安装 Filza 或不支持 URL Scheme 的情形下，支持从帮助弹窗复制回收站绝对路径。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.2-65/TRApp_1.5.2-65.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.4-70/TRApp_1.5.4-70.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1744,7 +1744,7 @@
                 "version": "1.5.3",
                 "date": "2023-03-27",
                 "localizedDescription": "##问题修复##\n1.改进通话状态检测：修复可能的录音不能终止的问题。\n2.改进通话状态检测：修复多通话叠加进行时，录音状态异常的问题。\n3.在其他设备上通话：修复当前设备作为其他设备的代理进行通话时，无法录音的问题。\n4.修复录音列表关于时间的描述不准确的问题。\n5.修复录音详情页地理位置缓存后，经纬度不再显示的问题。\n##其他调整##\n1.增强自动录音、悬浮球增强场景识别现已对所有人默认开启，需手动关闭。\n2.考虑许多人没有安装带 URL Scheme 功能的 Filza，回收站现已对所有人默认关闭，需手动开启。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.2-65/TRApp_1.5.2-65.tipa",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.3-69/TRApp_1.5.3-69.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
