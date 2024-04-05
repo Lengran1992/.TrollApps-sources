@@ -618,7 +618,7 @@
                 "version": "2.1.1",
                 "date": "2023-08-09",
                 "localizedDescription": "##新增##\n添加访问禁止名单，禁止访问蒲公英&fir页面。",
-                "downloadURL": "http://www.zxlee.cn/ipaDownloadTool/release/ipaDownloadTool-2.1.1.ipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240204/ipaDownloadTool-2.1.1.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -627,7 +627,7 @@
                 "version": "2.1.0",
                 "date": "2023-04-08",
                 "localizedDescription": "##新增##\n1.支持自动解析安装UDID描述文件并继续提取IPA信息；\n2.描述文件URL匹配规则&自定义虚拟UDID；\n3.添加URL Scheme，支持通过ipadownloadtool://hander?url=从Safari跳转至“IPA提取器”并打开对应页面。\n##修复##\n从剪贴板中获取URL并加载时网页历史记录为更新的问题。",
-                "downloadURL": "http://www.zxlee.cn/ipaDownloadTool/release/ipaDownloadTool-2.1.0.ipa",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/IpaDownloadTool_2.1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -636,7 +636,7 @@
                 "version": "2.0.1",
                 "date": "2022-10-18",
                 "localizedDescription": "##新增##\n1.支持直接下载网页中的ipa文件；\n2.IPA提取器主页添加网页前进、后退、重新加载操作；\n3.ipa提取历史支持根据时间或文件名排序；\n4.网页浏览历史页面支持编辑网页标题；\n5.支持数据导入导出。\n##修复##\n1.当网址中包含中文时，网页加载失败的问题；\n2.plist文件下载失败时，应用闪退的问题；\n3.网页历史记录中网站logo不展示的问题；\n4.横屏时网页加载进度条错位的问题；\n5.修复在iPad中，点击应用详情中的：点击分享/重新下载项时闪退的问题。\n##优化##\n1.提取ipa信息成功后可直接跳转到详情；\n2.删除下载中断的文件；\n3.ipa提取规则&细节；\n4.APP重新打开自动加载最近一次加载的网页；\n5.分享的文件名显示原名，而非显示md5之后的密文。",
-                "downloadURL": "http://www.zxlee.cn/ipaDownloadTool/release/ipaDownloadTool-2.0.1.ipa",
+                "downloadURL": "hhttps://github.com/Lengran1992/TrollApps/releases/download/20240204/ipaDownloadTool-2.0.1.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
