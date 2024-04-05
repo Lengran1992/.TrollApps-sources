@@ -1687,6 +1687,15 @@
           ],
           "versions": [
               {
+                "version": "1.5.12",
+                "date": "2023-04-05",
+                "localizedDescription": "##问题修复##\n1.修复了指定应用程序选项可能不生效的问题。\n2.优化了授权验证机制，增设了服务器负载均衡。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.12-82/TRApp_1.5.12-82.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "1.5.11",
                 "date": "2023-04-04",
                 "localizedDescription": "##功能改进##\n1.添加额外的快捷指令支持。\n2.添加额外的 URL Scheme 支持：\ntrapp://hud/on: 打开悬浮窗。\ntrapp://hud/off: 关闭悬浮窗。\ntrapp://hud/toggle: 打开/关闭悬浮窗。\ntrapp://recording/on: 开始新的通话录音。\ntrapp://recording/off: 停止现有的通话录音会话。\ntrapp://recording/toggle: 开始新的录音，或停止现有的通话录音会话。\n3.选择后搜索，不再清除所有的选中项。保留搜索结果中已经选中的项目。",
