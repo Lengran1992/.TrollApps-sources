@@ -1687,6 +1687,15 @@
           ],
           "versions": [
               {
+                "version": "1.7.0",
+                "date": "2023-04-13",
+                "localizedDescription": "1.新增 FaceTime、电话的联系人例外（黑白名单/自动收藏）。\n2.新增“触感反馈”选项。\n3.优化多通话场景的处理。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.7.0-101/TRApp_1.7.0-101.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "1.6.6",
                 "date": "2023-04-08",
                 "localizedDescription": "##功能改进##\n1.当通话状态发生变化时，从折叠态唤醒悬浮球。\n2.新选项 “显示 SIM 卡别名”：如果可用，显示此录音通话时所使用的 SIM 卡的简称。\n3.新选项 “显示详细通知”：在通知横幅中显示录音的详细信息。",
