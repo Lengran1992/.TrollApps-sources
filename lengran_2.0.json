@@ -1687,9 +1687,27 @@
           ],
           "versions": [
               {
+                "version": "1.7.4",
+                "date": "2023-04-20",
+                "localizedDescription": "##Enhancements##\nLocation updates will be populated as a backup if you open the app in 15 minutes, or 1 hour, as an extra option.\n##Bug Fixes##\n1.Some known issues in enhanced call detection.\n2.Some known issues in blacklist / whitelist matching rules.\n3.Fixed an issue that the hover-ball should not become idle when it is dragged.",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.7.4-113/TRApp_1.7.4-113.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.7.2",
+                "date": "2023-04-17",
+                "localizedDescription": "##Enhancements##\n1.Location updates will be populated as a backup if you open the app in 15 minutes.\n2.Short aliases of SIM card will be displayed in the recording title as a small badge.\n3.Phone numbers in blacklist/whitelist will be formatted to display.\n4.You can now select 4 or 5 seconds to use before the hover-ball becoming idle.\n##Bug Fixes##\n1.Some inconsistency in user defaults reloading.\n2.The hover-ball grabber will be always invisible when the recording panel is shown.\n3.Network access of the app will be automatically granted for license verification.",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.7.2-109/TRApp_1.7.2-109.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "1.7.0",
-                "date": "2023-04-13",
-                "localizedDescription": "1.新增 FaceTime、电话的联系人例外（黑白名单/自动收藏）。\n2.新增“触感反馈”选项。\n3.优化多通话场景的处理。",
+                "date": "2023-04-12",
+                "localizedDescription": "To reduce maintenance cost, changelogs will be published in English only from now on.\n##New Features##\n1.Blacklist / Whitelist for Automatic Recording.\n2.New option: “Haptic Feedback”. Use special patterns instead of plain vibrates.\n3.New option: Custom HUD idle interval.\n##Enhancements##\n1.Optimized layout of Settings page.\n2.Allows customized options for FaceTime and Phone App.\n3.Applications now have two sections:①System Applications (FaceTime and Phone App)、②User Applications\n##Bug Fixes##\nFixed a crash on iOS 15.1 and below.",
                 "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.7.0-101/TRApp_1.7.0-101.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
