@@ -1687,6 +1687,33 @@
           ],
           "versions": [
               {
+                "version": "1.8.0",
+                "date": "2023-05-01",
+                "localizedDescription": "##最近更新内容##\n1.「快速录音」组合键修改为同时按下两个音量键。\n2.「应用程序」选项为「微信」新增「允许访问通话记录」选项。勾选此选项，代表你同意并授权「巨魔录音机」访问「微信」保存在你设备上的 VoIP 通话历史记录缓存数据库，并用于自动填充来自「微信」的通话录音默认名称。此功能仅支持新版本官方微信，旧版本官替、多开或许能够支持，但效果不保证。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.7.4-113/TRApp_1.7.4-113.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.7.9",
+                "date": "2023-04-28",
+                "localizedDescription": "##新功能##\n1.「应用程序」选项为「微信」新增「允许访问通话记录」选项\n实验性功能：勾选此选项，代表你同意并授权「巨魔录音机」访问「微信」保存在你设备上的 VoIP 通话历史记录缓存数据库，并用于自动填充来自「微信」的通话录音默认名称。此功能仅支持 官方微信 8.0.46 之后的版本。\n2.新增越南语 (@2311WithLuv) 支持。\n3.修复 TrollRecorder JB 在部分场景下首次安装，授权验证失败的问题。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.7.4-113/TRApp_1.7.4-113.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.7.6",
+                "date": "2023-04-23",
+                "localizedDescription": "🎉 越狱版 TrollRecorder JB 已上架，同一账号已购巨魔版的，越狱版可享 50% 立减折扣。\n##v1.7.6-117 更新日志##\n1.新增「快速录音」，通话过程中双击 音量➕键 可便捷开始或停止录制。\n2.修复了微信非 CallKit 通话场景下，经常出现 **不触发自动录音、无法手动录音** 的问题。\n3.新增「在锁屏界面显示」，解锁后悬浮球可以在锁屏界面上显示。\n4.新增繁体中文 ([@CaslenZ](https://github.com/CaslenZ))、法语 ([@DzMoha](https://twitter.com/contact_nadhir)) 支持。\n⚠️ 因图形合成服务 Secure Mode 限制，暂不支持在解锁前显示悬浮球。因此我们先行提供了「快速录音」功能作为手动录音的替代。敬请期待后续更新。\n🎉 感谢大家的支持与信赖，经过两个月的迭代更新，巨魔录音机现已稳定支持：电话和 FaceTime 通话、官方/官替/多开微信、其他三方应用的 CallKit 或非 CallKit 通话场景、多个连续通话的叠加与衔接录制\n**请支持正版，拒绝破解！如果暂不打算入手，可以使用免费版！**\n巨魔录音机将一如既往地提供稳定的、高质量的通话录音功能。\n\n##近期更新日志##\n1.新增 FaceTime、电话的联系人例外（黑白名单/自动收藏）。\n2.新增“触感反馈”选项。\n3.优化多通话场景的处理。\n4.如果通话过程中获取地理位置失败，可以在录音完成后 15 分钟内打开 App 以补充缺失的地理位置信息。\n5.SIM 卡英文或数字短别名将以小图标形式展现在录音标题末尾。\n6.黑白名单中的电话号码将格式化显示。\n7.悬浮球空闲时长现已可选 3/4/5/6 秒共四个档位。\n⚠️ 黑白名单对于官替电话无效！\n\n##TrollRecorder JB 越狱版主要区别##\n1.越狱版不能与巨魔版共存。\n2.越狱版后台服务越狱后常驻，更为稳定。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.7.4-113/TRApp_1.7.4-113.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "1.7.4",
                 "date": "2023-04-20",
                 "localizedDescription": "##Enhancements##\nLocation updates will be populated as a backup if you open the app in 15 minutes, or 1 hour, as an extra option.\n##Bug Fixes##\n1.Some known issues in enhanced call detection.\n2.Some known issues in blacklist / whitelist matching rules.\n3.Fixed an issue that the hover-ball should not become idle when it is dragged.",
