@@ -1611,6 +1611,24 @@
           ],
           "versions": [
               {
+                "version": "2.1.4",
+                "date": "2024-05-08",
+                "localizedDescription": "1.只自动修复里面相关目录的权限/var/jb/var/mobile\n2./var/jb/var如果或是符号链接，则跳过权限修复/var/jb/var/mobile",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.4/Dopamine.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "2.1.3",
+                "date": "2024-05-07",
+                "localizedDescription": "1.修复部分设备上的系统死锁导致 watchdogd 超时的问题\n2.自动递归修复 /var/jb/var/mobile 权限\n3.修复协同设计旁路不适用于具有armv6切片的二进制文件\n4.修复multicast_bytecopy在iPad Mini 6上不起作用的问题",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.3/Dopamine.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
                 "version": "2.1.2",
                 "date": "2024-05-03",
                 "localizedDescription": "1.修复 App 切换器在某些情况下不显示越狱应用程序的预览图像\n2.沙盒：允许写入/var/jb/var/mobile系统",
@@ -1713,6 +1731,15 @@
               "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollRecorder_02.png"
           ],
           "versions": [
+              {
+                "version": "1.8.2",
+                "date": "2023-05-05",
+                "localizedDescription": "##Recent Updates##\n1.Added Bugsnag for crash reporting.\n2.New option that allows you to access the WebDAV server while the app is in background.\n3.(New Option) Fixed an issue that prevented recording calls from other devices.\n4.Fixed an issue that prevented sharing recordings with special characters in their names.",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.8.2-137/TRApp_1.8.2-137.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
               {
                 "version": "1.8.0",
                 "date": "2023-05-01",
