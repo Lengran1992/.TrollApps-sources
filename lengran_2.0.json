@@ -1732,6 +1732,33 @@
           ],
           "versions": [
               {
+                "version": "1.8.7",
+                "date": "2023-05-14",
+                "localizedDescription": "##Major Updates##\n1.Fixed the support for iOS 15.0\n2.New feature: “Go Home When Unlocked”",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.8.7-150/TRApp_1.8.7-150.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.8.6",
+                "date": "2023-05-13",
+                "localizedDescription": "##最近更新内容##\n1.💬 「播放录音提示」现已支持手动触发，长按悬浮面板左下角的暂停键即可呼出此功能菜单。\n2.⚽️ 「悬浮球+」现已支持自定义避让区域，并支持上下边缘吸附（不支持折叠）。\n3.🔔 对于未购买或未开启的用户，提示购买或开启「微信通话助理」。\n4.🩹 修复了部分场景下微信来去电方向无法获取的问题。\n5.🩹 修复了上个版本应用程序「允许自动录音」开关失效的问题。\n6.🩹 修复了上个版本自定义避让区域时，横竖屏切换导致避让区域丢失的问题。\n7.🔗 当巨魔商店「URL Scheme」未打开时，不再跳转放大镜而是跳转到 Safari 下载安装包。\n\n##已知问题##\n1.目前收到若干例用户报告，iOS 15.0 最近几个版本无法进行通话录音，请暂时使用旧版。\n2.开发者没有 iOS 15.0 的巨魔 2 设备，此问题可能需要一段时间才能修复。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.8.6-145/TRApp_1.8.6-145.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.8.5",
+                "date": "2023-05-11",
+                "localizedDescription": "##New Features##\n1.Call Recording\n“Play Recording Warning”: Now you can manually play the recording warning by long-pressing the “pause” or “resume” button on the floating panel.\n2.Hover-ball Plus\n“Custom Layout Guide”: Customize a rectangular region that helps you position the hover-ball on the screen.\n“Attachable Edges”: You can determine which edges of the screen the hover-ball can be attached to.\n3.Appearance\nAdd warning dialogs to enable “WeChat Call Assistant”.\n\n##Bug Fixes & Improvements##\n1.Increased timeout intervals in some scenarios.\n2.Fixed an issue that prevents iOS 15, iPhone 12 users from touching the hover-ball.\n3.Fixed an issue that prevents call direction detection for WeChat calls.\n4.Fixed an issue that causes “Allow Automatic Recording” toggles for FaceTime and Phone Calls failed to work properly.\n5.When “URL Scheme Enabled” toggle is OFF, open Safari to download the updated .tipa package.",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.8.5-144/TRApp_1.8.5-144.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "1.8.2",
                 "date": "2023-05-05",
                 "localizedDescription": "##Recent Updates##\n1.Added Bugsnag for crash reporting.\n2.New option that allows you to access the WebDAV server while the app is in background.\n3.(New Option) Fixed an issue that prevented recording calls from other devices.\n4.Fixed an issue that prevented sharing recordings with special characters in their names.",
