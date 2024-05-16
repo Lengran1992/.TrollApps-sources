@@ -1493,6 +1493,15 @@
           ],
           "versions": [
               {
+                "version": "1.6",
+                "date": "2024-04-29",
+                "localizedDescription": "1.增加温度模拟(即Powercuff)及峰值性能状态管理功能\n2.增加限流功能以兼容某些控流能力差的电池,避免充电温度过高\n3.增加5分钟图,增加时移功能,增加显示充电状态\n4.优化界面",
+                "downloadURL": "https://github.com/lich4/ChargeLimiter/releases/download/1.6/ChargeLimiter_1.6.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "1.5",
                 "date": "2024-04-01",
                 "localizedDescription": "1.支持禁流模式以兼容少数不支持停充的电池\n2.对iPhone8及以上型号重新优化,支持智能停充,支持Smart模式\n3.悬浮窗自动隐藏\n4.增加电池历史数据统计\n5.增加scheme和http接口,可和快捷方式搭配使用",
