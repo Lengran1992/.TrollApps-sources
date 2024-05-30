@@ -1620,6 +1620,15 @@
           ],
           "versions": [
               {
+                "version": "2.1.5",
+                "date": "2024-05-27",
+                "localizedDescription": "1.修复了EQE应用程序\n2.修复 Codesign bypass 不支持的问题",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.5/Dopamine.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
                 "version": "2.1.4",
                 "date": "2024-05-08",
                 "localizedDescription": "1.只自动修复里面相关目录的权限/var/jb/var/mobile\n2./var/jb/var如果或是符号链接，则跳过权限修复/var/jb/var/mobile",
@@ -1741,9 +1750,63 @@
           ],
           "versions": [
               {
+                "version": "1.9.7",
+                "date": "2023-05-29",
+                "localizedDescription": "##问题修复##\n（中国大陆地区用户特供）\n此版本主要修复了微信录音偶现失效的问题。\n\n##相关问题汇总##\n1.授权验证失败优先排查：订单内有礼品码需要兑换，必须用 Safari 非无痕模式登录。\n2.「微信通话助理」需注意，「仅支持新版本官方微信」。即只支持 46-49 版本官方原版微信，其他各路魔改均不支持。\n3.只有当微信通话结束，触发录音结束的情形下，「微信通话助理」才能生效。手动提前结束录音时此功能无效。\n4.「微信通话助理」有时能够获取通话方向，有时不能。这是正常现象，随缘获取，勿要强求。\n5.安装新版本后桌面小组件变白，是巨魔导致的。「妙手回春」后再回桌面点一下小组件即可恢复正常。\n6.开机自启（服务保活）选项需要购买高级版，并将「巨魔录音机」小组件添加到桌面或负一屏。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.7-183/TRApp_1.9.7-183.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.9.6",
+                "date": "2023-05-26",
+                "localizedDescription": "##更新日志##\n1.🤡 优化 App 前后台切换的动态效果\n2.🤡 优化设置页面条目按下的动态效果\n3.🔊 优化录音回放：现已支持后台播放和媒体控制\n4.📖 新增繁体中文（台湾）支持\n5.原繁体中文现已调整为繁体中文（香港）\n6.🩹 修复关闭「录音定位」后，「应用启动时填充位置」选项仍生效的问题。\n7.📧 「通过电子邮件联系」反馈时，你的 App 偏好设置将会随附件一同发送给我们。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.6-175/TRApp_1.9.6-175.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.9.3",
+                "date": "2023-05-22",
+                "localizedDescription": "##问题修复##\n修复了 “妙手回春” 会导致服务无法启动的严重可用性问题。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.3-166/TRApp_1.9.3-166.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.9.2",
+                "date": "2023-05-21",
+                "localizedDescription": "!!请不要安装此版本!!\n\n##问题修复##\n修复了 “妙手回春” 会导致服务无法启动的严重可用性问题。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.2-164/TRApp_1.9.2-164.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.9.1",
+                "date": "2023-05-20",
+                "localizedDescription": "!!请不要安装此版本!!\n\n##更新日志##\n1.🔔 改进「显示开始通知」：\n提升了开始通知的成功率。\n「显示有声通知」和「显示通知角标」开关将同时作用于开始通知。\n2.🔊 播放已录制的音频时锁屏，播放将继续。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.1-163/TRApp_1.9.1-163.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.9.0",
+                "date": "2023-05-20",
+                "localizedDescription": "!!请不要安装此版本!!\n\n##Major Updates##\n1.Optimized “Go Home When Unlocked”.\n2.Optimized “Populate Location When App Starts”.\nNow you can see the progress of location updates in recording detail page.\n3.New Feature “Show Option Description”.\nNow you can choose whether to display the name or description of each option.\n4.New Feature “Popup Banner at Begin”.\nDisplay a notification banner when it is ready to record or recording starts.\nRemove all outdated notifications when app starts.\n5.Now you can send feedback to us via Email, with a new feedback template.\nService logs and crash logs will be included.",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.0-161/TRApp_1.9.0-161.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "1.8.9",
                 "date": "2023-05-18",
-                "localizedDescription": "此版本建议先手动卸载，再重新执行安装！\n你的录音不会被删除。\n\n此版本改进了状态管理，提升了「开机自启」的成功率。可能会轻微增加耗电，如果出现耗电异常，请在设置页面点击下方的「联系我们」，发送邮件进行日志反馈。\n##更新日志##\n1.⚠️ 改进状态管理：提升「开机自启」成功率\n2.🔔 新增「显示开始通知」\n仅锁定时：在屏幕锁定时开始录音，会显示即时通知。\n始终：开始录音时，会显示即时通知。\n3.🩹 改进通知显示的样式和优先级\n4.🩹 启动 App 时消除所有通知\n5.🩹 改进「解锁后回到桌面」：输入密码解锁时不再重复模拟上划。\n6.🔨 新增「开发者模式」：可以查看运行日志（隐藏式入口）\n7.🔨 邮件反馈现自带模版，并附加最近 7 天的运行日志和最近的崩溃日志。”",
+                "localizedDescription": "!!请不要安装此版本!!\n\n此版本建议先手动卸载，再重新执行安装！\n你的录音不会被删除。\n\n此版本改进了状态管理，提升了「开机自启」的成功率。可能会轻微增加耗电，如果出现耗电异常，请在设置页面点击下方的「联系我们」，发送邮件进行日志反馈。\n##更新日志##\n1.⚠️ 改进状态管理：提升「开机自启」成功率\n2.🔔 新增「显示开始通知」\n仅锁定时：在屏幕锁定时开始录音，会显示即时通知。\n始终：开始录音时，会显示即时通知。\n3.🩹 改进通知显示的样式和优先级\n4.🩹 启动 App 时消除所有通知\n5.🩹 改进「解锁后回到桌面」：输入密码解锁时不再重复模拟上划。\n6.🔨 新增「开发者模式」：可以查看运行日志（隐藏式入口）\n7.🔨 邮件反馈现自带模版，并附加最近 7 天的运行日志和最近的崩溃日志。”",
                 "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.8.9-159/TRApp_1.8.9-159.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
