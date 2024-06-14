@@ -1620,10 +1620,28 @@
           ],
           "versions": [
               {
+                "version": "2.1.7",
+                "date": "2024-06-13",
+                "localizedDescription": "1.移除 libkrw 插件对 libkrw0 的依赖，这应该可以在卸载 libkrw0 后修复重新越狱的问题\n2.改进详细日志记录，并将标准错误输出也记录到日志中",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.5/Dopamine.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "2.1.6",
+                "date": "2024-06-13",
+                "localizedDescription": "1.修复在关闭开发者模式的情况下，iOS 16.0 - 16.3.1 arm64设备上越狱无效的问题\n2.修复 weightBufs 在某些设备/版本组合上无法正常工作的问题\n3.修复在 kcall 不可用时，libkrw 的 physrw 无法正常工作的问题\n4.改善 libkrw 的打包和错误处理\n5.如果已经安装了更新版本，则跳过安装捆绑包\n6.在未越狱时有可用更新时，如果启用了 URL 方案，直接在 TrollStore 中打开更新",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.7/Dopamine.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
                 "version": "2.1.5",
                 "date": "2024-05-27",
                 "localizedDescription": "1.修复了EQE应用程序\n2.修复 Codesign bypass 不支持的问题",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.5/Dopamine.ipa",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.6/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1750,8 +1768,35 @@
           ],
           "versions": [
               {
+                "version": "1.10.2",
+                "date": "2023-06-11",
+                "localizedDescription": "##问题修复##\n1.进一步改进授权验证策略和新手引导过程\n2.修复录音详情部分字段过长显示不完整的问题（如地理位置）\n3.修复通话监控服务日志可能无法正常输出到文件的问题\n4.修复关闭后检查更新依旧生效的问题（感谢群友 Redamancy 指出）",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.10.2-280/TRApp_1.10.2-280.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.10.1",
+                "date": "2023-06-10",
+                "localizedDescription": "##新功能##\n1.原「制作归档」、「导出元数据」、「WebDAV 服务器」功能已移至「内容共享」标签页\n2.新增「自定义导出名称」功能：\n你现在可以 优雅地 自定义录音的分享、批量导出的名称\n特别提示：今后的版本中，自动归档（备份）功能也能够支持用户自定义的文件名称\n3.App 设置中新增「发行说明」入口：\n你现在可以在 App 中查看历次更新的具体内容\n\n##优化与改进##\n1.💗「关爱」为纯图标按钮添加了无障碍标签和提示信息\n2.💗 调整了授权验证失败时的提示，引导用户自助排查问题\n3.调整了 Havoc 账户登出时的验证策略\n4.微调了 App 图标，使其主体与背景居中，更为美观\n5.优化了逆地理位置的格式化文本\n\n##问题修复##\n1.修复了「导出元数据」选项开启后，录音分享到微信无法播放的问题\n2.修复了「应用程序图标」选项在卸载并重装后，实际效果被还原的问题\n3.再次打开 App 设置页，App 图标将重新配置为用户选择的风格\n\n##兼容性声明##\n自此版本开始，巨魔录音机的安装、服务启动阶段，可能会进行环境自检，并给出提示。具体限制如下：\n1.巨魔录音机不支持也永远不会支持 iOS 14。\n2.巨魔录音机（巨魔版本）需要从巨魔商店 TrollStore 安装，不支持任何自签。\n3.TrollRecorder JB，即越狱版本，不支持 RootHide 环境；此环境用户请从 TrollStore 安装和使用巨魔版本。\n4.巨魔版本和越狱版本不可共存，如果同时安装，会产生一系列冲突和奇怪的问题。请卸载其中一个。\n5.iPhone X 及更早设备因性能过时，可能无法正常编码太长的录音。对此，请使用这些设备的用户在免费试用阶段做好自测，因设备性能原因造成的使用问题，不予退款。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.10.1-273/TRApp_1.10.1-273.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.10.0",
+                "date": "2023-06-05",
+                "localizedDescription": "##新功能##\n1.「显示与外观」新增「应用程序图标」选项\n2.Pro 用户现可更换新款图标\n3.「本地存储」新增「导出元数据」选项\n4.分享、导出或归档音频文件时写入 ID3 标签\n5.🐤 自动归档功能或于下个版本推出\n\n##优化与改进##\n1.优化了大批量删除、导出时的性能及显示效果\n2.「删除过期录音」功能新增「45 天前」选项\n3.此功能选项设置后并不会立即执行删除，而是在随后数日执行\n4.「删除过期录音」选项设置后，将为列表中即将删除的录音特别标记",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.10.0-266/TRApp_1.10.0-266.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "1.9.8",
-                "date": "2023-05-29",
+                "date": "2023-06-03",
                 "localizedDescription": "##主要更新内容##\n你没看错，这周只更新了一个垃圾桶 🗑️。\n(PRO) 重新设计的“回收站”\n你现在可以直接在 App 中恢复最近删除的录音。\n需要提前打开「使用回收站」选项。",
                 "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.8-236/TRApp_1.9.8-236.tipa",
                 "size": 331000,
@@ -1760,7 +1805,7 @@
               },
               {
                 "version": "1.9.7",
-                "date": "2023-05-29",
+                "date": "2023-05-28",
                 "localizedDescription": "##问题修复##\n（中国大陆地区用户特供）\n此版本主要修复了微信录音偶现失效的问题。\n\n##相关问题汇总##\n1.授权验证失败优先排查：订单内有礼品码需要兑换，必须用 Safari 非无痕模式登录。\n2.「微信通话助理」需注意，「仅支持新版本官方微信」。即只支持 46-49 版本官方原版微信，其他各路魔改均不支持。\n3.只有当微信通话结束，触发录音结束的情形下，「微信通话助理」才能生效。手动提前结束录音时此功能无效。\n4.「微信通话助理」有时能够获取通话方向，有时不能。这是正常现象，随缘获取，勿要强求。\n5.安装新版本后桌面小组件变白，是巨魔导致的。「妙手回春」后再回桌面点一下小组件即可恢复正常。\n6.开机自启（服务保活）选项需要购买高级版，并将「巨魔录音机」小组件添加到桌面或负一屏。",
                 "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.7-183/TRApp_1.9.7-183.tipa",
                 "size": 331000,
