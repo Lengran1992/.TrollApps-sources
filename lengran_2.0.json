@@ -1836,7 +1836,7 @@
                 "localizedDescription": "##问题修复##\n1.进一步改进授权验证策略和新手引导过程\n2.修复录音详情部分字段过长显示不完整的问题（如地理位置）\n3.修复通话监控服务日志可能无法正常输出到文件的问题\n4.修复关闭后检查更新依旧生效的问题（感谢群友 Redamancy 指出）",
                 "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.10.2-280/TRApp_1.10.2-280.tipa",
                 "size": 331000,
-                "minOSVersion": "15.0"
+                "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
               },
               {
