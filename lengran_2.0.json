@@ -114,8 +114,26 @@
           ],
           "versions": [
               {
+                "version": "1.12.1",
+                "date": "2024-06-17",
+                "localizedDescription": "##TrollSpeed JB - DLC##\nExtra, optional preference bundle in Settings.It will display only if you've installed PreferenceLoader.",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.12.1/TrollSpeed+AppIntents16_1.12.1.tipa",
+                "size": 331000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.12.0",
+                "date": "2024-06-16",
+                "localizedDescription": "This is the final version of TrollSpeed & TrollSpeed JB.\n##Bug Fixes##\nReplace _MSSafeMode=1 with DISABLE_TWEAKS=1 to avoid process spawn issues (Special thanks to @opa334).",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.12.0/TrollSpeed+AppIntents16_1.12.0.tipa",
+                "size": 331000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
                 "version": "1.11.11",
-                "date": "2024-03-17",
+                "date": "2024-03-16",
                 "localizedDescription": "这是 TrollSpeed 的最终版本。\n修复应用程序交互中的Bug。",
                 "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.11/TrollSpeed+AppIntents16_1.11.11.tipa",
                 "size": 331000,
@@ -182,6 +200,24 @@
               "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollSpeed.png"
           ],
           "versions": [
+              {
+                "version": "1.12.1",
+                "date": "2024-06-17",
+                "localizedDescription": "##TrollSpeed JB - DLC##\nExtra, optional preference bundle in Settings.It will display only if you've installed PreferenceLoader.",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.12.1/TrollSpeed_v1.12.1.tipa",
+                "size": 331000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "1.12.0",
+                "date": "2024-06-16",
+                "localizedDescription": "This is the final version of TrollSpeed & TrollSpeed JB.\n##Bug Fixes##\nReplace _MSSafeMode=1 with DISABLE_TWEAKS=1 to avoid process spawn issues (Special thanks to @opa334).",
+                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.12.0/TrollSpeed_v1.12.0.tipa",
+                "size": 331000,
+                "minOSVersion": "16.0",
+                "maxOSVersion": "16.6.1"
+              },
               {
                 "version": "1.11.11",
                 "date": "2024-03-17",
@@ -1768,12 +1804,39 @@
           ],
           "versions": [
               {
-                "version": "1.10.2",
+                "version": "1.12.1",
+                "date": "2023-06-16",
+                "localizedDescription": "此版本包含巨魔录音机越狱版的一些严重问题的修复，建议所有越狱版用户更新。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.12.1/TRApp_1.12.1-290.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.12.0",
+                "date": "2023-06-14",
+                "localizedDescription": "##版本说明##\n自 v1.12.0 起，GitHub 发布版本号将不包含构建号，以方便记忆。\n\n##问题修复##\n1.修复「智能云归档」相关配置修改后未能生效的问题\n2.修复当前台录音转换时，「保留所有通道」选项未能生效的问题\n3.修复 TrollRecorder JB 越狱版本中，偶现录音进程无法正常启动的问题",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.12.0/TRApp_1.12.0-285.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.10.3",
                 "date": "2023-06-11",
+                "localizedDescription": "##新功能##\n智能云归档（iCloud Drive 支持）\n每月自动为混合和组合模式的录音创建克隆，并将其存储在 iCloud 云盘中。\n满足如下条件时，归档和上传会被触发：\n已登录 iCloud，启用 iCloud 云盘且剩余空间充足\n连接到电源，剩余电量充足，有可用的网络连接\nApp 处于多任务后台，设备屏幕已锁定且闲置一段时间\n#注意事项#\n此功能不是用于「同步」的网盘，即当前月份的录音不会被归档\n此功能不能立即释放储存空间，但 iCloud 云盘将在机身存储不足时自动删除本地副本\n此功能经过精心设计，可与「删除过期录音」功能一同使用；「删除过期录音」功能不会删除 iCloud 云盘当中的内容\n#新「妙手回春」#\n现已使用新的妙手回春方式，注销时将以动效衔接下述步骤：\n1.冻屏\n2.重启小组件、SpringBoard 和 backboardd\n3.重新启动 App\n\n##优化与改进##\n1.为购买界新增试用状态的文字提示\n\n2.优化「自定义导出名称」的使用体验\n\n##问题修复##\n修复「自定义导出名称」可能导致文件名格式不正确的问题",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.10.3-283/TRApp_1.10.3-283.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.10.2",
+                "date": "2023-06-10",
                 "localizedDescription": "##问题修复##\n1.进一步改进授权验证策略和新手引导过程\n2.修复录音详情部分字段过长显示不完整的问题（如地理位置）\n3.修复通话监控服务日志可能无法正常输出到文件的问题\n4.修复关闭后检查更新依旧生效的问题（感谢群友 Redamancy 指出）",
                 "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.10.2-280/TRApp_1.10.2-280.tipa",
                 "size": 331000,
-                "minOSVersion": "15.0",
+                "minOSVersion": "15.0"
                 "maxOSVersion": "17.0"
               },
               {
