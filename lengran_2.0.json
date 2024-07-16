@@ -1538,6 +1538,15 @@
           ],
           "versions": [
               {
+                "version": "1.6.1",
+                "date": "2024-07-01",
+                "localizedDescription": "1.增加对有线充电宝的支持\n2.增加阿拉伯语\n3.支持17.0界面",
+                "downloadURL": "https://github.com/lich4/ChargeLimiter/releases/download/1.6.1/ChargeLimiter_161.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "1.6",
                 "date": "2024-04-29",
                 "localizedDescription": "1.增加温度模拟(即Powercuff)及峰值性能状态管理功能\n2.增加限流功能以兼容某些控流能力差的电池,避免充电温度过高\n3.增加5分钟图,增加时移功能,增加显示充电状态\n4.优化界面",
@@ -1812,6 +1821,24 @@
               "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollRecorder_02.png"
           ],
           "versions": [
+              {
+                "version": "1.18.0",
+                "date": "2023-07-13",
+                "localizedDescription": "##💬 作者有话说##\n在三周前的 v1.12 中，我们优化了大批量录音（超过 3,000 条）载入的启动速度。\n在两周前，我们为超长录音（超过 10 小时）进行了稳定性与性能优化。\n本周，我们进一步优化了大批量录音（超过 3,000 条）按标题、电话号码文本进行搜索，或按 是否已收藏 进行过滤时的性能。\n\n##🔨 改进与优化##\n1.优化了大批量录音条目的搜索性能\n2.修复越狱版本「最近通话」中关联录音小图标经常不显示的问题\n3.修复在录音列表中进行首次搜索，空列表占位视图闪现的问题\n4.修复录音回放过程中偶现回放中断的问题\n\n##🌍 全球化##\n繁体中文（香港）",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.18.0-352/TRApp_1.18.0-352.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.16.2",
+                "date": "2023-07-11",
+                "localizedDescription": "##🌟 新功能##\n仅付费越狱版可用「与通话记录关联」\n使关联的通话录音展示在「电话」App 的「最近通话」页面，可跳转回巨魔录音机进行回放。\n\n##🌍 全球化##\n繁体中文（香港）\n繁体中文（台湾）\n西班牙语\n\n##🔨 优化与改进##\n优化购买单页的显示布局\n录音回放音频通道变更为独占模式\n将「低电量模式」与 设备温度 作为转换处理过程超时时长的计算系数\n\n##ℹ️ 温馨提示##\n「与通话记录关联」功能需要越狱，并使用越狱版 TrollRecorder JB\n依赖项：com.opa334.libsandy, mobilesubstrate\n「微信通话助理」暂不完整支持官方微信 8.0.50，敬请期待后续更新",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.16.2-344/TRApp_1.16.2-344.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
               {
                 "version": "1.16.0",
                 "date": "2023-07-01",
