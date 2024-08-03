@@ -1674,6 +1674,24 @@
           ],
           "versions": [
               {
+                "version": "2.2.1",
+                "date": "2024-07-31",
+                "localizedDescription": "将 Jetsam Multiplier 功能默认为 3x 乘数，该功能可以自动杀死内存使用超过指定限制的进程。当安装过多的插件或者调整时，在启动时可能会超过这个限制，导致进程崩溃循环，可通过乘数解决这个问题。",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.2.1/Dopamine.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "2.2",
+                "date": "2024-07-28",
+                "localizedDescription": "移除 DYLD_INTERPOSE，改用其他挂钩技术\n可以在 Dopamine 应用程序中配置 jetsam 倍数\nNSTask 在所有地方默认都受到支持\n由于更好的挂钩技术，很多不必要的代码已经能够被移除\n修复 iOS 15 arm64 中 libkrw 和 iDownload 无法工作的 kcall 问题\n修复 frida-ps -U 导致设备崩溃的问题\n以多种方式改进 launchd 崩溃报告器\n代码清理",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.2/Dopamine.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
                 "version": "2.1.7",
                 "date": "2024-06-13",
                 "localizedDescription": "1.移除 libkrw 插件对 libkrw0 的依赖，这应该可以在卸载 libkrw0 后修复重新越狱的问题\n2.改进详细日志记录，并将标准错误输出也记录到日志中",
@@ -1821,6 +1839,15 @@
               "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollRecorder_02.png"
           ],
           "versions": [
+              {
+                "version": "1.18.1",
+                "date": "2024-07-24",
+                "localizedDescription": "💬 作者有话说\n巨魔录音机一直将「无障碍」作为开发过程中的关键环节。实现了包括「可朗读按钮」、「可朗读菜单」、「自适应字体大小」和「自适应界面样式」等易用特性。\n\n本周版本为易用性更新：\n1.优化了「旁白」使用时的焦点数量\n2.优化了部分组件的「旁白」效果\n3.为 HUD 提示弹出增加「旁白」语音\n\n巨魔录音机今后也将继续优化焦点控制等无障碍特性，希望大家能够关注残障人士的 App 开发。\n独立软件开发者生存不易，也希望大家能够支持正版软件。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.18.1-354/TRApp_1.18.1-354.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
               {
                 "version": "1.18.0",
                 "date": "2023-07-13",
@@ -2392,7 +2419,7 @@
           ],
           "versions": [
               {
-                "version": "2.5-2",
+                "version": "2.5",
                 "date": "2024-07-28",
                 "localizedDescription": "##主要更新##\n为各 App 新增高级选项：\n创建弱引用，默认打开\n优先处理主要可执行文件，默认关闭\n\n如果你不知道上述选项的含义，请不要修改。",
                 "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.5-2/TrollFools_2.5-2.tipa",
@@ -2437,7 +2464,7 @@
                 "maxOSVersion": "17.0"
               },
               {
-                "version": "2.1-6",
+                "version": "2.1",
                 "date": "2024-07-22",
                 "localizedDescription": "##主要更新##\n使用 install_name_tool 替代 llvm-install-name-tool\n缩减安装包体积 (26.9M -> 3.0M)\n\n##已知问题##\n轻点搜索框，App 闪退：\n解决方法：关闭「粗体文本」\n\n##声明##\n此工具有较强的技术局限性，它并不能如同越狱一样工作。（为避免误解，不会再加入 .deb 格式支持。）\n不支持注入巨魔 App，注入了也会闪退。所以应用列表不会再显示巨魔 App，不要再问了。\nTrollFools14_2.1-6.fix3.tipa 为 iOS 14 专用版本（不支持搜索），后续也不再更新。",
                 "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.1-6/TrollFools_2.1-6.tipa",
@@ -2446,7 +2473,7 @@
                 "maxOSVersion": "17.0"
               },
               {
-                "version": "2.0-2",
+                "version": "2.0",
                 "date": "2024-07-22",
                 "localizedDescription": "只支持 App Store 上的 部分 App。不支持无 Framework 的 App，不支持巨魔安装的 App，不支持「爱啪思道」安装的 App，不支持其他各种类型安装的 App。不支持的 App 不会显示！还有很多其他办法可以用！比如半越狱，比如轻松签，比如砸壳重签！！不要盯着这一个工具！！！\n\n##主要更新##\n当前支持文件格式：bundle/dylib/framework/zip（zip 当前仅支持顶层目录，不支持嵌套）\n修复文件权限为 _installd\n「应用程序」列表页支持下拉刷新\n「推出」页支持搜索\n「全部推出」新增处理动画",
                 "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.0-2/TrollFools_2.0-2.tipa",
@@ -2455,7 +2482,7 @@
                 "maxOSVersion": "17.0"
               },
               {
-                "version": "1.3-9",
+                "version": "1.3",
                 "date": "2024-07-20",
                 "localizedDescription": "早期可能会遇到错误代码、闪退等问题，发出来才能得到快速反馈和修补，所以更新发布较快，造成的打扰敬请谅解。\n\n##主要更新##\nApp 图标更新\n修复 ct_bypass 错误代码 255\n修复 部分 插件注入后闪退的问题",
                 "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v1.3-9/TrollFools_1.3-9.tipa",
@@ -2464,7 +2491,7 @@
                 "maxOSVersion": "17.0"
               },
               {
-                "version": "1.2-6",
+                "version": "1.2",
                 "date": "2024-07-20",
                 "localizedDescription": "##Major Changes##\nInitial iOS 14 support.\nHides libswift from tweaks list.\n\n##iOS 14 说明##\n请安装 TrollFools14_1.2-6.tipa。可能会遇到 llvm-install-name-tool 错误代码 6 的问题，请等待更新。",
                 "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v1.2-6/TrollFools_1.2-6.tipa",
@@ -2473,12 +2500,36 @@
                 "maxOSVersion": "17.0"
               },
               {
-                "version": "1.1-4",
+                "version": "1.1",
                 "date": "2024-07-20",
                 "localizedDescription": "Initial version.",
                 "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v1.1-4/TrollFools_1.1-4.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "爱啪思道",
+          "bundleIdentifier": "wiki.qaq.Asspp",
+          "developerName": "Lakr233",
+          "subtitle": "就是有多账号支持的 App Store 辅助工具。不能替代 App Store 但是够你用了。\n开源仓库的项目已归档，不再提供任何技术支持或需求更新。如有问题，请自行解决。",
+          "localizedDescription": "就是有多账号支持的 App Store 辅助工具。不能替代 App Store 但是够你用了。\n开源仓库的项目已归档，不再提供任何技术支持或需求更新。如有问题，请自行解决。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Asspp.png",
+          "tintColor": "#448ee2",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Asspp.png"
+          ],
+          "versions": [
+              {
+                "version": "1.2",
+                "date": "2024-07-13",
+                "localizedDescription": "NO TECH SUPPORT, DO IT YOURSELF\n\nTiny Adjustment\nSource code is closed to my friends. Opened this version only.\nTo avoid trust issue, packages are provided with it's dSYM.\nYou are free to investigate or exam the binary.\n\nUPDATE PATCH-1\nAsspp.2024-7-14.23.17.xcarchive.zip was updated to address i18n issue.\nFixed English Localization\nBinary not changed",
+                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240803/Asspp_1.2.10.ipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
               }
             ],
