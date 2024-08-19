@@ -1674,6 +1674,15 @@
           ],
           "versions": [
               {
+                "version": "2.2.2",
+                "date": "2024-08-11",
+                "localizedDescription": "停止重定向所有execve调用toposixposix_spawn\n修复某些沙盒配置文件的问题\n修复了WPA2/3 Enterpise网络不工作",
+                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.2.2/Dopamine.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
                 "version": "2.2.1",
                 "date": "2024-07-31",
                 "localizedDescription": "将 Jetsam Multiplier 功能默认为 3x 乘数，该功能可以自动杀死内存使用超过指定限制的进程。当安装过多的插件或者调整时，在启动时可能会超过这个限制，导致进程崩溃循环，可通过乘数解决这个问题。",
@@ -2323,7 +2332,25 @@
           ],
           "versions": [
               {
-                "version": "2.5",
+                "version": "2.6-6",
+                "date": "2024-08-19",
+                "localizedDescription": "不再需要 “开发者模式” 以访问 iCloud 云盘中的文件。\n修复上一版本中因大小写判断错误导致部分插件注入闪退的问题。",
+                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.6-6/TrollFools14_2.6-6.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "2.5-3",
+                "date": "2024-08-18",
+                "localizedDescription": "不再需要 “开发者模式” 以访问 iCloud 云盘中的文件。",
+                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.5-3/TrollFools14_2.5-3.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "2.5-2",
                 "date": "2024-07-28",
                 "localizedDescription": "##主要更新##\n为各 App 新增高级选项：\n创建弱引用，默认打开\n优先处理主要可执行文件，默认关闭\n\n如果你不知道上述选项的含义，请不要修改。",
                 "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.5-2/TrollFools14_2.5-2.tipa",
@@ -2419,7 +2446,25 @@
           ],
           "versions": [
               {
-                "version": "2.5",
+                "version": "2.6-6",
+                "date": "2024-08-19",
+                "localizedDescription": "不再需要 “开发者模式” 以访问 iCloud 云盘中的文件。\n修复上一版本中因大小写判断错误导致部分插件注入闪退的问题。",
+                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.6-6/TrollFools_2.6-6.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "2.5-3",
+                "date": "2024-08-18",
+                "localizedDescription": "不再需要 “开发者模式” 以访问 iCloud 云盘中的文件。",
+                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.5-3/TrollFools_2.5-3.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "2.5-2",
                 "date": "2024-07-28",
                 "localizedDescription": "##主要更新##\n为各 App 新增高级选项：\n创建弱引用，默认打开\n优先处理主要可执行文件，默认关闭\n\n如果你不知道上述选项的含义，请不要修改。",
                 "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.5-2/TrollFools_2.5-2.tipa",
