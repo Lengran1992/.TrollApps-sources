@@ -1144,108 +1144,6 @@
           "appPermissions": {}
         },
         {
-          "name": "Bootstrap",
-          "bundleIdentifier": "com.roothide.Bootstrap",
-          "developerName": "roothide",
-          "subtitle": "支持 iOS 14.0 - 16.6.1 和 17.0 系统，支持安装第三方应用插件。",
-          "localizedDescription": "支持 iOS 14.0 - 16.6.1 和 17.0 系统，支持安装第三方应用插件。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Bootstrap.png",
-          "tintColor": "#d7effb",
-          "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Bootstrap.png"
-          ],
-          "versions": [
-              {
-                "version": "1.2.1",
-                "date": "2024-02-05",
-                "localizedDescription": "1.修复了越狱应用的主目录路径不正确的问题；\n2.修复了安装deb包时可能导致dpkg数据损坏的问题；\n3.更新了apt的strapfiles，并修复了apt在安装deb包时环境变量路径不正确的问题；\n4.修复了注入调整后Shortcuts/Spotlight/MobileMail无法正确工作的问题；\n5.在应用设置中添加了一个“重置移动用户密码”的按钮；\n6.将内置的Zebra更新到1.1.36-1以解决以下问题：修复了安装与llvm相关的软件包时无法正确解析依赖关系的问题；修复了安装ffmpeg时无法正确解析依赖关系的问题；修复了一些潜在的错误并提高了稳定性；\n7.将内置的Sileo更新到2.5-12，解决以下问题：修复了安装与llvm相关的软件包时无法取消下载的问题；修复了启动时可能意外删除图像缓存的问题；为已安装的软件包列表添加了下拉刷新功能；修复了一些可能导致崩溃的其他错误并提高了稳定性；\n8.修复了与Serotonin一起使用时由1.2引起的主屏幕错误和设备过热问题；\n9.修复了1.2中可能导致Sileo在某些设备上崩溃的问题；\n10.修复了启用某些应用程序调整时可能出现的代码（255）错误的问题。",
-                "downloadURL": "https://github.com/roothide/Bootstrap/releases/download/1.2.1/Bootstrap.tipa",
-                "size": 881000,
-                "minOSVersion": "14.0",
-                "maxOSVersion": "16.6.1"
-              },
-              {
-                "version": "1.1.1",
-                "date": "2024-02-01",
-                "localizedDescription": "1.修复了在为某些应用程序启用调整时，首选项设置应用程序可能被错误重定向的问题；\n2.改进本地化语言，感谢做出贡献的开发人员；\n3.清理未使用的代码。",
-                "downloadURL": "https://github.com/roothide/Bootstrap/releases/download/1.1.1/Bootstrap.tipa",
-                "size": 881000,
-                "minOSVersion": "14.0",
-                "maxOSVersion": "16.6.1"
-              },
-              {
-                "version": "1.1",
-                "date": "2024-01-22",
-                "localizedDescription": "1.修复应用程序的通知问题;\n2.修复无法加载应用程序插件的问题;\n3.优化本地化语言，感谢贡献的开发者。",
-                "downloadURL": "https://github.com/roothide/Bootstrap/releases/download/1.1/Bootstrap.tipa",
-                "size": 881000,
-                "minOSVersion": "14.0",
-                "maxOSVersion": "16.6.1"
-              },
-              {
-                "version": "1.0",
-                "date": "2024-01-18",
-                "localizedDescription": "1.合并了由@haxi0设计的swiftUI和@sourcelocation设计的图标;\n2.添加多种本地化语言，感谢贡献的开发人员;\n3.修复可能的code255错误。",
-                "downloadURL": "https://github.com/roothide/Bootstrap/releases/download/1.0/Bootstrap.tipa",
-                "size": 881000,
-                "minOSVersion": "14.0",
-                "maxOSVersion": "16.6.1"
-              }
-            ],
-          "appPermissions": {}
-        },
-        {
-          "name": "Serotonin",
-          "bundleIdentifier": "pisshill.usprebooter",
-          "developerName": "roothide",
-          "subtitle": "支持 iOS 16.0 - 16.6.1 系统，需要配合 Bootstrap 工具构建越狱后，就能安装系统级插件，但有些插件功能不生效。",
-          "localizedDescription": "支持 iOS 16.0 - 16.6.1 系统，需要配合 Bootstrap 工具构建越狱后，就能安装系统级插件，但有些插件功能不生效。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Serotonin.png",
-          "tintColor": "#ffffff",
-          "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Serotonin.png"
-          ],
-          "versions": [
-              {
-                "version": "1.2.1",
-                "date": "2024-01-17",
-                "localizedDescription": "1.修复内存占用的问题；\n2.修复漏洞选择错误的问题；\n3.修复启动元素加在错误的问题；\n4.删除未使用的代码；\n5.轻微的UI改进。",
-                "downloadURL": "https://github.com/mineek/Serotonin/releases/download/1.2.1/Serotonin.tipa",
-                "size": 881000,
-                "minOSVersion": "16.0",
-                "maxOSVersion": "16.6.1"
-              },
-              {
-                "version": "1.2.0",
-                "date": "2024-01-14",
-                "localizedDescription": "1.修复重新安装和卸载Serotonin越狱的切换；\n2.修复了引导模式的切换；\n3.添加了隐藏文本的切换，感谢Fiore/Sugiuta。",
-                "downloadURL": "https://github.com/mineek/Serotonin/releases/download/1.2.0/Serotonin.tipa",
-                "size": 881000,
-                "minOSVersion": "16.0",
-                "maxOSVersion": "16.6.1"
-              },
-              {
-                "version": "1.1.0",
-                "date": "2024-01-09",
-                "localizedDescription": "1.修复支持iOS16.0-16.1.2及iOS16.6.1;\n因为不再需要特定的偏移量，应该支持所有arm64e的设备，支持arm64的设备将在稍后发布。",
-                "downloadURL": "https://github.com/mineek/Serotonin/releases/download/1.1.0/Serotonin.tipa",
-                "size": 881000,
-                "minOSVersion": "16.0",
-                "maxOSVersion": "16.6.1"
-              },
-              {
-                "version": "1.0.1",
-                "date": "2024-01-08",
-                "localizedDescription": "1.现在支持iOS16.0-16.6.1，这要归功于haxi0和wh1te4ever's，非常感谢！\n2.支持arm64；\n3.引导方式改进，用图像代替代码，感谢AlfieCG提供图像，palera1n团队提供引导方法\n4.应用程序图标改进。",
-                "downloadURL": "https://github.com/mineek/Serotonin/releases/download/1.0.1/Serotonin.tipa",
-                "size": 881000,
-                "minOSVersion": "16.0",
-                "maxOSVersion": "16.6.1"
-              }
-            ],
-          "appPermissions": {}
-        },
-        {
           "name": "WallpaperSetter",
           "bundleIdentifier": "xyz.skitty.WallpaperSetter",
           "developerName": "Skittyblock",
@@ -1849,6 +1747,24 @@
           ],
           "versions": [
               {
+                "version": "1.22",
+                "date": "2024-09-02",
+                "localizedDescription": "主要更新\n修复 [#90](https://github.com/Lessica/TrollRecorder/issues/90)，合入 [#91](https://github.com/Lessica/TrollRecorder/pull/91)。\n修复 iPad 上的一些布局问题。\n修复了纯巨魔环境下「通过 iCloud 备份」无法正常进行的问题。\n由于将 rsync 替换为自研实现 TRSyncLite，安装包体积减少了约 2 M。",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.22-369/TRApp_1.22-369.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "1.20",
+                "date": "2024-08-27",
+                "localizedDescription": "好久不见！\n「乌龙工作室」此次为巨魔录音机带来重要里程碑更新「通过 iCloud 备份」。启用此选项后，你不再需要担心手机丢失或损坏，录音将自动随 iCloud 备份，整个过程是无感的。\n此外，此次更新也加入了对 [Dopamine (RootHide)](https://github.com/roothide/Dopamine-roothide) 隐根越狱环境的支持。\n\n更新日志\n支持隐根越狱\nTrollRecorder JB (巨魔录音机越狱版) 现已支持 Dopamine (RootHide) 隐根越狱环境。\n需注意的是，TrollRecorder JB 依然不支持 Bootstrap (RootHide) 半越狱环境，请使用 TrollRecorder (巨魔录音机)。\n\n通过 iCloud 备份\n「本地存储」新增选项「通过 iCloud 备份」。\n打开此选项后，你将能够在「文件」App ，「我的 iPhone」中找到「巨魔录音机」文件夹，并看到所有录音的原始数据。这些数据将随 iTunes 或爱思或 iCloud 备份。\n与「智能云归档」的区别\n「智能云归档」能够按月，将除本月以外月份的录音文件，以自定义导出名称的形式，导出到「iCloud 云盘」。\n「通过 iCloud 备份」则充分利用了 iOS 系统的「iCloud 备份」功能，将录音安全地备份到 iCloud 储存空间。虽然你不能在 iCloud 云盘当中直接访问它们，但是当你的 iPhone 意外丢失或损坏时，你可以通过 iCloud 恢复先前的备份，或通过其他工具下载 iCloud 上的完整备份，将录音提取出来。\n由于加入了 rsync 备份支持，安装包体积增加了约 2 M。\n",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.20-357/TRApp_1.20-357.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "1.18.1",
                 "date": "2024-07-24",
                 "localizedDescription": "💬 作者有话说\n巨魔录音机一直将「无障碍」作为开发过程中的关键环节。实现了包括「可朗读按钮」、「可朗读菜单」、「自适应字体大小」和「自适应界面样式」等易用特性。\n\n本周版本为易用性更新：\n1.优化了「旁白」使用时的焦点数量\n2.优化了部分组件的「旁白」效果\n3.为 HUD 提示弹出增加「旁白」语音\n\n巨魔录音机今后也将继续优化焦点控制等无障碍特性，希望大家能够关注残障人士的 App 开发。\n独立软件开发者生存不易，也希望大家能够支持正版软件。",
@@ -2332,6 +2248,15 @@
           ],
           "versions": [
               {
+                "version": "2.6-8",
+                "date": "2024-09-12",
+                "localizedDescription": "主要更新\n没有短版本号的应用程序现已能够在列表中显示。\n合入越南语支持。",
+                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.6-8/TrollFools14_2.6-8.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "2.6-6",
                 "date": "2024-08-19",
                 "localizedDescription": "不再需要 “开发者模式” 以访问 iCloud 云盘中的文件。\n修复上一版本中因大小写判断错误导致部分插件注入闪退的问题。",
@@ -2445,6 +2370,15 @@
               "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollFools.png"
           ],
           "versions": [
+              {
+                "version": "2.6-8",
+                "date": "2024-09-12",
+                "localizedDescription": "主要更新\n没有短版本号的应用程序现已能够在列表中显示。\n合入越南语支持。",
+                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.6-8/TrollFools_2.6-8.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
               {
                 "version": "2.6-6",
                 "date": "2024-08-19",
