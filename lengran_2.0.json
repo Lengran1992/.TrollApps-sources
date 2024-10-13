@@ -1436,6 +1436,15 @@
           ],
           "versions": [
               {
+                "version": "1.7",
+                "date": "2024-10-01",
+                "localizedDescription": "1.增加对SBC的支持\n2.App服务分离, 防止越狱环境下某些插件导致服务崩溃\n3.增加越南语",
+                "downloadURL": "https://github.com/lich4/ChargeLimiter/releases/download/1.7/ChargeLimiter_1.7.tipa",
+                "size": 881000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "1.6.1",
                 "date": "2024-07-01",
                 "localizedDescription": "1.增加对有线充电宝的支持\n2.增加阿拉伯语\n3.支持17.0界面",
@@ -1746,6 +1755,24 @@
               "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollRecorder_02.png"
           ],
           "versions": [
+              {
+                "version": "2.2",
+                "date": "2024-09-26",
+                "localizedDescription": "🎉 悬浮球现已能够在解锁前显示！\n添加了韩语（朝鲜语）支持（译者：SUB2）",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v2.2-392/TRApp_2.2-392.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
+              {
+                "version": "2.1",
+                "date": "2024-09-16",
+                "localizedDescription": "新功能\n  新增如下快捷指令动作：\n    获取录音持续时间/路径/状态\n    获取通话时长/状态\n    接听/挂断来电\n    等待接通\n    结束通话\n    通话语音播报\n\n  新增「自动化」设置，你现在可以指定，在如下事件发生时，执行快捷指令：\n    通话录音开始/结束时\n    来电时/接通/挂断时\n    去电时/接通/挂断时\n\n由于技术原因，非 CallKit 通话不会触发与通话状态相关的自动化动作。\n\n  新增「锁屏小组件」，现在你无需在主屏幕添加巨魔录音机的「桌面小组件」，只需在锁屏添加任意一种「锁屏小组件」即可。\n\n改进与优化\n  购买页新增关键功能提示\n  为新功能、推荐功能和关键功能新增角标提醒\n  在录音列表右上角筛选菜单中新增了「选择」按钮\n  支持在「开发者选项」中设置 Voice-Over 语音\n  优化部分功能的详细描述\n  优化 App 内各搜索框的响应逻辑\n  优化 Markdown 列表文本的行高\n",
+                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v2.1-390/TRApp_2.1-390.tipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              },
               {
                 "version": "1.22",
                 "date": "2024-09-02",
@@ -2248,6 +2275,15 @@
           ],
           "versions": [
               {
+                "version": "2.7-9",
+                "date": "2024-09-26",
+                "localizedDescription": "Bug Fixes\n1.Now application without a short version string will be displayed in the list.\n2.The auto-correction for the app search has been disabled.\n\nLanguages\nAdded Vietnamese.",
+                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.7-9/TrollFools14_2.7-9.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
+              {
                 "version": "2.6-8",
                 "date": "2024-09-12",
                 "localizedDescription": "主要更新\n没有短版本号的应用程序现已能够在列表中显示。\n合入越南语支持。",
@@ -2370,6 +2406,15 @@
               "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollFools.png"
           ],
           "versions": [
+              {
+                "version": "2.7-9",
+                "date": "2024-09-26",
+                "localizedDescription": "Bug Fixes\n1.Now application without a short version string will be displayed in the list.\n2.The auto-correction for the app search has been disabled.\n\nLanguages\nAdded Vietnamese.",
+                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.7-9/TrollFools_2.7-9.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              },
               {
                 "version": "2.6-8",
                 "date": "2024-09-12",
