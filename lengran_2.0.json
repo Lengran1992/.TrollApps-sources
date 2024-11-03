@@ -2591,6 +2591,84 @@
               }
             ],
           "appPermissions": {}
+        },
+        {
+          "name": "TrollFools（huami）",
+          "bundleIdentifier": "com.huami.TrollFools",
+          "developerName": "huami",
+          "subtitle": "TrollFools二改，优化体验。",
+          "localizedDescription": "TrollFools二改，优化体验。",
+          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollFools_huami.png",
+          "tintColor": "#a9cfd5",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollFools_huami.png"
+          ],
+          "versions": [
+              {
+                "version": "2.7-11",
+                "date": "2024-09-29",
+                "localizedDescription": "修复清除缓存功能导致部分软件不显示问题\n增加遗漏的翻译",
+                "downloadURL": "https://github.com/huami1314/TrollFools/releases/download/v2.7-11/TrollFools_2.7.11.huami.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "2.7-10",
+                "date": "2024-09-29",
+                "localizedDescription": "新功能：\n  1.新增长按APP选单【清除缓存】\n  2.替换掉SwiftUI原生搜索框，解决部分设备粗体文本崩溃 (无解)\n\n其他变化：\n  1.修复隔空投送deb文件时软件不显示问题\n  2.修复部分设备出现未捕获错误问题\n  3.优化文件共享判断\n  4.优化iOS14搜索框与分类排版出错\n  5.优化搜索框与分类对齐",
+                "downloadURL": "https://github.com/huami1314/TrollFools/releases/download/v2.7-10/TrollFools_2.7.10.huami.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "2.7-9",
+                "date": "2024-09-28",
+                "localizedDescription": "新功能：\n  1.调整权限：将所有软件所生成的文件统一并入沙盒目录\n  2.左上角按钮新增：清除缓存项（一键清空所有软件产生的临时文件）\n  3.支持文件导入及AirDrop直接注入：导入(dylib,deb)文件后会看到一个弹窗，选择"注入"后点击任一软件直接注入\n  4.新增了一个URLScheme可供快捷跳转【TFools://】\n\n其他变化：\n  1.同步官方仓库代码\n  2.优化部分无用代码\n  3.为本仓库功能翻译",
+                "downloadURL": "https://github.com/huami1314/TrollFools/releases/download/v2.7-9/TrollFools_2.7.9.huami.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "2.7",
+                "date": "2024-09-15",
+                "localizedDescription": "新功能：\n  1.添加分类功能（全部、用户、巨魔、系统）APP；\n  2.支持手势切换选择(左右滑动)\n\n改进：\n  新增了 iOS14 搜索框（之前忘记了）\n\n其他变化：\n  优化排序图标为圆形",
+                "downloadURL": "https://github.com/huami1314/TrollFools/releases/download/v2.7/TrollFools_2.7.huami.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "2.6-8",
+                "date": "2024-09-14",
+                "localizedDescription": "同步官方2.6-8版本更新。",
+                "downloadURL": "https://github.com/huami1314/TrollFools/releases/download/v2.6-8/TrollFools_2.6-8.huami.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "2.5-2",
+                "date": "2024-07-28",
+                "localizedDescription": "改进：\n  1.同步官方仓库更新；\n  2.支持iOS14搜索功能（技术有限，不会隐藏）",
+                "downloadURL": "https://github.com/huami1314/TrollFools/releases/download/v2.5-2_1/TrollFools_2.5-2_huami.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              },
+              {
+                "version": "2.4-3_huami",
+                "date": "2024-09-15",
+                "localizedDescription": "新增功能：\n  1.增加deb文件解析狗功能，支持gz、xz、lzma；\n  2.支持deb文件的bundle文件注入；\n  3.增加了图标修改功能。\n\n改进：\n  1.新增名称排序功能，可按A-Z或Z-A排序；\n  2.优化了代码。\n\n其他更改：\n  1.更改了应用图标，以便于与官方版本区分；\n  2.BundleID修改为com.huami.TrollFools；\n  3.版本号不与官方同步，但会同步官方功能更新。",
+                "downloadURL": "https://github.com/huami1314/TrollFools/releases/download/v2.4-3/TrollFools_2.4-3_huami.tipa",
+                "size": 331000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "16.6.1"
+              }
+            ],
+          "appPermissions": {}
         }
     ],
     "news": []
