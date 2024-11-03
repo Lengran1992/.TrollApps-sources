@@ -2625,7 +2625,7 @@
               {
                 "version": "2.7-9",
                 "date": "2024-09-28",
-                "localizedDescription": "新功能：\n  1.调整权限：将所有软件所生成的文件统一并入沙盒目录\n  2.左上角按钮新增：清除缓存项（一键清空所有软件产生的临时文件）\n  3.支持文件导入及AirDrop直接注入：导入(dylib,deb)文件后会看到一个弹窗，选择"注入"后点击任一软件直接注入\n  4.新增了一个URLScheme可供快捷跳转【TFools://】\n\n其他变化：\n  1.同步官方仓库代码\n  2.优化部分无用代码\n  3.为本仓库功能翻译",
+                "localizedDescription": "新功能：\n  1.调整权限：将所有软件所生成的文件统一并入沙盒目录\n  2.左上角按钮新增：清除缓存项（一键清空所有软件产生的临时文件）\n  3.支持文件导入及AirDrop直接注入：导入(dylib,deb)文件后会看到一个弹窗，选择注入后点击任一软件直接注入\n  4.新增了一个URLScheme可供快捷跳转【TFools://】\n\n其他变化：\n  1.同步官方仓库代码\n  2.优化部分无用代码\n  3.为本仓库功能翻译",
                 "downloadURL": "https://github.com/huami1314/TrollFools/releases/download/v2.7-9/TrollFools_2.7.9.huami.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
